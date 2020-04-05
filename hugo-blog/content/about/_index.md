@@ -1,7 +1,7 @@
 ---
 title: "Tự giới thiệu một chút"
 date: 2020-04-05T21:11:15+07:00
-draft: true
+draft: false
 ---
 
 Mình là Lương Ngọc Long - hiện đang là CTO và là co-founder của Công ty Cổ phần VeXeRe. Là nền tảng bán vé xe khách liên tỉnh lớn nhất Việt Nam phủ khắp 2600 tuyến đường, và đồng thời cung cấp giải pháp công nghệ từ web, đến mobile app cho hơn 550 nhà xe chuyển đổi từ mô hình phục vụ khách truyền thống sang mô hình mới. Gần như tất cả nhà xe ở các bến xe lớn như BX Miền Đông, BX Miền Tây, BX Giáp Bát ... đều dùng giải pháp phần mềm bán vé của VeXeRe. Đồng thời, cách đây gần 7 năm, công ty cũng may mắn được sự đầu tư và tư vấn của Shark Dũng, từ đó rất nhiều nhà đầu tư lớn và uy tín của Châu Á đã tin tưởng và đầu tư vào VeXeRe.

@@ -23,10 +23,47 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 05 Apr 2020 22:57:23 +0700</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2020 23:02:33 +0700</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://learn2code.dev/rss.xml" />
         
+        
+            <item>
+                <title>Top khóa học online chuẩn thế giới</title>
+                <link>https://learn2code.dev/posts/top-khoa-hoc-online-chuan-the-gioi/</link>
+                <guid isPermaLink="true">https://learn2code.dev/posts/top-khoa-hoc-online-chuan-the-gioi/</guid>
+                <pubDate>Sun, 05 Apr 2020 21:11:05 +0700</pubDate>
+                
+                    <author>longbkit@gmail.com (Lương Ngọc Long)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<h4 id="nhập-môn-lập-trình---khuyến-cáo-chỉ-dành-cho-dân-hardcore">Nhập môn lập trình - khuyến cáo chỉ dành cho dân hardcore</h4>
+<p>Vì sao nhập môn mà mình lại nói dành cho hardcore? Vì mặc dù rất hay và cung cấp đủ nền tảng về lập trình cho các bạn, nhưng nếu mới khởi đầu mà dây dưa vào mớ lý thuyết này không phải ai cũng theo được đâu nhé.</p>
+<h4 id="trí-tuệ-nhân-tạo-và-học-sâu-machine-learning--deep-learning">Trí tuệ nhân tạo và học sâu (Machine learning &amp; Deep learning)</h4>
+<h4 id="phân-tích-dữ-liệu-bi-data-analyst-data-engineer-data-scientist">Phân tích dữ liệu (BI, Data Analyst, Data Engineer, Data Scientist)</h4>
+<h4 id="lập-trình-web-frontend">Lập trình web frontend</h4>
+<h6 id="ngôn-ngữ-javascript">Ngôn ngữ javascript</h6>
+<h6 id="ngôn-ngữ-php">Ngôn ngữ php</h6>
+<h6 id="ngôn-ngữ-python">Ngôn ngữ python</h6>
+<h6 id="ngôn-ngữ-java">Ngôn ngữ java</h6>
+<h6 id="ngôn-ngữ-net">Ngôn ngữ .NET</h6>
+<h4 id="lập-trình-web-backend">Lập trình web backend</h4>
+<h4 id="lập-trình-di-động">Lập trình di động</h4>
+<h4 id="lập-trình-di-động-đa-nền-tảng-hybrid-mobile-application">Lập trình di động đa nền tảng (hybrid mobile application)</h4>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
