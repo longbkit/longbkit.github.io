@@ -568,11 +568,11 @@ Nếu bạn là lập trình viên, bạn sẽ rất hay làm việc với vòng
         </div>
 
         
-            <div id="disqus_thread"></div>
-        
 
         
 
+        
+            <div id="utterances"></div>
         
 
     
@@ -598,7 +598,7 @@ Nếu bạn là lập trình viên, bạn sẽ rất hay làm việc với vòng
 
 
         </div>
-        <script src="/js/meme.min.e0b30780c86edb9e823d6caee06e5cbdb18d59a0c82786b3f56f813397c39673.js" integrity="sha256-4LMHgMhu256CPWyu4G5cvbGNWaDIJ4az9W+BM5fDlnM="></script>
+        <script src="/js/meme.min.0c1030cd28ce655118cfb790ff729ae41706054d44ddced0fafe27916b850235.js" integrity="sha256-DBAwzSjOZVEYz7eQ/3Ka5BcGBU1E3c7Q+v4nkWuFAjU="></script>
 
 
     <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
@@ -622,37 +622,39 @@ Nếu bạn là lập trình viên, bạn sẽ rất hay làm việc với vòng
     
 
         
+
+        
+
+        
             <script>
     function loadComments() {
-        if (typeof DISQUS === 'undefined') {
-            var disqus_config = function() {
-                this.page.url = 'https:\/\/learn2code.dev\/posts\/10x-engineer-part-4\/';
-                this.page.identifier = '\/posts\/10x-engineer-part-4\/';
-                this.page.title = 'Sếp nhớ trả lương em gấp 10 nha (phần 4)';
-            };
-            (function() {
-                var d = document, s = d.createElement('script'); s.async = true;
-                s.src = 'https://learn2code.dev.disqus.com/embed.js';
-                s.setAttribute('data-timestamp', +new Date());
-                (d.head || d.body).appendChild(s);
-            })();
-        } else {
-            DISQUS.reset({
-                reload: true,
-                config: function() {
-                    this.page.url = 'https:\/\/learn2code.dev\/posts\/10x-engineer-part-4\/';
-                    this.page.identifier = '\/posts\/10x-engineer-part-4\/';
-                    this.page.title = 'Sếp nhớ trả lương em gấp 10 nha (phần 4)';
-                }
-            });
+        (function() {
+            var utterances = document.getElementById("utterances");
+            var script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.async = true;
+            script.crossOrigin = 'anonymous';
+            script.setAttribute('repo', 'longbkit\/longbkit.github.io');
+            script.setAttribute('issue-term', 'pathname');
+            const userPrefers = localStorage.getItem('theme');
+        const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+        const lightModeMediaQuery = window.matchMedia('(prefers-color-scheme: light)');
+        if (userPrefers === "dark") {
+            script.setAttribute('theme', 'photon-dark');
+        } else if (userPrefers === "light") {
+            script.setAttribute('theme', 'github-light');
+        } else if (darkModeMediaQuery.matches) {
+            script.setAttribute('theme', 'photon-dark');
+        } else if (lightModeMediaQuery.matches) {
+            script.setAttribute('theme', 'github-light');
         }
+            
+                script.setAttribute('label', 'utcomment');
+            
+            utterances.appendChild(script);
+        })();
     }
 </script>
-
-        
-
-        
-
         
 
     

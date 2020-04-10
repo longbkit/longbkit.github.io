@@ -626,7 +626,7 @@ uglyURLs = false
     #       has a higher priority than here
 
     ## Disqus
-    enableDisqus = true
+    enableDisqus = false
     disqusShortname = "learn2code.dev"
 
     ## Valine
@@ -649,12 +649,12 @@ uglyURLs = false
     # Note: https://valine.js.org/
 
     ## Utterances
-    enableUtterances = false
-    utterancesRepo = ""
+    enableUtterances = true
+    utterancesRepo = "longbkit/longbkit.github.io"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
     utterancesThemeDark = "photon-dark"
-    utterancesLabel = ""
+    utterancesLabel = "utcomment"
     # Note: https://utteranc.es/
 
 
