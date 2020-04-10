@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+    <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+    <meta charset="UTF-8" />
+
+    <meta name="generator" content="Hugo 0.68.3" /><meta name="theme-color" content="#fff" />
+        <script>
+            const userPrefers = localStorage.getItem('theme');
+            const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+            const lightModeMediaQuery = window.matchMedia('(prefers-color-scheme: light)');
+            if (userPrefers === 'dark') {
+                changeModeMeta('dark');
+            } else if (userPrefers === 'light') {
+                changeModeMeta('light');
+            } else if (darkModeMediaQuery.matches) {
+                changeModeMeta('dark');
+            } else if (lightModeMediaQuery.matches) {
+                changeModeMeta('light');
+            }
+            function changeModeMeta(theme) {
+                document.documentElement.setAttribute('data-theme', theme);
+                if (theme === 'dark') {
+                    changeThemeColor('#16171d');
+                } else {
+                    changeThemeColor('#fff');
+                }
+            }
+            function changeThemeColor(themeColor) {
+                document.querySelector('meta[name="theme-color"]').setAttribute('content', themeColor);
+            }
+        </script>
+
+    
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
+    
+    <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
+    
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+
+    <title>Sếp nhớ trả lương em gấp 10 nha (phần 5) | LEARN2CODE</title>
+
+    <link rel="stylesheet" href="/css/meme.min.b385194154de5e91fbdec7858cfee3db0558842032dcee5a06d399e8c7875c25.css" integrity="sha256-s4UZQVTeXpH73seFjP7j2wVYhCAy3O5aBtOZ6MeHXCU=" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" media="print" onload="this.media='all'" />
+        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" /></noscript>
+
+    <meta name="author" content="Lương Ngọc Long" />
+    <meta name="description" content="Focus and deep work là gì và phương pháp rèn luyện kỹ năng Như đã hứa ở phần 1, phần 5 này mình sẽ dành để chia sẻ sâu hơn về kỹ năng kinh khủng nhất của một kỹ sư CNTT, đó là focus như tia laser và output như mùa lũ về." />
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#2a6df4" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="LEARN2CODE" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="application-name" content="LEARN2CODE" />
+    <meta name="msapplication-starturl" content="../../" />
+    <meta name="msapplication-TileColor" content="#fff" />
+    <meta name="msapplication-TileImage" content="../../icons/mstile-150x150.png" />
+    <link rel="manifest" href="/manifest.json" />
+
+    
+    
+
+    
+    <link rel="canonical" href="https://learn2code.dev/posts/10x-engineer-part-5/" />
+
+
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "datePublished": "2020-03-25T21:11:05+07:00",
+        "dateModified": "2020-04-10T13:56:23+07:00",
+        "url": "https://learn2code.dev/posts/10x-engineer-part-5/",
+        "headline": "Sếp nhớ trả lương em gấp 10 nha (phần 5)",
+        "description": "Focus and deep work là gì và phương pháp rèn luyện kỹ năng Như đã hứa ở phần 1, phần 5 này mình sẽ dành để chia sẻ sâu hơn về kỹ năng kinh khủng nhất của một kỹ sư CNTT, đó là focus như tia laser và output như mùa lũ về.",
+        "inLanguage" : "en",
+        "articleSection": "posts",
+        "wordCount":  3430 ,
+        "image": ["https://learn2code.dev/img/10x-tentris.gif","https://learn2code.dev/img/10x-focus-light.jpg","https://learn2code.dev/img/10x-paplop.jpg","https://learn2code.dev/img/10x-pomodoro.png","https://learn2code.dev/img/10x-meditation-google.jpg","https://learn2code.dev/img/10x-top-frameworks.png"],
+        "author": {
+            "@type": "Person",
+            "description": "Mỗi ngày tốt hơn 1%",
+            "email": "longbkit@gmail.com",
+            "image": "https://learn2code.dev/icons/apple-touch-icon.png",
+            "url": "https://learn2code.dev/",
+            "name": "Lương Ngọc Long"
+        },
+        "license": "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)",
+        "publisher": {
+            "@type": "Organization",
+            "name": "LEARN2CODE",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://learn2code.dev/icons/apple-touch-icon.png"
+            },
+            "url": "https://learn2code.dev/"
+        },
+        "mainEntityOfPage": {
+            "@type": "WebSite",
+            "@id": "https://learn2code.dev/"
+        }
+    }
+</script>
+
+    
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+
+
+<meta name="twitter:site" content="@reuixiy" />
+<meta name="twitter:creator" content="@longbkit" />
+
+    
+
+
+
+
+
+<meta property="og:title" content="Sếp nhớ trả lương em gấp 10 nha (phần 5)" />
+<meta property="og:description" content="Focus and deep work là gì và phương pháp rèn luyện kỹ năng Như đã hứa ở phần 1, phần 5 này mình sẽ dành để chia sẻ sâu hơn về kỹ năng kinh khủng nhất của một kỹ sư CNTT, đó là focus như tia laser và output như mùa lũ về." />
+<meta property="og:url" content="https://learn2code.dev/posts/10x-engineer-part-5/" />
+<meta property="og:site_name" content="LEARN2CODE" />
+<meta property="og:locale" content="en" /><meta property="og:image" content="https://learn2code.dev/img/10x-tentris.gif" />
+<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2020-03-25T21:11:05+07:00" />
+    <meta property="article:modified_time" content="2020-04-10T13:56:23+07:00" />
+    
+    <meta property="article:section" content="posts" />
+
+
+        <link rel="preconnect" href="https://www.google-analytics.com" crossorigin />
+
+        
+
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6S26M694B7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-6S26M694B7');
+    </script>
+
+
+
+
+    
+</head>
+
+    <body>
+        <div class="container">
+            
+    <header class="header" data-scroll-header>
+        
+            <div class="header-wrapper">
+                <div class="header-inner">
+                    
+    <div class="site-brand">
+        
+            <a href="/" class="brand">LEARN2CODE</a>
+        
+    </div>
+
+                    <nav class="nav">
+    <ul class="menu" id="menu">
+        
+            
+        
+        
+        
+        
+            
+                <li class="menu-item"><a href="/posts/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon "><path d="M32 448c0 17.7 14.3 32 32 32h384c17.7 0 32-14.3 32-32V160H32v288zm160-212c0-6.6 5.4-12 12-12h104c6.6 0 12 5.4 12 12v8c0 6.6-5.4 12-12 12H204c-6.6 0-12-5.4-12-12v-8zM480 32H32C14.3 32 0 46.3 0 64v48c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16V64c0-17.7-14.3-32-32-32z"/></svg><span class="menu-item-name">Bài viết</span></a>
+                </li>
+            
+        
+            
+                <li class="menu-item"><a href="/categories/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon "><path d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"/></svg><span class="menu-item-name">Chủ đề</span></a>
+                </li>
+            
+        
+            
+                <li class="menu-item"><a href="/tags/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="icon "><path d="M497.941 225.941L286.059 14.059A48 48 0 0 0 252.118 0H48C21.49 0 0 21.49 0 48v204.118a48 48 0 0 0 14.059 33.941l211.882 211.882c18.744 18.745 49.136 18.746 67.882 0l204.118-204.118c18.745-18.745 18.745-49.137 0-67.882zM112 160c-26.51 0-48-21.49-48-48s21.49-48 48-48 48 21.49 48 48-21.49 48-48 48zm513.941 133.823L421.823 497.941c-18.745 18.745-49.137 18.745-67.882 0l-.36-.36L527.64 323.522c16.999-16.999 26.36-39.6 26.36-63.64s-9.362-46.641-26.36-63.64L331.397 0h48.721a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882z"/></svg><span class="menu-item-name">Tags</span></a>
+                </li>
+            
+        
+            
+                <li class="menu-item"><a href="/about/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" class="icon "><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"/></svg><span class="menu-item-name">Tự nói về mình</span></a>
+                </li>
+            
+        
+            
+                
+                    <li class="menu-item">
+                        
+    
+        
+            
+        
+        <div id="theme-switcher">🌞</div>
+    
+
+
+                    </li>
+                
+            
+        
+            
+                
+            
+        
+    </ul>
+</nav>
+
+                </div>
+            </div>
+            
+    <input type="checkbox" id="nav-toggle" aria-hidden="true" />
+    <label for="nav-toggle" class="nav-toggle"></label>
+    <label for="nav-toggle" class="nav-curtain"></label>
+
+
+        
+    </header>
+
+
+
+
+            
+            
+    <main class="main single" id="main">
+    <div class="main-inner">
+
+        <article class="content post" data-small-caps="true" data-type="posts" data-toc-num="true">
+
+            <h1 class="post-title">Sếp nhớ trả lương em gấp 10 nha (phần 5)</h1>
+
+            
+
+            
+                
+            
+
+            
+                
+
+<div class="post-meta">
+    
+        
+        <time datetime="2020-03-25T21:11:05+07:00" class="post-meta-item published"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"/></svg>&nbsp;2020.3.25</time>
+    
+    
+        
+        <time datetime="2020-04-10T13:56:23+07:00" class="post-meta-item modified"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M400 64h-48V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H160V12c0-6.627-5.373-12-12-12h-40c-6.627 0-12 5.373-12 12v52H48C21.49 64 0 85.49 0 112v352c0 26.51 21.49 48 48 48h352c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm-6 400H54a6 6 0 0 1-6-6V160h352v298a6 6 0 0 1-6 6zm-52.849-200.65L198.842 404.519c-4.705 4.667-12.303 4.637-16.971-.068l-75.091-75.699c-4.667-4.705-4.637-12.303.068-16.971l22.719-22.536c4.705-4.667 12.303-4.637 16.97.069l44.104 44.461 111.072-110.181c4.705-4.667 12.303-4.637 16.971.068l22.536 22.718c4.667 4.705 4.636 12.303-.069 16.97z"/></svg>&nbsp;2020.4.10</time>
+    
+    
+    
+        
+        
+        
+            
+        
+    
+    
+        
+        <span class="post-meta-item wordcount"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon post-meta-icon"><path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/></svg>&nbsp;3430</span>
+    
+    
+        
+        <span class="post-meta-item reading-time"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon post-meta-icon"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"/></svg>&nbsp;17&nbsp;mins</span>
+    
+    
+</div>
+            
+
+            <div class="post-body"><h1 id="focus-and-deep-work-là-gì-và-phương-pháp-rèn-luyện-kỹ-năng"><a href="#focus-and-deep-work-là-gì-và-phương-pháp-rèn-luyện-kỹ-năng" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"/></svg></a>Focus and deep work là gì và phương pháp rèn luyện kỹ năng</h1>
+<p style="text-indent:0"><span class="drop-cap">N</span>hư đã hứa ở phần 1, phần 5 này mình sẽ dành để chia sẻ sâu hơn về kỹ năng kinh khủng nhất của một kỹ sư CNTT, đó là focus như tia laser và output như mùa lũ về.</p>
+<p>Bạn có thể xem lại các phần trước tại đây:</p>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-1/" target="_blank" rel="noopener">Sếp nhớ trả lương em gấp 10 nha (phần 1)</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-2/" target="_blank" rel="noopener">Sếp nhớ trả lương em gấp 10 nha (phần 2)</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-3/" target="_blank" rel="noopener">Sếp nhớ trả lương em gấp 10 nha (phần 3)</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-4/" target="_blank" rel="noopener">Sếp nhớ trả lương em gấp 10 nha (phần 4)</a></p>
+</blockquote>
+<p>Cảm hứng để mình viết và talk về chủ đề này là khi may mắn được đọc cuốn sách Deep Work của Cal Newport, mặc dù khái niệm và tầm quan trọng của sự tập trung mình đã có cơ duyên tiếp cận từ trước đó nhiều năm, khi mình có duyên được làm việc chung với một anh bạn khác. Anh bạn này thú vị ở chỗ, anh ta đã tự xây dựng được một skill kinh khủng, có thể master được một vấn đề phức tạp và hoàn toàn hóc búa chỉ trong một thời gian ngắn tính bằng vài ngày hoặc vài tuần tùy theo vấn đề. Master vấn đề ở một cấp độ mà nhiều người mất đến cả vài năm vẫn không thể đạt được tới trình độ đó. Vì sao lại như vậy? Mình tóm lại một số cách ứng phó với vấn đề của anh bạn ấy.</p>
+<h5 id="1-đeo-bám-vấn-đề-gian-nan-không-hề-nản"><a href="#1-đeo-bám-vấn-đề-gian-nan-không-hề-nản" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"/></svg></a>1. Đeo bám vấn đề, gian nan không hề nản</h5>
+<p>Điều này theo mình nhận xét là không dễ chút nào, vì đứng trước khó khăn nếu bạn thực sự &ldquo;gian nan không hề nản&rdquo;, thì hiện tại chắc bạn đã khá là thành công rồi. Đây là một tính cách rất rõ thể hiện ở những người thành công. Các tỉ phú tỉ đô trên thế giới không ít lần thất bại trắng tay, và lại đi lên từ đó, Jack Ma hay Elon Musk đều là những minh chứng sống cho sự đi lên từ gian khó.</p>
+<p>Khi nhìn vào cách người bạn của mình đối diện với vấn đề, mình thấy một sự tò mò, một khao khát vượt lên thách thức rất mạnh mẽ từ bên trong, thỉnh thoảng cả sự hiếu thắng và mong muốn chứng tỏ bản thân của mình. Tất cả những điều đó khiến người bạn ấy xoay vần với vấn đề sáng đến tối, ngày này qua ngày khác mà không thấy chán nản hay muốn từ bỏ.</p>
+<p>Còn bạn thì sao? Nếu bạn chưa xây dựng được tính cách này, dưới đây là một số bí kíp dành cho bạn</p>
+<ul>
+<li>Sống chung với vấn đề thay vì cảm thấy khó chịu với vấn đề</li>
+</ul>
+<p>Bạn có thể thử hình dung ra nhiều góc nhìn, coi vấn đề là con mồi và bạn là thợ săn, hay coi vấn đề là thử thách và bạn là người đi vượt thử thách, hoặc coi vấn đề là bạn bè và sống chan hòa với nó. Thay đổi tư tưởng như vậy, bạn sẽ thấy nhẹ nhàng hơn và duy trì thái độ tích cực khi đối diện với vấn đề hơn. Xét cho cùng, cuộc sống không phải đáng sống hơn vì những thử thách bất ngờ hay sao?</p>
+<ul>
+<li>Biết tận dụng cảm giác khó chịu và tức giận khi đối diện với vấn đề</li>
+</ul>
+<p>Không ít bạn có cảm giác khó chịu và tức giận khi đối diện với vấn đề, với những trường hợp này, hãy chủ động dùng cảm giác đó để đối diện với vấn đề mạnh mẽ hơn. Sự tức giận cũng có những năng lượng tích cực rất tốt, nó mang năng lượng của hành động. Hãy dùng năng lượng hành động để giải quyết vấn đề. Tuy nhiên, luôn tỉnh táo để không bị các cảm giác đó lấn át bạn, nếu không bạn sẽ rơi vào tình trạng quá tải, và cảm giác nóng vội giải quyết vấn đề sẽ khiến bạn dễ nản đấy.</p>
+<ul>
+<li>Biết lựa chọn thử thách cho mình</li>
+</ul>
+<p>Thử thách thì luôn nhiều, và bạn luôn có quyền lựa chọn, trường hợp này bạn có thể lựa chọn độ khó của thử thách.
+Lần cuối bạn chơi game là lúc nào, bạn có nhớ các trò chơi được thiết kế như thế nào không?</p>
+<p><img src="/img/10x-tentris.gif" alt="xep gach"></p>
+<p>Bạn còn nhớ trò chơi xếp gạch huyền thoại chứ? Lúc bạn bắt đầu trò chơi, độ khó bạn phải đối diện là thế nào? Có phải đi từ cấp độ rất dễ, bạn vượt qua nó, bạn thấy hứng thú, rồi độ khó tăng dần, bạn vượt qua nó, lại thấy hứng thú hơn không? Có bao giờ bạn gặp một vài trường hợp quá khó và bạn đã dừng chơi chưa?</p>
+<p>Những người thiết kế trò chơi đã làm rất tốt trong việc tăng dần độ khó của trò chơi, khiến người chơi bị kích thích với những cảm giác vượt qua thử thách đó. Mỗi cấp độ về sau đều luôn khó hơn một chút cấp độ trước, nhưng không được quá khó, vì quá khó sẽ gây nản và sẽ không còn ai chơi nữa.</p>
+<p>Vậy, áp dụng nguyên lý trò chơi vào, bạn cần hiểu rõ năng lực của bạn hiện tại có đủ để giải quyết vấn đề chưa, nếu chưa, hãy chủ động hạ độ khó xuống một cấp độ, hoặc hạ nữa, tới khi bạn thấy đủ tự tin.</p>
+<p>Cũng trong nguyên lý trò chơi, nếu bạn là một người chơi hardcore ở level 10, ai đó cho bạn chơi ở level 1 bạn sẽ thấy thế nào? Lại nản tiếp, vì quá dễ và không xứng tầm với level hiện tại của bạn. Nên luôn lưu ý điểm này, quá khó hay quá dễ đều tạo nên vấn đề bạn nhé.</p>
+<p>Bạn nào quan tâm sâu hơn về góc độ này, có thể tìm hiểu thêm các bài viết nói về flow, và đây cũng là một chủ đề rất thú vị xứng đáng được đào sâu trong một bài viết khác.</p>
+<ul>
+<li>Quan sát và lựa chọn phản ứng</li>
+</ul>
+<p>Công cụ này mới là công cụ đáng gờm nhất. Thay vì coi bạn là cảm xúc chán nản, khi khó quá mình thấy chán và mình bỏ luôn. Hãy hít một hơi thật sâu, quan sát diễn biến của từng bộ phận trong cơ thể, quan sát cơ thể đang chán thế nào, nặng nề ở đâu, hãy thở ra và để cho sự chán nản đi theo hơi thở đó một cách tự nhiên không gượng ép.</p>
+<p>Hãy nhớ, bạn có thể ở trong nhà, nhưng bạn không phải là ngôi nhà. Tương tự như vậy, cơ thể cũng là nhà của bạn, nhưng bạn không phải là cơ thể. Bất cứ lúc nào bạn đều có thể dừng lại, hít thở, và quan sát. Tập quan sát một thời gian, bạn sẽ nhận ra mình có quyền lựa chọn phản ứng trước những nghịch cảnh. Đây chính là điểm chuyển hóa của bạn, là nền tảng để rất nhiều thành công sẽ kéo theo về sau.
+Một người có trí thông minh cảm xúc cao sẽ sử dụng kỹ thuật này rất nhuần nhuyễn, họ luôn làm chủ cảm xúc của mình và điều khiển nó để phục vụ cho mục đích của họ.</p>
+<p>Chuyên sâu hơn của phần này, có rất nhiều bằng chứng khoa học, các phong trào của các công ty lớn như Google đã vận động, và khuyến khích các nhân viên tập thiền. Vì thiền sẽ giúp bạn rất nhiều trong việc quan sát và lựa chọn phản ứng này. Hẹn các bạn trong một bài viết khác mình sẽ phân tích sâu hơn nhé.</p>
+<h5 id="2-debug-debug-và-debug"><a href="#2-debug-debug-và-debug" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"/></svg></a>2. Debug, debug và debug</h5>
+<p>Anh bạn mình đang nói đến, có một thói quen khi đọc code của người khác rất thú vị, đó là debug. Chạy qua từng câu lệnh, coi từng giá trị của từng biến, chạy đi chạy lại với nhiều input khác nhau để từ đó phân tích và hiểu sâu đoạn code đang đọc. Từ đó, anh bạn ấy có thể tự tin chỉnh sửa, nâng cấp lại đoạn code của người khác viết lên chất lượng cao hơn một cách hoàn toàn tự tin.</p>
+<p>Đã bao lần bạn đọc một đoạn code người khác viết, dài ngoằng và thấy nản không muốn đọc?
+Bằng cách chạy qua từng bước trong quá trình debug, bạn đã chia nhỏ vấn đề, và chọn đối diện vấn đề ở cấp độ thử thách thấp hơn. Từ đó, bạn vượt qua những cấp độ thử thách nhỏ đó, và dần tiến tới thử thách toàn cục của vấn đề, bạn cũng sẽ vượt qua nó.</p>
+<p>Đối với lập trình viên mà nói, kỹỹ năng debug là kỹ năng tối quan trọng, ngay cả khi đọc code hay viết code của chính mình. Và debug ở đây có rất nhiều cấp độ và kỹ thuật nhé các bạn:</p>
+<ul>
+<li>Debug ở level code ứng dụng</li>
+<li>Debug ở level database</li>
+<li>Debug ở level network</li>
+<li>Debug ở môi trường giả lập, môi trường highload, &hellip; vì phần mềm có thể sẽ chạy khác ở các môi trường khác nhau</li>
+<li>Debug bằng console log</li>
+<li>Debug bằng cách sử dụng breakpoints &hellip;</li>
+</ul>
+<p>Gốc của mình là dân lập trình firmware, hay cả FPGA, nên kỹ thuật debug là tối quan trọng. Và mình sẽ hẹn một bài viết chuyên sâu hơn để chia sẻ thêm về các kỹ thuật debug khi lập trình.</p>
+<h5 id="3-focus-focus-và-focus"><a href="#3-focus-focus-và-focus" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"/></svg></a>3. Focus, focus và focus</h5>
+<p><img src="/img/10x-focus-light.jpg" alt="focus light"><span class="caption">◎ Thấu kính hội tụ đốt cháy giấy</span></p>
+<p>Các bạn còn nhớ thí nghiệm hồi học phổ thông chứ? Cùng là ánh sáng ấy, nhưng qua thấu kính hội tụ đã có một năng lượng rất lớn, có thể đốt cháy cả tờ giấy.
+Hoặc như tia laser, có phải có thể dùng để cắt những vật cứng nhất như kim cương hay không? Mật độ tập trung của photon là rất cao và cường độ được khuyếch đại nhiều lần trong 1 tia rất nhỏ có thể mang đến sức mạnh phi thường.</p>
+<p>Trong một nghiên cứu của các nhà khoa học, mỗi ngày, trung bình bộ não con người sản sinh ra tầm 70.000 ý nghĩ, tương đương với cứ mỗi 1.25 giây sẽ có một suy nghĩ được tạo ra. Vậy tính ra nếu mọi suy nghĩ đều là quý giá, chắc hẳn hầu như mọi người đều sẽ rất thành công và viên mãn.
+Sự thật thì lại khác hẳn, phần trong những suy nghĩ ấy chỉ là rác, không mang lại lợi ích gì, và nếu không điều khiển được phần tâm trí này, những lúc bạn cần tập trung để suy nghĩ cũng sẽ rất khó, dẫn đến rất nhiều suy nghĩ nhưng không nghĩ được gì.</p>
+<p>Một số người có được sự tập trung này từ bản năng, hoặc do lối sống sinh hoạt từ nhỏ vô tình đi theo lộ trình rèn luyện sự tập trung của tâm trí rất tốt. Nhưng rất nhiều người thì hoàn toàn ngược lại. Bạn có thể thấy thanh thiếu niên đến tuổi dậy thì thường dễ bị xao nhãng nhất, do có nhiều mối quan tâm và tò mò mới, thu hút hơn những mối quan tâm khác mà đáng lẽ các em nên dành một sự tập trung đáng kể cho nó như học tập, phát triển bản thân, phát triển mối quan hệ gia đình và bạn bè, tìm hiểu về bản thân và định hướng bản thân.</p>
+<p>Nếu như bạn là một trong số đó, tin vui là chúng ta có thể đảo ngược quá trình, còn gọi là tiến trình sửa chữa não ^^ Dưới đây là một số phương pháp mình đúc rút được qua nhiều năm luyện tập và nghiên cứu về các phương pháp tập trung.</p>
+<ol>
+<li>Sắp xếp môi trường xung quanh để tạo điều kiện tối đa cho sự tập trung bên trong</li>
+</ol>
+<p>Hãy tưởng tượng, bạn đang ngồi học bài, mà thỉnh thoảng điện thoại reo, tin nhắn đến, bạn bè mời gọi, bạn có tập trung học được không?</p>
+<p>Vậy bí quyết đầu tiên, hết sức đơn giản nhưng lại cần sự quyết tâm từ bạn. Và hơn ai hết, bạn là người lựa chọn tương lai của mình, hoàn toàn chịu trách nhiệm cho tương lai của mình.</p>
+<ul>
+<li>
+<p>Khi muốn tập trung, hãy chọn một góc ngồi khác với góc ngồi chơi hay nghe nhạc, hay ngủ. Khi tạo được thói quen này, bộ não sẽ cũng có những phản ứng sinh lý tương thích, và khi ngồi vào đúng chỗ đó thì cơ thể ngay lập tức đi vào chế độ tập trung học tập / làm việc
+<img src="/img/10x-paplop.jpg" alt="paplop"><span class="caption">◎ Ảnh minh họa vui về phản xạ sinh học</span></p>
+</li>
+<li>
+<p>Đưa mọi thiết bị có khả năng gây xao nhãng vào chế độ im lặng, điện thoại vào chế độ im lặng, điện thoại bây giờ có chế độ im lặng trong vòng 1 tiếng, 2 tiếng, &hellip; sau thời gian đó tự động về chế độ bình thường rất tiện. Bạn có thể tưởng tượng đang tập trung mà tin nhắn facebook hay zalo cứ tin tin thì sẽ thế nào rồi đấy. Đôi khi, chỉ cần tắt đi 20 phút, bạn sẽ thấy 20 phút tập trung có hiệu quả bằng hàng giờ vừa ngồi làm việc vừa chat.</p>
+</li>
+<li>
+<p>Nếu bạn làm việc trên máy tính, các hệ điều hành đều có khái niệm màn hình ảo (Virtual Desktop), hãy sắp xếp các cửa sổ làm việc liên quan đến một chủ đề bạn đang theo đuổi vào từng màn hình ảo đó, để mỗi thời điểm làm trên một vấn đề thôi, trong lúc làm việc thì chuyển hết tất cả notification sang chế độ Do not disturb. Hoặc tốt hơn nữa, hãy tạo account riêng cho công việc và thư giãn. Các trò chơi chỉ cài đặt ở tài khoản dành cho việc giải trí, từ đó lúc đang làm việc bạn ít có động lực chuyển đổi qua các trò chơi hơn, từ đó dễ tập trung hơn nhiều.</p>
+</li>
+</ul>
+<ol start="2">
+<li>Chuẩn bị cho sự tập trung từ bên trong</li>
+</ol>
+<ul>
+<li>
+<p>Giờ nào làm việc ấy, vẫn là nguyên lý sinh học. Bạn tạo ra các phản xạ có điều kiện, đúng giờ là đi ngủ, đúng giờ là làm việc, đúng giờ thì giải trí và đúng giờ thì ăn. Lúc này cơ thể của bạn sẽ tiết ra các hóc môn tối ưu nhất cho mọi việc bạn làm. Quá tuyệt vời đúng không? Bạn có thể thử duy trì trong vòng 1 tuần và thử xem thay đổi diễn ra như thế nào, rồi cùng chia sẻ nhé</p>
+</li>
+<li>
+<p>Một số phương pháp khoa học khác nhiều người áp dụng khá thành công như Pomodoro. Lấy tên theo quả đồng hồ hình quả cà chua, phương pháp này chia thời gian trong ngày ra nhiều block nhỏ, mỗi block tầm 25 phút, mỗi 25 phút bạn xét mục tiêu của mình hoàn thành một việc nào đó, hết 25 phút tự thưởng cho mình 5 phút nghỉ ngơi, rồi lại tiếp tục như thế. Tất nhiên bất cứ công việc nào bạn đều có thể thử chia nhỏ ra từng block nhỏ như vậy. Mình đã thử áp dụng và rất thành công, và có thể dùng app trên điện thoại đấy, còn bạn thì sao?</p>
+</li>
+</ul>
+<p><img src="/img/10x-pomodoro.png" alt="pomodoro"><span class="caption">◎ Chiếc đồng hồ quả cà chua huyền thoại</span></p>
+<ul>
+<li>Cuối cùng, một công cụ đang là xu thế của rất nhiều người và nhiều công ty lớn trên thế giới như Google đã khuyến khích cho nhân viên có điều kiện tối đa, đó là thiền. Thiền chính là tập trung liên tục vào một đối tượng nào đó một cách thoải mái không cố gắng. Một người thực hành thiền trong thời gian dài, có thể áp dụng cùng kỹ thuật thiền vào trong mọi mặt đời sống như công việc, giao tiếp, chỉ cần thay đổi đối tượng thiền là sẽ phát huy tác dụng. Ví dụ trong công việc, đối tượng của sự tập trung của bạn sẽ là vấn đề và công việc bạn đang giải quyết, trong học tập sẽ là môn học hay vấn đề bạn đang học, trong giao tiếp thì đối tượng của sự tập trung sẽ là người nói và lời nói của người đối diện - lúc này bạn lắng nghe sâu và không bỏ sót, không phán xét - là những điều kiện tiên quyết để có một giao tiếp sâu và thấu hiểu.</li>
+</ul>
+<p><img src="/img/10x-meditation-google.jpg" alt="meditation"><span class="caption">◎ Nhân viên Google đang tập thiền</span></p>
+<p>Riêng với mình, do cơ duyên tiếp xúc với một khóa học online về chủ đề hạnh phúc, đã tiếp cận tới thiền theo cách không thể đơn giản hơn. Mỗi ngày chỉ cần dành 10 phút, vào bất cứ khoảng thời gian nào để thử quan sát suy nghĩ, hoặc có thể quan sát cơ thể, hoặc quan sát hơi thở. Vì 10 phút quá đơn giản nên mình đã làm theo được và duy trì mỗi ngày. Chỉ trong vòng 2 tuần sau đó, cuộc sống của mình như sang trang, lúc ngồi làm việc bất cứ lúc nào suy nghĩ đi lan man đều dễ dàng phát hiện và nhẹ nhàng kéo sự tập trung quay trở lại công việc.</p>
+<p>Mình tin rằng, sếp của bạn hoàn toàn hiểu tầm quan trọng của việc tập trung. Do đó nếu bạn cũng tập thiền đều đặn, đừng ngần ngại báo cho sếp biết nhé.</p>
+<h1 id="tầm-quan-trọng-của-sự-tập-trung-và-làm-việc-chuyên-sâu-với-ngành-công-nghệ"><a href="#tầm-quan-trọng-của-sự-tập-trung-và-làm-việc-chuyên-sâu-với-ngành-công-nghệ" class="anchor-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon anchor-icon"><path d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"/></svg></a>Tầm quan trọng của sự tập trung và làm việc chuyên sâu với ngành công nghệ</h1>
+<p>Mình vừa tổng hợp các bí kíp để rèn luyện sự tập trung, một kỹ năng tối quan trọng của một người kỹ sư. Vì sao lại vậy? Hơn bất cứ ngành nghề nào khác, ngành công nghệ có tốc độ thay đổi chóng mặt, kiến thức mới ra liên tục, hàng triệu người nghiên cứu và public các bài báo khoa học mỗi năm, hàng triệu người publish các dòng code trên github mỗi năm, với hàng tỉ dòng code. Hàng chục framework và thư viện mới cho bất cứ ngôn ngữ lập trình nào mà bạn chọn. Vậy nếu vẫn dùng cách thông thường đối diện với sự bất thường này, bạn nghĩ có được không?
+Qua quá trình tiếp xúc với nhiều bạn kỹ sư đồng nghiệp mà mình cho là xứng đáng nhận danh hiệu 10x engineer, mình thấy rất rõ những thói quen và đặc điểm tính cách mà họ xây dựng được. Một trong số đó chính là khả năng tập trung nghiên cứu một vấn đề mới, một framework mới, một ngôn ngữ mới trong thời gian rất ngắn. Họ có thể chỉ mất vài giờ để thử nghiệm một ngôn ngữ và framework mới, nắm được khái niệm căn bản của framework, lý do framework ra đời, kiến trúc của framework, các thành phần của nó, cũng như khi nào thì nên sử dụng nó.</p>
+<p><img src="/img/10x-top-frameworks.png" alt="frameworks"><span class="caption">◎ Rất rất nhiều framework như thế này mỗi năm</span></p>
+<p>Nếu bạn không đủ sự tập trung cho từng công nghệ mới, bạn sẽ mất nhiều năm để tìm hiểu một công nghệ duy nhất, do đó bạn sẽ mất rất nhiều cơ hội vì không biết được những công nghệ khác hay như thế nào, cũng như lúc bạn làm chủ được công nghệ đấy thì lúc công nghệ cũng lỗi thời rồi, hoặc rất nhiều người khác đã vượt qua bạn trước đó. Còn nếu có đủ sự tập trung, thời gian chỉ tính bằng giờ hoặc ngày. Và quan trọng hơn hết, một người đã xây cho mình thói quen tập trung và đi sâu vào công nghệ rồi, thì sẽ tới thời điểm các bạn như <code>ve sầu thoát xác</code>, bạn không còn nhận ra mình nữa vì tầm nhận thức lên một tầm cao mới, cũng như khi tích lũy đủ kiến thức về các loại framework rồi, bạn dễ dàng học framework mới dễ như trở bàn tay. Điều này cũng giống như một người thợ sửa xe máy lành nghề, bạn có đưa bất cứ chiếc xe hỏng hỏng nào, cho dù công nghệ có thay đổi họ cũng nhanh chóng phát hiện ra vấn đề và sửa được ngay.</p>
+<p>Bài cũng khá dài rồi, mình xin tạm kết thúc chủ đề ở đây, nếu các bạn quan tâm tiếp ở cấp độ chuyên sâu hơn nữa làm sao để luyện tập các kỹ năng vừa nói ở trên, đừng ngần ngại để lại comment bên dưới nhé.</p>
+</div>
+
+        </article>
+
+        
+
+        
+    
+    
+    
+        <ul class="post-copyright">
+            <li class="copyright-item author"><span class="copyright-item-text">Author</span>: <a href="https://learn2code.dev/" target="_blank" rel="noopener">Lương Ngọc Long</a></li>
+            
+                
+                
+                
+                
+                <li class="copyright-item link"><span class="copyright-item-text">Link</span>: <a href="/posts/10x-engineer-part-5/" target="_blank" rel="noopener">https://learn2code.dev/posts/10x-engineer-part-5/</a></li>
+            
+            <li class="copyright-item license"><span class="copyright-item-text">License</span>: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a></li>
+            
+        </ul>
+    
+
+
+
+        
+    <div class="updated-badge-container"><div title="Updated @ 2020-04-10 13:56:23 +07" style="cursor:help;display:inline-block">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="20" class="updated-badge"><linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="a"><rect width="130" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#a)"><path class="updated-badge-left" d="M0 0h55v20H0z"/><path class="updated-badge-right" d="M55 0h75v20H55z"/><path fill="url(#b)" d="M0 0h130v20H0z"/></g><g fill="#fff" text-anchor="middle" font-size="110"><text x="285" y="150" fill="#010101" fill-opacity=".3" textLength="450" transform="scale(.1)">updated</text><text x="285" y="140" textLength="450" transform="scale(.1)">updated</text><text x="915" y="150" fill="#010101" fill-opacity=".3" textLength="650" transform="scale(.1)">2020-04-10</text><text x="915" y="140" textLength="650" transform="scale(.1)">2020-04-10</text></g></svg></div></div>
+
+
+        
+
+        
+
+<div class="post-share">
+
+        
+
+        <div class="share-items">
+
+            
+                
+                <div class="share-item twitter">
+                    
+                    <a href="https://twitter.com/share?url=https://learn2code.dev/posts/10x-engineer-part-5/&amp;text=S%e1%ba%bfp%20nh%e1%bb%9b%20tr%e1%ba%a3%20l%c6%b0%c6%a1ng%20em%20g%e1%ba%a5p%2010%20nha%20%28ph%e1%ba%a7n%205%29&amp;hashtags=10x-engineer,soft-skill,&amp;via=reuixiy" title="Share on Twitter" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon twitter-icon"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg></a>
+                </div>
+            
+
+            
+                
+                <div class="share-item facebook">
+                    
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://learn2code.dev/posts/10x-engineer-part-5/&amp;hashtag=%2310x-engineer" title="Share on Facebook" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon facebook-icon"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg></a>
+                </div>
+            
+
+            
+                
+                <div class="share-item linkedin">
+                    
+                    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://learn2code.dev/posts/10x-engineer-part-5/&amp;title=S%e1%ba%bfp%20nh%e1%bb%9b%20tr%e1%ba%a3%20l%c6%b0%c6%a1ng%20em%20g%e1%ba%a5p%2010%20nha%20%28ph%e1%ba%a7n%205%29&amp;summary=Focus%20and%20deep%20work%20l%c3%a0%20g%c3%ac%20v%c3%a0%20ph%c6%b0%c6%a1ng%20ph%c3%a1p%20r%c3%a8n%20luy%e1%bb%87n%20k%e1%bb%b9%20n%c4%83ng%20Nh%c6%b0%20%c4%91%c3%a3%20h%e1%bb%a9a%20%e1%bb%9f%20ph%e1%ba%a7n%201,%20ph%e1%ba%a7n%205%20n%c3%a0y%20m%c3%acnh%20s%e1%ba%bd%20d%c3%a0nh%20%c4%91%e1%bb%83%20chia%20s%e1%ba%bb%20s%c3%a2u%20h%c6%a1n%20v%e1%bb%81%20k%e1%bb%b9%20n%c4%83ng%20kinh%20kh%e1%bb%a7ng%20nh%e1%ba%a5t%20c%e1%bb%a7a%20m%e1%bb%99t%20k%e1%bb%b9%20s%c6%b0%20CNTT,%20%c4%91%c3%b3%20l%c3%a0%20focus%20nh%c6%b0%20tia%20laser%20v%c3%a0%20output%20nh%c6%b0%20m%c3%b9a%20l%c5%a9%20v%e1%bb%81.&amp;source=LEARN2CODE" title="Share on LinkedIn" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon linkedin-icon"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a>
+                </div>
+            
+
+            
+                
+                <div class="share-item telegram">
+                    
+                    <a href="https://t.me/share/url?url=https://learn2code.dev/posts/10x-engineer-part-5/&amp;text=S%e1%ba%bfp%20nh%e1%bb%9b%20tr%e1%ba%a3%20l%c6%b0%c6%a1ng%20em%20g%e1%ba%a5p%2010%20nha%20%28ph%e1%ba%a7n%205%29" title="Share on Telegram" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" class="icon telegram-icon"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg></a>
+                </div>
+            
+
+            
+                
+                <div class="share-item weibo">
+                    
+                    <a href="https://service.weibo.com/share/share.php?&amp;url=https://learn2code.dev/posts/10x-engineer-part-5/&amp;title=S%e1%ba%bfp%20nh%e1%bb%9b%20tr%e1%ba%a3%20l%c6%b0%c6%a1ng%20em%20g%e1%ba%a5p%2010%20nha%20%28ph%e1%ba%a7n%205%29&amp;pic=https://learn2code.dev/img/10x-tentris.gif&amp;searchPic=false" title="Share on Weibo" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon weibo-icon"><path d="M407 177.6c7.6-24-13.4-46.8-37.4-41.7-22 4.8-28.8-28.1-7.1-32.8 50.1-10.9 92.3 37.1 76.5 84.8-6.8 21.2-38.8 10.8-32-10.3zM214.8 446.7C108.5 446.7 0 395.3 0 310.4c0-44.3 28-95.4 76.3-143.7C176 67 279.5 65.8 249.9 161c-4 13.1 12.3 5.7 12.3 6 79.5-33.6 140.5-16.8 114 51.4-3.7 9.4 1.1 10.9 8.3 13.1 135.7 42.3 34.8 215.2-169.7 215.2zm143.7-146.3c-5.4-55.7-78.5-94-163.4-85.7-84.8 8.6-148.8 60.3-143.4 116s78.5 94 163.4 85.7c84.8-8.6 148.8-60.3 143.4-116zM347.9 35.1c-25.9 5.6-16.8 43.7 8.3 38.3 72.3-15.2 134.8 52.8 111.7 124-7.4 24.2 29.1 37 37.4 12 31.9-99.8-55.1-195.9-157.4-174.3zm-78.5 311c-17.1 38.8-66.8 60-109.1 46.3-40.8-13.1-58-53.4-40.3-89.7 17.7-35.4 63.1-55.4 103.4-45.1 42 10.8 63.1 50.2 46 88.5zm-86.3-30c-12.9-5.4-30 .3-38 12.9-8.3 12.9-4.3 28 8.6 34 13.1 6 30.8.3 39.1-12.9 8-13.1 3.7-28.3-9.7-34zm32.6-13.4c-5.1-1.7-11.4.6-14.3 5.4-2.9 5.1-1.4 10.6 3.7 12.9 5.1 2 11.7-.3 14.6-5.4 2.8-5.2 1.1-10.9-4-12.9z"/></svg></a>
+                </div>
+            
+
+            
+                
+                <div class="share-item douban">
+                    
+                    <a href="https://www.douban.com/share/service?href=https://learn2code.dev/posts/10x-engineer-part-5/&amp;name=S%e1%ba%bfp%20nh%e1%bb%9b%20tr%e1%ba%a3%20l%c6%b0%c6%a1ng%20em%20g%e1%ba%a5p%2010%20nha%20%28ph%e1%ba%a7n%205%29&amp;text=Focus%20and%20deep%20work%20l%c3%a0%20g%c3%ac%20v%c3%a0%20ph%c6%b0%c6%a1ng%20ph%c3%a1p%20r%c3%a8n%20luy%e1%bb%87n%20k%e1%bb%b9%20n%c4%83ng%20Nh%c6%b0%20%c4%91%c3%a3%20h%e1%bb%a9a%20%e1%bb%9f%20ph%e1%ba%a7n%201,%20ph%e1%ba%a7n%205%20n%c3%a0y%20m%c3%acnh%20s%e1%ba%bd%20d%c3%a0nh%20%c4%91%e1%bb%83%20chia%20s%e1%ba%bb%20s%c3%a2u%20h%c6%a1n%20v%e1%bb%81%20k%e1%bb%b9%20n%c4%83ng%20kinh%20kh%e1%bb%a7ng%20nh%e1%ba%a5t%20c%e1%bb%a7a%20m%e1%bb%99t%20k%e1%bb%b9%20s%c6%b0%20CNTT,%20%c4%91%c3%b3%20l%c3%a0%20focus%20nh%c6%b0%20tia%20laser%20v%c3%a0%20output%20nh%c6%b0%20m%c3%b9a%20l%c5%a9%20v%e1%bb%81." title="Share on Douban" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon douban-icon"><path d="M.643.92v2.412h22.714V.92H.643zm1.974 4.926v9.42h18.764v-9.42H2.617zm2.72 2.408H18.69v4.605H5.338V8.254zm1.657 7.412l-2.512.938c1.037 1.461 1.87 2.825 2.512 4.091H0v2.385h24v-2.385h-6.678c.818-1.176 1.589-2.543 2.303-4.091l-2.73-.938a29.952 29.952 0 01-2.479 5.03h-4.75c-.786-1.962-1.677-3.641-2.672-5.03Z"/></svg></a>
+                </div>
+            
+
+            
+                
+                <div class="share-item qq">
+                    
+                    <a href="https://connect.qq.com/widget/shareqq/index.html?url=https://learn2code.dev/posts/10x-engineer-part-5/&amp;title=S%e1%ba%bfp%20nh%e1%bb%9b%20tr%e1%ba%a3%20l%c6%b0%c6%a1ng%20em%20g%e1%ba%a5p%2010%20nha%20%28ph%e1%ba%a7n%205%29&amp;summary=Focus%20and%20deep%20work%20l%c3%a0%20g%c3%ac%20v%c3%a0%20ph%c6%b0%c6%a1ng%20ph%c3%a1p%20r%c3%a8n%20luy%e1%bb%87n%20k%e1%bb%b9%20n%c4%83ng%20Nh%c6%b0%20%c4%91%c3%a3%20h%e1%bb%a9a%20%e1%bb%9f%20ph%e1%ba%a7n%201,%20ph%e1%ba%a7n%205%20n%c3%a0y%20m%c3%acnh%20s%e1%ba%bd%20d%c3%a0nh%20%c4%91%e1%bb%83%20chia%20s%e1%ba%bb%20s%c3%a2u%20h%c6%a1n%20v%e1%bb%81%20k%e1%bb%b9%20n%c4%83ng%20kinh%20kh%e1%bb%a7ng%20nh%e1%ba%a5t%20c%e1%bb%a7a%20m%e1%bb%99t%20k%e1%bb%b9%20s%c6%b0%20CNTT,%20%c4%91%c3%b3%20l%c3%a0%20focus%20nh%c6%b0%20tia%20laser%20v%c3%a0%20output%20nh%c6%b0%20m%c3%b9a%20l%c5%a9%20v%e1%bb%81.&amp;pics=https://learn2code.dev/img/10x-tentris.gif&amp;site=LEARN2CODE" title="Share on QQ" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon qq-icon"><path d="M433.754 420.445c-11.526 1.393-44.86-52.741-44.86-52.741 0 31.345-16.136 72.247-51.051 101.786 16.842 5.192 54.843 19.167 45.803 34.421-7.316 12.343-125.51 7.881-159.632 4.037-34.122 3.844-152.316 8.306-159.632-4.037-9.045-15.25 28.918-29.214 45.783-34.415-34.92-29.539-51.059-70.445-51.059-101.792 0 0-33.334 54.134-44.859 52.741-5.37-.65-12.424-29.644 9.347-99.704 10.261-33.024 21.995-60.478 40.144-105.779C60.683 98.063 108.982.006 224 0c113.737.006 163.156 96.133 160.264 214.963 18.118 45.223 29.912 72.85 40.144 105.778 21.768 70.06 14.716 99.053 9.346 99.704z"/></svg></a>
+                </div>
+            
+
+            
+                
+                <div class="share-item qzone">
+                    
+                    <a href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://learn2code.dev/posts/10x-engineer-part-5/&amp;title=S%e1%ba%bfp%20nh%e1%bb%9b%20tr%e1%ba%a3%20l%c6%b0%c6%a1ng%20em%20g%e1%ba%a5p%2010%20nha%20%28ph%e1%ba%a7n%205%29&amp;summary=Focus%20and%20deep%20work%20l%c3%a0%20g%c3%ac%20v%c3%a0%20ph%c6%b0%c6%a1ng%20ph%c3%a1p%20r%c3%a8n%20luy%e1%bb%87n%20k%e1%bb%b9%20n%c4%83ng%20Nh%c6%b0%20%c4%91%c3%a3%20h%e1%bb%a9a%20%e1%bb%9f%20ph%e1%ba%a7n%201,%20ph%e1%ba%a7n%205%20n%c3%a0y%20m%c3%acnh%20s%e1%ba%bd%20d%c3%a0nh%20%c4%91%e1%bb%83%20chia%20s%e1%ba%bb%20s%c3%a2u%20h%c6%a1n%20v%e1%bb%81%20k%e1%bb%b9%20n%c4%83ng%20kinh%20kh%e1%bb%a7ng%20nh%e1%ba%a5t%20c%e1%bb%a7a%20m%e1%bb%99t%20k%e1%bb%b9%20s%c6%b0%20CNTT,%20%c4%91%c3%b3%20l%c3%a0%20focus%20nh%c6%b0%20tia%20laser%20v%c3%a0%20output%20nh%c6%b0%20m%c3%b9a%20l%c5%a9%20v%e1%bb%81.&amp;pics=https://learn2code.dev/img/10x-tentris.gif&amp;site=LEARN2CODE" title="Share on Qzone" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon qzone-icon"><path d="M23.985 9.202c-.032-.099-.127-.223-.334-.258-.207-.036-7.351-1.406-7.351-1.406s-.105-.022-.198-.07c-.092-.047-.127-.167-.127-.167S12.447.956 12.349.77C12.25.583 12.104.532 12 .532c-.104 0-.251.051-.349.238-.098.186-3.626 6.531-3.626 6.531s-.035.12-.128.167c-.092.047-.197.07-.197.07S.556 8.908.348 8.943c-.208.036-.302.16-.333.258a.477.477 0 0 0 .125.449l5.362 5.49s.072.08.119.172c.016.104.005.21.005.21s-1.189 7.242-1.22 7.45.075.369.159.43c.083.062.233.106.421.013.189-.093 6.812-3.261 6.812-3.261s.098-.044.201-.061c.103-.017.201.061.201.061s6.623 3.168 6.812 3.261c.188.094.338.049.421-.013a.463.463 0 0 0 .159-.43c-.021-.14-.93-5.677-.93-5.677.876-.54 1.425-1.039 1.849-1.747-2.594.969-6.006 1.717-9.415 1.866-.915.041-2.41.097-3.473-.015-.678-.071-1.17-.144-1.243-.438-.053-.215.054-.46.545-.831a2640.5 2640.5 0 0 1 2.861-2.155c1.285-.968 3.559-2.47 3.559-2.731 0-.285-2.144-.781-4.037-.781-1.945 0-2.275.132-2.811.168-.488.034-.769.005-.804-.138-.06-.248.183-.389.588-.568.709-.314 1.86-.594 1.984-.626.194-.052 3.082-.805 5.618-.535 1.318.14 3.244.668 3.244 1.276 0 .342-1.721 1.494-3.225 2.597-1.149.843-2.217 1.561-2.217 1.688 0 .342 3.533 1.241 6.689 1.01l.003-.022c.048-.092.119-.172.119-.172l5.362-5.49a.477.477 0 0 0 .127-.449z"/></svg></a>
+                </div>
+            
+
+            
+                
+                <div class="share-item qrcode">
+                    <div class="qrcode-container" title="Share via QR Code"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon qrcode-icon"><path d="M0 224h192V32H0v192zM64 96h64v64H64V96zm192-64v192h192V32H256zm128 128h-64V96h64v64zM0 480h192V288H0v192zm64-128h64v64H64v-64zm352-64h32v128h-96v-32h-32v96h-64V288h96v32h64v-32zm0 160h32v32h-32v-32zm-64 0h32v32h-32v-32z"/></svg><div id="qrcode-img"></div>
+                    </div>
+                    <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.min.js"></script>
+
+<script>
+    var typeNumber = 0;
+    var errorCorrectionLevel = 'L';
+    var qr = qrcode(typeNumber, errorCorrectionLevel);
+    qr.addData('https:\/\/learn2code.dev\/posts\/10x-engineer-part-5\/');
+    qr.make();
+    document.getElementById('qrcode-img').innerHTML = qr.createImgTag();
+</script>
+
+                </div>
+            
+
+        </div>
+
+    </div>
+
+
+
+
+        
+    
+    
+        <div class="related-posts">
+            <h2 class="related-title">See Also:<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon related-icon"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm144 276c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92h-92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z"/></svg></h2>
+            <ul class="related-list">
+                
+                    <li class="related-item">
+                        <a href="/posts/10x-engineer-part-4/" class="related-link">Sếp nhớ trả lương em gấp 10 nha (phần 4)</a>
+                    </li>
+                
+                    <li class="related-item">
+                        <a href="/posts/10x-engineer-part-3/" class="related-link">Sếp nhớ trả lương em gấp 10 nha (phần 3)</a>
+                    </li>
+                
+                    <li class="related-item">
+                        <a href="/posts/10x-engineer-part-2/" class="related-link">Sếp nhớ trả lương em gấp 10 nha (phần 2)</a>
+                    </li>
+                
+                    <li class="related-item">
+                        <a href="/posts/10x-engineer-part-1/" class="related-link">Sếp nhớ trả lương em gấp 10 nha (phần 1)</a>
+                    </li>
+                
+            </ul>
+        </div>
+    
+
+
+        
+    
+        <div class="post-tags">
+            
+                
+                
+                
+                
+                    
+                    <a href="/tags/10x-engineer/" rel="tag" class="post-tags-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon tag-icon"><path d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"/></svg>10x-engineer</a>
+                
+            
+                
+                
+                
+                
+                    
+                    <a href="/tags/soft-skill/" rel="tag" class="post-tags-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon tag-icon"><path d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"/></svg>soft-skill</a>
+                
+            
+        </div>
+    
+
+
+        
+
+        
+
+        
+    
+        
+        
+    
+    
+    
+    
+        <ul class="post-nav">
+            
+            
+                <li class="post-nav-next">
+                    <a href="/posts/10x-engineer-part-4/" rel="next">Sếp nhớ trả lương em gấp 10 nha (phần 4) ></a>
+                </li>
+            
+        </ul>
+    
+
+
+        
+
+
+    </div>
+</main>
+
+
+            
+    <div id="back-to-top" class="back-to-top">
+        <a href="#"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon"><path d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"/></svg></a>
+    </div>
+
+            
+    <footer id="footer" class="footer">
+        <div class="footer-inner"><div class="site-info">©&nbsp;1969–2020&nbsp;<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon footer-icon"><path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"/></svg>&nbsp;Lương Ngọc Long</div><div class="powered-by">Powered by <a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener">Hugo</a> | Theme is <a href="https://github.com/reuixiy/hugo-theme-meme" target="_blank" rel="noopener">MemE</a></div><div class="site-copyright"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a></div>
+
+            
+        </div>
+    </footer>
+
+
+        </div>
+        <script src="/js/meme.min.7846f604d8a1dba7a97436c5b93e188bd054f38c9ea21521a9bd02e12d4b8606.js" integrity="sha256-eEb2BNih26epdDbFuT4Yi9BU84yeohUhqb0C4S1LhgY="></script>
+
+
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+
+<script>
+    var scroll = new SmoothScroll('a[href*="#"]', {
+        speedAsDuration: true,
+        header: '[data-scroll-header]'
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/medium-zoom@latest/dist/medium-zoom.min.js"></script>
+
+<script>
+    mediumZoom(document.querySelectorAll('div.post-body img'), {
+        background: 'hsla(var(--color-bg-h), var(--color-bg-s), var(--color-bg-l), 0.95)'
+    })
+</script>
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/instant.page@3.0.0/instantpage.min.js" type="module" defer></script>
+
+
+
+
+
+
+
+
+
+
+    </body>
+</html>

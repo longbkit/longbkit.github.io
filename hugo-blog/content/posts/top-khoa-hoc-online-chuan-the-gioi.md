@@ -1,7 +1,11 @@
 ---
 title: "Top khóa học online chuẩn thế giới"
-date: 2020-04-05T21:11:05+07:00
-draft: false
+date: 2020-03-05T21:11:05+07:00
+tags:
+    - 10x-engineer
+    - "khóa học"
+    - "review khóa học"
+draft: true
 ---
 #### Nhập môn lập trình - khuyến cáo chỉ dành cho dân hardcore
 Vì sao nhập môn mà mình lại nói dành cho hardcore? Vì mặc dù rất hay và cung cấp đủ nền tảng về lập trình cho các bạn, nhưng nếu mới khởi đầu mà dây dưa vào mớ lý thuyết này không phải ai cũng theo được đâu nhé.

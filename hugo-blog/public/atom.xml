@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">LEARN2CODE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-04-06T16:18:47+07:00</updated>
+    <updated>2020-04-10T13:59:35+07:00</updated>
     <id>https://learn2code.dev/</id>
     <link rel="alternate" type="text/html" href="https://learn2code.dev/" />
     <link rel="self" type="application/atom+xml" href="https://learn2code.dev/atom.xml" />
@@ -17,31 +17,127 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.68.3">Hugo</generator>
         <entry>
-            <title type="text">Top khóa học online chuẩn thế giới</title>
-            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/top-khoa-hoc-online-chuan-the-gioi/" />
-            <id>https://learn2code.dev/posts/top-khoa-hoc-online-chuan-the-gioi/</id>
-            <updated>2020-04-05T23:02:22+07:00</updated>
-            <published>2020-04-05T21:11:05+07:00</published>
+            <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 5)</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-5/" />
+            <id>https://learn2code.dev/posts/10x-engineer-part-5/</id>
+            <updated>2020-04-10T13:56:23+07:00</updated>
+            <published>2020-03-25T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
                     <uri>https://learn2code.dev/</uri>
                     <email>longbkit@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Nhập môn lập trình - khuyến cáo chỉ dành cho dân hardcore Vì sao nhập môn mà mình lại nói dành cho hardcore? Vì mặc dù rất hay và cung cấp đủ nền tảng về lập trình cho các bạn, nhưng nếu mới khởi đầu mà dây dưa vào mớ lý thuyết này không phải ai cũng theo được đâu nhé.]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Focus and deep work là gì và phương pháp rèn luyện kỹ năng Như đã hứa ở phần 1, phần 5 này mình sẽ dành để chia sẻ sâu hơn về kỹ năng kinh khủng nhất của một kỹ sư CNTT, đó là focus như tia laser và output như mùa lũ về.]]></summary>
             
-                <content type="html"><![CDATA[<h4 id="nhập-môn-lập-trình---khuyến-cáo-chỉ-dành-cho-dân-hardcore">Nhập môn lập trình - khuyến cáo chỉ dành cho dân hardcore</h4>
-<p>Vì sao nhập môn mà mình lại nói dành cho hardcore? Vì mặc dù rất hay và cung cấp đủ nền tảng về lập trình cho các bạn, nhưng nếu mới khởi đầu mà dây dưa vào mớ lý thuyết này không phải ai cũng theo được đâu nhé.</p>
-<h4 id="trí-tuệ-nhân-tạo-và-học-sâu-machine-learning--deep-learning">Trí tuệ nhân tạo và học sâu (Machine learning &amp; Deep learning)</h4>
-<h4 id="phân-tích-dữ-liệu-bi-data-analyst-data-engineer-data-scientist">Phân tích dữ liệu (BI, Data Analyst, Data Engineer, Data Scientist)</h4>
-<h4 id="lập-trình-web-frontend">Lập trình web frontend</h4>
-<h6 id="ngôn-ngữ-javascript">Ngôn ngữ javascript</h6>
-<h6 id="ngôn-ngữ-php">Ngôn ngữ php</h6>
-<h6 id="ngôn-ngữ-python">Ngôn ngữ python</h6>
-<h6 id="ngôn-ngữ-java">Ngôn ngữ java</h6>
-<h6 id="ngôn-ngữ-net">Ngôn ngữ .NET</h6>
-<h4 id="lập-trình-web-backend">Lập trình web backend</h4>
-<h4 id="lập-trình-di-động">Lập trình di động</h4>
-<h4 id="lập-trình-di-động-đa-nền-tảng-hybrid-mobile-application">Lập trình di động đa nền tảng (hybrid mobile application)</h4>
+                <content type="html"><![CDATA[<h1 id="focus-and-deep-work-là-gì-và-phương-pháp-rèn-luyện-kỹ-năng">Focus and deep work là gì và phương pháp rèn luyện kỹ năng</h1>
+<p>Như đã hứa ở phần 1, phần 5 này mình sẽ dành để chia sẻ sâu hơn về kỹ năng kinh khủng nhất của một kỹ sư CNTT, đó là focus như tia laser và output như mùa lũ về.</p>
+<p>Bạn có thể xem lại các phần trước tại đây:</p>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-1/">Sếp nhớ trả lương em gấp 10 nha (phần 1)</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-2/">Sếp nhớ trả lương em gấp 10 nha (phần 2)</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-3/">Sếp nhớ trả lương em gấp 10 nha (phần 3)</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-4/">Sếp nhớ trả lương em gấp 10 nha (phần 4)</a></p>
+</blockquote>
+<p>Cảm hứng để mình viết và talk về chủ đề này là khi may mắn được đọc cuốn sách Deep Work của Cal Newport, mặc dù khái niệm và tầm quan trọng của sự tập trung mình đã có cơ duyên tiếp cận từ trước đó nhiều năm, khi mình có duyên được làm việc chung với một anh bạn khác. Anh bạn này thú vị ở chỗ, anh ta đã tự xây dựng được một skill kinh khủng, có thể master được một vấn đề phức tạp và hoàn toàn hóc búa chỉ trong một thời gian ngắn tính bằng vài ngày hoặc vài tuần tùy theo vấn đề. Master vấn đề ở một cấp độ mà nhiều người mất đến cả vài năm vẫn không thể đạt được tới trình độ đó. Vì sao lại như vậy? Mình tóm lại một số cách ứng phó với vấn đề của anh bạn ấy.</p>
+<h5 id="1-đeo-bám-vấn-đề-gian-nan-không-hề-nản">1. Đeo bám vấn đề, gian nan không hề nản</h5>
+<p>Điều này theo mình nhận xét là không dễ chút nào, vì đứng trước khó khăn nếu bạn thực sự &ldquo;gian nan không hề nản&rdquo;, thì hiện tại chắc bạn đã khá là thành công rồi. Đây là một tính cách rất rõ thể hiện ở những người thành công. Các tỉ phú tỉ đô trên thế giới không ít lần thất bại trắng tay, và lại đi lên từ đó, Jack Ma hay Elon Musk đều là những minh chứng sống cho sự đi lên từ gian khó.</p>
+<p>Khi nhìn vào cách người bạn của mình đối diện với vấn đề, mình thấy một sự tò mò, một khao khát vượt lên thách thức rất mạnh mẽ từ bên trong, thỉnh thoảng cả sự hiếu thắng và mong muốn chứng tỏ bản thân của mình. Tất cả những điều đó khiến người bạn ấy xoay vần với vấn đề sáng đến tối, ngày này qua ngày khác mà không thấy chán nản hay muốn từ bỏ.</p>
+<p>Còn bạn thì sao? Nếu bạn chưa xây dựng được tính cách này, dưới đây là một số bí kíp dành cho bạn</p>
+<ul>
+<li>Sống chung với vấn đề thay vì cảm thấy khó chịu với vấn đề</li>
+</ul>
+<p>Bạn có thể thử hình dung ra nhiều góc nhìn, coi vấn đề là con mồi và bạn là thợ săn, hay coi vấn đề là thử thách và bạn là người đi vượt thử thách, hoặc coi vấn đề là bạn bè và sống chan hòa với nó. Thay đổi tư tưởng như vậy, bạn sẽ thấy nhẹ nhàng hơn và duy trì thái độ tích cực khi đối diện với vấn đề hơn. Xét cho cùng, cuộc sống không phải đáng sống hơn vì những thử thách bất ngờ hay sao?</p>
+<ul>
+<li>Biết tận dụng cảm giác khó chịu và tức giận khi đối diện với vấn đề</li>
+</ul>
+<p>Không ít bạn có cảm giác khó chịu và tức giận khi đối diện với vấn đề, với những trường hợp này, hãy chủ động dùng cảm giác đó để đối diện với vấn đề mạnh mẽ hơn. Sự tức giận cũng có những năng lượng tích cực rất tốt, nó mang năng lượng của hành động. Hãy dùng năng lượng hành động để giải quyết vấn đề. Tuy nhiên, luôn tỉnh táo để không bị các cảm giác đó lấn át bạn, nếu không bạn sẽ rơi vào tình trạng quá tải, và cảm giác nóng vội giải quyết vấn đề sẽ khiến bạn dễ nản đấy.</p>
+<ul>
+<li>Biết lựa chọn thử thách cho mình</li>
+</ul>
+<p>Thử thách thì luôn nhiều, và bạn luôn có quyền lựa chọn, trường hợp này bạn có thể lựa chọn độ khó của thử thách.
+Lần cuối bạn chơi game là lúc nào, bạn có nhớ các trò chơi được thiết kế như thế nào không?</p>
+<p><img src="/img/10x-tentris.gif" alt="xep gach"></p>
+<p>Bạn còn nhớ trò chơi xếp gạch huyền thoại chứ? Lúc bạn bắt đầu trò chơi, độ khó bạn phải đối diện là thế nào? Có phải đi từ cấp độ rất dễ, bạn vượt qua nó, bạn thấy hứng thú, rồi độ khó tăng dần, bạn vượt qua nó, lại thấy hứng thú hơn không? Có bao giờ bạn gặp một vài trường hợp quá khó và bạn đã dừng chơi chưa?</p>
+<p>Những người thiết kế trò chơi đã làm rất tốt trong việc tăng dần độ khó của trò chơi, khiến người chơi bị kích thích với những cảm giác vượt qua thử thách đó. Mỗi cấp độ về sau đều luôn khó hơn một chút cấp độ trước, nhưng không được quá khó, vì quá khó sẽ gây nản và sẽ không còn ai chơi nữa.</p>
+<p>Vậy, áp dụng nguyên lý trò chơi vào, bạn cần hiểu rõ năng lực của bạn hiện tại có đủ để giải quyết vấn đề chưa, nếu chưa, hãy chủ động hạ độ khó xuống một cấp độ, hoặc hạ nữa, tới khi bạn thấy đủ tự tin.</p>
+<p>Cũng trong nguyên lý trò chơi, nếu bạn là một người chơi hardcore ở level 10, ai đó cho bạn chơi ở level 1 bạn sẽ thấy thế nào? Lại nản tiếp, vì quá dễ và không xứng tầm với level hiện tại của bạn. Nên luôn lưu ý điểm này, quá khó hay quá dễ đều tạo nên vấn đề bạn nhé.</p>
+<p>Bạn nào quan tâm sâu hơn về góc độ này, có thể tìm hiểu thêm các bài viết nói về flow, và đây cũng là một chủ đề rất thú vị xứng đáng được đào sâu trong một bài viết khác.</p>
+<ul>
+<li>Quan sát và lựa chọn phản ứng</li>
+</ul>
+<p>Công cụ này mới là công cụ đáng gờm nhất. Thay vì coi bạn là cảm xúc chán nản, khi khó quá mình thấy chán và mình bỏ luôn. Hãy hít một hơi thật sâu, quan sát diễn biến của từng bộ phận trong cơ thể, quan sát cơ thể đang chán thế nào, nặng nề ở đâu, hãy thở ra và để cho sự chán nản đi theo hơi thở đó một cách tự nhiên không gượng ép.</p>
+<p>Hãy nhớ, bạn có thể ở trong nhà, nhưng bạn không phải là ngôi nhà. Tương tự như vậy, cơ thể cũng là nhà của bạn, nhưng bạn không phải là cơ thể. Bất cứ lúc nào bạn đều có thể dừng lại, hít thở, và quan sát. Tập quan sát một thời gian, bạn sẽ nhận ra mình có quyền lựa chọn phản ứng trước những nghịch cảnh. Đây chính là điểm chuyển hóa của bạn, là nền tảng để rất nhiều thành công sẽ kéo theo về sau.
+Một người có trí thông minh cảm xúc cao sẽ sử dụng kỹ thuật này rất nhuần nhuyễn, họ luôn làm chủ cảm xúc của mình và điều khiển nó để phục vụ cho mục đích của họ.</p>
+<p>Chuyên sâu hơn của phần này, có rất nhiều bằng chứng khoa học, các phong trào của các công ty lớn như Google đã vận động, và khuyến khích các nhân viên tập thiền. Vì thiền sẽ giúp bạn rất nhiều trong việc quan sát và lựa chọn phản ứng này. Hẹn các bạn trong một bài viết khác mình sẽ phân tích sâu hơn nhé.</p>
+<h5 id="2-debug-debug-và-debug">2. Debug, debug và debug</h5>
+<p>Anh bạn mình đang nói đến, có một thói quen khi đọc code của người khác rất thú vị, đó là debug. Chạy qua từng câu lệnh, coi từng giá trị của từng biến, chạy đi chạy lại với nhiều input khác nhau để từ đó phân tích và hiểu sâu đoạn code đang đọc. Từ đó, anh bạn ấy có thể tự tin chỉnh sửa, nâng cấp lại đoạn code của người khác viết lên chất lượng cao hơn một cách hoàn toàn tự tin.</p>
+<p>Đã bao lần bạn đọc một đoạn code người khác viết, dài ngoằng và thấy nản không muốn đọc?
+Bằng cách chạy qua từng bước trong quá trình debug, bạn đã chia nhỏ vấn đề, và chọn đối diện vấn đề ở cấp độ thử thách thấp hơn. Từ đó, bạn vượt qua những cấp độ thử thách nhỏ đó, và dần tiến tới thử thách toàn cục của vấn đề, bạn cũng sẽ vượt qua nó.</p>
+<p>Đối với lập trình viên mà nói, kỹỹ năng debug là kỹ năng tối quan trọng, ngay cả khi đọc code hay viết code của chính mình. Và debug ở đây có rất nhiều cấp độ và kỹ thuật nhé các bạn:</p>
+<ul>
+<li>Debug ở level code ứng dụng</li>
+<li>Debug ở level database</li>
+<li>Debug ở level network</li>
+<li>Debug ở môi trường giả lập, môi trường highload, &hellip; vì phần mềm có thể sẽ chạy khác ở các môi trường khác nhau</li>
+<li>Debug bằng console log</li>
+<li>Debug bằng cách sử dụng breakpoints &hellip;</li>
+</ul>
+<p>Gốc của mình là dân lập trình firmware, hay cả FPGA, nên kỹ thuật debug là tối quan trọng. Và mình sẽ hẹn một bài viết chuyên sâu hơn để chia sẻ thêm về các kỹ thuật debug khi lập trình.</p>
+<h5 id="3-focus-focus-và-focus">3. Focus, focus và focus</h5>
+<p><img src="/img/10x-focus-light.jpg" alt="focus light" title="Thấu kính hội tụ đốt cháy giấy"></p>
+<p>Các bạn còn nhớ thí nghiệm hồi học phổ thông chứ? Cùng là ánh sáng ấy, nhưng qua thấu kính hội tụ đã có một năng lượng rất lớn, có thể đốt cháy cả tờ giấy.
+Hoặc như tia laser, có phải có thể dùng để cắt những vật cứng nhất như kim cương hay không? Mật độ tập trung của photon là rất cao và cường độ được khuyếch đại nhiều lần trong 1 tia rất nhỏ có thể mang đến sức mạnh phi thường.</p>
+<p>Trong một nghiên cứu của các nhà khoa học, mỗi ngày, trung bình bộ não con người sản sinh ra tầm 70.000 ý nghĩ, tương đương với cứ mỗi 1.25 giây sẽ có một suy nghĩ được tạo ra. Vậy tính ra nếu mọi suy nghĩ đều là quý giá, chắc hẳn hầu như mọi người đều sẽ rất thành công và viên mãn.
+Sự thật thì lại khác hẳn, phần trong những suy nghĩ ấy chỉ là rác, không mang lại lợi ích gì, và nếu không điều khiển được phần tâm trí này, những lúc bạn cần tập trung để suy nghĩ cũng sẽ rất khó, dẫn đến rất nhiều suy nghĩ nhưng không nghĩ được gì.</p>
+<p>Một số người có được sự tập trung này từ bản năng, hoặc do lối sống sinh hoạt từ nhỏ vô tình đi theo lộ trình rèn luyện sự tập trung của tâm trí rất tốt. Nhưng rất nhiều người thì hoàn toàn ngược lại. Bạn có thể thấy thanh thiếu niên đến tuổi dậy thì thường dễ bị xao nhãng nhất, do có nhiều mối quan tâm và tò mò mới, thu hút hơn những mối quan tâm khác mà đáng lẽ các em nên dành một sự tập trung đáng kể cho nó như học tập, phát triển bản thân, phát triển mối quan hệ gia đình và bạn bè, tìm hiểu về bản thân và định hướng bản thân.</p>
+<p>Nếu như bạn là một trong số đó, tin vui là chúng ta có thể đảo ngược quá trình, còn gọi là tiến trình sửa chữa não ^^ Dưới đây là một số phương pháp mình đúc rút được qua nhiều năm luyện tập và nghiên cứu về các phương pháp tập trung.</p>
+<ol>
+<li>Sắp xếp môi trường xung quanh để tạo điều kiện tối đa cho sự tập trung bên trong</li>
+</ol>
+<p>Hãy tưởng tượng, bạn đang ngồi học bài, mà thỉnh thoảng điện thoại reo, tin nhắn đến, bạn bè mời gọi, bạn có tập trung học được không?</p>
+<p>Vậy bí quyết đầu tiên, hết sức đơn giản nhưng lại cần sự quyết tâm từ bạn. Và hơn ai hết, bạn là người lựa chọn tương lai của mình, hoàn toàn chịu trách nhiệm cho tương lai của mình.</p>
+<ul>
+<li>
+<p>Khi muốn tập trung, hãy chọn một góc ngồi khác với góc ngồi chơi hay nghe nhạc, hay ngủ. Khi tạo được thói quen này, bộ não sẽ cũng có những phản ứng sinh lý tương thích, và khi ngồi vào đúng chỗ đó thì cơ thể ngay lập tức đi vào chế độ tập trung học tập / làm việc
+<img src="/img/10x-paplop.jpg" alt="paplop" title="Ảnh minh họa vui về phản xạ sinh học"></p>
+</li>
+<li>
+<p>Đưa mọi thiết bị có khả năng gây xao nhãng vào chế độ im lặng, điện thoại vào chế độ im lặng, điện thoại bây giờ có chế độ im lặng trong vòng 1 tiếng, 2 tiếng, &hellip; sau thời gian đó tự động về chế độ bình thường rất tiện. Bạn có thể tưởng tượng đang tập trung mà tin nhắn facebook hay zalo cứ tin tin thì sẽ thế nào rồi đấy. Đôi khi, chỉ cần tắt đi 20 phút, bạn sẽ thấy 20 phút tập trung có hiệu quả bằng hàng giờ vừa ngồi làm việc vừa chat.</p>
+</li>
+<li>
+<p>Nếu bạn làm việc trên máy tính, các hệ điều hành đều có khái niệm màn hình ảo (Virtual Desktop), hãy sắp xếp các cửa sổ làm việc liên quan đến một chủ đề bạn đang theo đuổi vào từng màn hình ảo đó, để mỗi thời điểm làm trên một vấn đề thôi, trong lúc làm việc thì chuyển hết tất cả notification sang chế độ Do not disturb. Hoặc tốt hơn nữa, hãy tạo account riêng cho công việc và thư giãn. Các trò chơi chỉ cài đặt ở tài khoản dành cho việc giải trí, từ đó lúc đang làm việc bạn ít có động lực chuyển đổi qua các trò chơi hơn, từ đó dễ tập trung hơn nhiều.</p>
+</li>
+</ul>
+<ol start="2">
+<li>Chuẩn bị cho sự tập trung từ bên trong</li>
+</ol>
+<ul>
+<li>
+<p>Giờ nào làm việc ấy, vẫn là nguyên lý sinh học. Bạn tạo ra các phản xạ có điều kiện, đúng giờ là đi ngủ, đúng giờ là làm việc, đúng giờ thì giải trí và đúng giờ thì ăn. Lúc này cơ thể của bạn sẽ tiết ra các hóc môn tối ưu nhất cho mọi việc bạn làm. Quá tuyệt vời đúng không? Bạn có thể thử duy trì trong vòng 1 tuần và thử xem thay đổi diễn ra như thế nào, rồi cùng chia sẻ nhé</p>
+</li>
+<li>
+<p>Một số phương pháp khoa học khác nhiều người áp dụng khá thành công như Pomodoro. Lấy tên theo quả đồng hồ hình quả cà chua, phương pháp này chia thời gian trong ngày ra nhiều block nhỏ, mỗi block tầm 25 phút, mỗi 25 phút bạn xét mục tiêu của mình hoàn thành một việc nào đó, hết 25 phút tự thưởng cho mình 5 phút nghỉ ngơi, rồi lại tiếp tục như thế. Tất nhiên bất cứ công việc nào bạn đều có thể thử chia nhỏ ra từng block nhỏ như vậy. Mình đã thử áp dụng và rất thành công, và có thể dùng app trên điện thoại đấy, còn bạn thì sao?</p>
+</li>
+</ul>
+<p><img src="/img/10x-pomodoro.png" alt="pomodoro" title="Chiếc đồng hồ quả cà chua huyền thoại"></p>
+<ul>
+<li>Cuối cùng, một công cụ đang là xu thế của rất nhiều người và nhiều công ty lớn trên thế giới như Google đã khuyến khích cho nhân viên có điều kiện tối đa, đó là thiền. Thiền chính là tập trung liên tục vào một đối tượng nào đó một cách thoải mái không cố gắng. Một người thực hành thiền trong thời gian dài, có thể áp dụng cùng kỹ thuật thiền vào trong mọi mặt đời sống như công việc, giao tiếp, chỉ cần thay đổi đối tượng thiền là sẽ phát huy tác dụng. Ví dụ trong công việc, đối tượng của sự tập trung của bạn sẽ là vấn đề và công việc bạn đang giải quyết, trong học tập sẽ là môn học hay vấn đề bạn đang học, trong giao tiếp thì đối tượng của sự tập trung sẽ là người nói và lời nói của người đối diện - lúc này bạn lắng nghe sâu và không bỏ sót, không phán xét - là những điều kiện tiên quyết để có một giao tiếp sâu và thấu hiểu.</li>
+</ul>
+<p><img src="/img/10x-meditation-google.jpg" alt="meditation" title="Nhân viên Google đang tập thiền"></p>
+<p>Riêng với mình, do cơ duyên tiếp xúc với một khóa học online về chủ đề hạnh phúc, đã tiếp cận tới thiền theo cách không thể đơn giản hơn. Mỗi ngày chỉ cần dành 10 phút, vào bất cứ khoảng thời gian nào để thử quan sát suy nghĩ, hoặc có thể quan sát cơ thể, hoặc quan sát hơi thở. Vì 10 phút quá đơn giản nên mình đã làm theo được và duy trì mỗi ngày. Chỉ trong vòng 2 tuần sau đó, cuộc sống của mình như sang trang, lúc ngồi làm việc bất cứ lúc nào suy nghĩ đi lan man đều dễ dàng phát hiện và nhẹ nhàng kéo sự tập trung quay trở lại công việc.</p>
+<p>Mình tin rằng, sếp của bạn hoàn toàn hiểu tầm quan trọng của việc tập trung. Do đó nếu bạn cũng tập thiền đều đặn, đừng ngần ngại báo cho sếp biết nhé.</p>
+<h1 id="tầm-quan-trọng-của-sự-tập-trung-và-làm-việc-chuyên-sâu-với-ngành-công-nghệ">Tầm quan trọng của sự tập trung và làm việc chuyên sâu với ngành công nghệ</h1>
+<p>Mình vừa tổng hợp các bí kíp để rèn luyện sự tập trung, một kỹ năng tối quan trọng của một người kỹ sư. Vì sao lại vậy? Hơn bất cứ ngành nghề nào khác, ngành công nghệ có tốc độ thay đổi chóng mặt, kiến thức mới ra liên tục, hàng triệu người nghiên cứu và public các bài báo khoa học mỗi năm, hàng triệu người publish các dòng code trên github mỗi năm, với hàng tỉ dòng code. Hàng chục framework và thư viện mới cho bất cứ ngôn ngữ lập trình nào mà bạn chọn. Vậy nếu vẫn dùng cách thông thường đối diện với sự bất thường này, bạn nghĩ có được không?
+Qua quá trình tiếp xúc với nhiều bạn kỹ sư đồng nghiệp mà mình cho là xứng đáng nhận danh hiệu 10x engineer, mình thấy rất rõ những thói quen và đặc điểm tính cách mà họ xây dựng được. Một trong số đó chính là khả năng tập trung nghiên cứu một vấn đề mới, một framework mới, một ngôn ngữ mới trong thời gian rất ngắn. Họ có thể chỉ mất vài giờ để thử nghiệm một ngôn ngữ và framework mới, nắm được khái niệm căn bản của framework, lý do framework ra đời, kiến trúc của framework, các thành phần của nó, cũng như khi nào thì nên sử dụng nó.</p>
+<p><img src="/img/10x-top-frameworks.png" alt="frameworks" title="Rất rất nhiều framework như thế này mỗi năm"></p>
+<p>Nếu bạn không đủ sự tập trung cho từng công nghệ mới, bạn sẽ mất nhiều năm để tìm hiểu một công nghệ duy nhất, do đó bạn sẽ mất rất nhiều cơ hội vì không biết được những công nghệ khác hay như thế nào, cũng như lúc bạn làm chủ được công nghệ đấy thì lúc công nghệ cũng lỗi thời rồi, hoặc rất nhiều người khác đã vượt qua bạn trước đó. Còn nếu có đủ sự tập trung, thời gian chỉ tính bằng giờ hoặc ngày. Và quan trọng hơn hết, một người đã xây cho mình thói quen tập trung và đi sâu vào công nghệ rồi, thì sẽ tới thời điểm các bạn như <code>ve sầu thoát xác</code>, bạn không còn nhận ra mình nữa vì tầm nhận thức lên một tầm cao mới, cũng như khi tích lũy đủ kiến thức về các loại framework rồi, bạn dễ dàng học framework mới dễ như trở bàn tay. Điều này cũng giống như một người thợ sửa xe máy lành nghề, bạn có đưa bất cứ chiếc xe hỏng hỏng nào, cho dù công nghệ có thay đổi họ cũng nhanh chóng phát hiện ra vấn đề và sửa được ngay.</p>
+<p>Bài cũng khá dài rồi, mình xin tạm kết thúc chủ đề ở đây, nếu các bạn quan tâm tiếp ở cấp độ chuyên sâu hơn nữa làm sao để luyện tập các kỹ năng vừa nói ở trên, đừng ngần ngại để lại comment bên dưới nhé.</p>
 ]]></content>
             
             
@@ -51,6 +147,506 @@
                 
                     
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/soft-skill/" term="soft-skill" label="soft-skill" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 4)</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-4/" />
+            <id>https://learn2code.dev/posts/10x-engineer-part-4/</id>
+            <updated>2020-04-10T13:56:20+07:00</updated>
+            <published>2020-03-20T21:11:05+07:00</published>
+            <author>
+                    <name>Lương Ngọc Long</name>
+                    <uri>https://learn2code.dev/</uri>
+                    <email>longbkit@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Các loại IDE dành cho lập trình viên IDE là chương trình dành để viết các dòng lệnh ấy các bạn, IDE nếu chọn và cài đặt đúng không thể nghi ngờ gì có thể boost performance của bạn lên cả trăm lần.]]></summary>
+            
+                <content type="html"><![CDATA[<h1 id="các-loại-ide-dành-cho-lập-trình-viên">Các loại IDE dành cho lập trình viên</h1>
+<p>IDE là chương trình dành để viết các dòng lệnh ấy các bạn, IDE nếu chọn và cài đặt đúng không thể nghi ngờ gì có thể boost performance của bạn lên cả trăm lần.</p>
+<p>Trong bài này, mình sẽ chia sẻ một số IDE phổ biến và cách thiết lập tối ưu cho môi trường code.</p>
+<p>Bạn có thể xem lại các phần trước tại đây:</p>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-1/">Sếp nhớ trả lương em gấp 10 nha (phần 1)</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-2/">Sếp nhớ trả lương em gấp 10 nha (phần 2)</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-3/">Sếp nhớ trả lương em gấp 10 nha (phần 3)</a></p>
+</blockquote>
+<h3 id="1-vim">1. vim</h3>
+<p>Phần này thực sự là hardcore nè các bạn.</p>
+<p>Mình có cơ duyên làm việc chung với một anh bạn tên là Minh Phạm, và môi trường làm việc của anh ấy chỉ có <code>terminal</code> và <code>vim</code> thôi, kèm một đến hai cửa sổ Chrome, mọi giao tiếp chat, email để qua giao diện web. Ấy thế mà performance khi làm việc phải nói là siêu tốc.</p>
+<p>Bài viết này mình sẽ nhờ sự cộng tác của anh bạn Minh Phạm để có thể mô tả được toàn bộ tinh túy của <code>vim</code>. Các bạn nghe không nhầm đâu, dùng vim làm IDE cho lập trình.</p>
+<p>Tuy nhiên trước hết, mình khuyến cáo bài viết này có thể hơi extreme, trong thực tế, các IDE như Visual Studio Code hay WebStorm đều có nhiều tiện ích mở rộng siêu hay, mặc dù không phủ nhận <code>vim</code> rất flexible và cũng có vô vàn tiện ích mở rộng nhưng xét về nhiều mặt khi code và debug thì có lẽ cần phân tích kỹ hơn. Sẽ có không ít ngữ cảnh / mục đích sử dụng <code>vim</code> sẽ tỏa sáng nhưng ngược lại vẫn không ít trường hợp Visual Studio Code / Webstorm là lựa chọn tuyệt vời hơn.</p>
+<p>&hellip;</p>
+<h3 id="2-visual-studio-code">2. Visual Studio Code</h3>
+<p>Từ khi ông Satya Nadella lên CEO của Microsoft chúng ta thấy Microsoft chuyển dịch rất mạnh về mảng cloud software, đồng thời rất tích cực trong việc đóng góp cho cộng đồng mã nguồn mở, với các động thái như mua lại github, hay hỗ trợ tích hợp môi trường Linux vào ngay trong HĐH Windows, và Visual Studio Code là một trong những động thái rất đáng hoan nghênh đó.</p>
+<p>Hiện nay có thể nói là IDE này là IDE yêu thích nhất của mình cho khá nhiều công việc, bao gồm cả coding website, chỉnh sửa các loại config, ghi chú, hay cả viết blog (blog này mình viết bằng Visual Studio Code trên cú pháp markdown đấy).</p>
+<p>Dưới đây là một số tổng hợp các plugin rất tuyệt vời cho Visual Studio Code mà có thể boost performance của bạn lên gấp nhiều lần.</p>
+<ul>
+<li><a href="https://ehkoo.com/bai-viet/vscode-must-have-plugins">https://ehkoo.com/bai-viet/vscode-must-have-plugins</a></li>
+<li><a href="https://techtalk.vn/20-bo-visual-studio-code-mo-rong-tot-nhat-cho-cac-nha-phat-trien-front-end.html">https://techtalk.vn/20-bo-visual-studio-code-mo-rong-tot-nhat-cho-cac-nha-phat-trien-front-end.html</a></li>
+<li><a href="https://viblo.asia/p/nhung-plugin-can-thiet-cho-visual-studio-code-Ljy5VMRMlra">https://viblo.asia/p/nhung-plugin-can-thiet-cho-visual-studio-code-Ljy5VMRMlra</a></li>
+<li><a href="https://quantrimang.com/extension-visual-studio-code-cho-lap-trinh-de-dang-hon-163456">https://quantrimang.com/extension-visual-studio-code-cho-lap-trinh-de-dang-hon-163456</a>
+(rất thích plugin Rest Client được đề xuất ở đây để làm việc với API)</li>
+</ul>
+<p>Rất tiếc, mình chưa thấy một trang blog nào thực sự tổng hợp hết tinh tùy của Visual Studio Code, tuy nhiên nếu bạn theo các link ở trên sẽ thu lượm được kha khá plugin bổ ích. Hẹn các bạn trong một series bài viết khác chuyên sâu hơn về Visual Studio Code, hy vọng sẽ giúp ích.</p>
+<p>À, bạn nhớ skill hotkey thần thánh mình đã viết ở bài đầu tiên nhé. Đặt câu hỏi là VS Code có những hotkeys nào hay, và tự mình đi tìm nha.</p>
+<h3 id="3-webstorm">3. Webstorm</h3>
+<p>IDE này cũng rất chất, chỉ tội là có phí.</p>
+<p>Dưới đây là tổng hợp một vài plugins chất cho WebStorm, rất tiếc ít có bài viết tiếng Việt nào chất lượng nói về WebStorm hiện tại nên mình share tạm link tiếng Anh:</p>
+<ul>
+<li><a href="https://medium.com/@jughosta/25-productivity-tips-and-tricks-for-webstorm-and-other-intellij-idea-based-ides-d7430ee32a61">https://medium.com/@jughosta/25-productivity-tips-and-tricks-for-webstorm-and-other-intellij-idea-based-ides-d7430ee32a61</a></li>
+<li><a href="https://blog.codota.com/top-25-javascript-plugins-for-webstorm-intellij/">https://blog.codota.com/top-25-javascript-plugins-for-webstorm-intellij/</a></li>
+<li><a href="https://www.sitepoint.com/productivity-tips-for-webstorm-and-angular-part-1/">https://www.sitepoint.com/productivity-tips-for-webstorm-and-angular-part-1/</a></li>
+<li><a href="https://www.sitepoint.com/productivity-tips-for-webstorm-and-angular-part-2/">https://www.sitepoint.com/productivity-tips-for-webstorm-and-angular-part-2/</a></li>
+<li>Dành cho lập trình viên php: <a href="https://github.com/WyriHaximus/awesome-phpstorm">https://github.com/WyriHaximus/awesome-phpstorm</a></li>
+</ul>
+<h3 id="4-các-trình-ide-khác">4. Các trình IDE khác</h3>
+<p>Ngoài các IDE trên, có rât nhiều IDE khác tùy vào ngôn ngữ / framework các bạn đang sử dụng, vd bạn có thể dùng Android Studio để code app Android, XCode để code app iOS / macOS, Eclipse IDE (Android Studio là mở rộng của Eclipse IDE, thường hay được dùng để code C/C++ hay Java, hỗ trợ customize mạnh). Ngoài ra, mình biết không ít bạn đang dùng nhiều trình soạn thảo text khác để code như Sublime Text, Atom, Notepad++, mỗi phần mềm đều có ưu nhược riêng, và đều là lựa chọn tốt cho một số mục đích khác nhau. Các bạn có thể chia sẻ thêm về trải nghiệm của bạn với từng IDE ở bên dưới phần comment cho mọi người cùng học hỏi nhé!</p>
+<h3 id="phần-hay-nhất-của-ide">Phần hay nhất của IDE</h3>
+<p>Bạn có biết, điều gì hay nhất của IDE mà bạn có thể chưa tận dụng được?
+Theo mình, code snippet (trong VSCode) hay Live Templates (trong webstorm) chính là điều đó.
+Nếu bạn là lập trình viên, bạn sẽ rất hay làm việc với vòng for, có thể là thế này</p>
+<p><code>for (i = 0; i++; i&lt;n) { console.log(&quot;i&quot;, i); }</code></p>
+<p>Vậy, tại sao bạn cứ lặp đi lặp lại chính mình làm gì, chỉ cần cài sẵn code snippet, chỉ cần tạo code snippet mẫu và gán lệnh tắt cho nó, bạn sẽ tiết kiệm được vô vàn công sức và thời gian.</p>
+<p><img src="/img/10x-code-snippets.gif" alt="code snippet" title="VS Code"></p>
+<p><img src="/img/10x-live-templates.gif" alt="code snippet" title="Webstorm"></p>
+<p>Phần này có rất nhiều thủ thuật hay đi kèm, mình sẽ share thêm một bài chuyên sâu về code snippet sau bạn nhé.</p>
+<ul>
+<li>Code snippets cho Visual Studio Code <a href="https://code.visualstudio.com/docs/editor/userdefinedsnippets">https://code.visualstudio.com/docs/editor/userdefinedsnippets</a></li>
+<li>Live templates cho Webstorm <a href="https://www.jetbrains.com/help/webstorm/using-live-templates.html">https://www.jetbrains.com/help/webstorm/using-live-templates.html</a></li>
+<li>Gần như tất cả IDE đều có tính năng tương tự, nếu bạn dùng IDE khác, hãy thử tìm hiểu và comment ở bên dưới để chia sẻ thêm với bạn đọc nhé.</li>
+</ul>
+<p>Bạn có thể xem tiếp phần 5 tại đây:</p>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-5/">Sếp nhớ trả lương em gấp 10 nha (phần 5)</a></p>
+</blockquote>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/soft-skill/" term="soft-skill" label="soft-skill" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 3)</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-3/" />
+            <id>https://learn2code.dev/posts/10x-engineer-part-3/</id>
+            <updated>2020-04-10T13:56:16+07:00</updated>
+            <published>2020-03-15T21:11:05+07:00</published>
+            <author>
+                    <name>Lương Ngọc Long</name>
+                    <uri>https://learn2code.dev/</uri>
+                    <email>longbkit@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Lần này chủ đề ít hardcore hơn một chút, nhưng bảo đảm sẽ giúp bạn cứu tiếp nhiều giây của cuộc đời, tích tiểu thành đại. Mỗi năm cũng tiết kiệm được cả vài tuần chứ không ít nhé các bạn.
+Bạn có thể xem lại các phần trước tại đây:]]></summary>
+            
+                <content type="html"><![CDATA[<p>Lần này chủ đề ít hardcore hơn một chút, nhưng bảo đảm sẽ giúp bạn cứu tiếp nhiều giây của cuộc đời, tích tiểu thành đại. Mỗi năm cũng tiết kiệm được cả vài tuần chứ không ít nhé các bạn.</p>
+<p>Bạn có thể xem lại các phần trước tại đây:</p>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-1/">Sếp nhớ trả lương em gấp 10 nha (phần 1)</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-2/">Sếp nhớ trả lương em gấp 10 nha (phần 2)</a></p>
+</blockquote>
+<p>Hôm nay chúng ta nói về trình duyệt Chrome, trình duyệt mà hầu hết các bạn dùng duyệt web hàng ngày, vậy các bạn có bao giờ nghĩ đến việc Chrome có thể trở nên tuyệt vời hơn như thế nào chưa?</p>
+<p>Đây nhé &hellip;</p>
+<h3 id="1-bạn-hay-xem-youtube-phải-không">1. Bạn hay xem Youtube phải không?</h3>
+<p>Thấy phiền vì quảng cáo, hãy cài ngay plugin Youtube AdBlocker, tiết kiệm bao nhiêu giây các bạn?
+(mỗi quảng cáo tối thiểu 5 giây, công sức canh me bấm nút &ldquo;Bỏ qua quảng cáo&rdquo;, rồi thỉnh thoảng bác Google tặng cho chúng ta cái video 30s coi chơi)</p>
+<h3 id="2-bạn-đã-bao-giờ-lâm-vào-cảnh-loạn-xà-ngầu-vì-mở-quá-nhiều-tab-chưa">2. Bạn đã bao giờ lâm vào cảnh loạn xà ngầu vì mở quá nhiều Tab chưa?</h3>
+<p>$#^&amp;@^#@&amp;$#@*($)</p>
+<p>Dĩ nhiên rồi.</p>
+<p>Nó sẽ như thế này:</p>
+<p><img src="/img/10x-chrome-tabs.png" alt="" title="Điếng người khi ráng đi tìm tab chứa nội dung mình cần"></p>
+<p>Đây là bí kíp mình học được từ giáo sư đáng kính thời còn làm việc ở Seoul - Hàn Quốc.</p>
+<p>Mỗi khi cần tìm hiêu về vấn đề gì đó, giáo sư sẽ mở một cửa sổ mới hoàn toàn với một tab duy nhất.
+Sau đó nếu cần tìm hiểu thêm các vấn đề liên quan đến chủ đề đó thì cứ mở thêm trong cửa sổ đó.</p>
+<p>Nếu có vấn đề khác nữa cần tìm hiểu, chúng ta lại mở cửa sổ mới và tương tự như thế.
+Bằng cách này, lúc chuyển cửa sổ, chúng ta có thể nhìn vào nội dung của Tab bất kì để đoán toàn bộ nội dung của cửa sổ đó, cũng như số lượng Tab / cửa sổ lúc này sẽ đủ ít để có thể nhìn thấy rõ tiêu đề từng Tab.</p>
+<p>Nó sẽ trông như thế này cho từng cửa sổ  (trong thực tế mỗi cửa sổ lúc dùng vẫn phóng to ra như thường)</p>
+<p><img src="/img/10x-chrome-simplify.png" alt=""></p>
+<p>Nhìn ví dụ, khi dùng cửa sổ bên trái, ta dễ biết là chúng ta đang làm việc trên blog, còn chuyển qua cửa sổ bên phải, dễ dàng biết ngay là đang nghiên cứu về deep learning / convolutional neuron network.</p>
+<p>Cái này người ta gọi là giảm tải cho nhận thức, không bị overload nhận thức (cognitive overload). Thử làm theo xem sao, bạn sẽ thấy tư duy bạn trở nên trong suốt tỉnh táo hơn rất nhiều, đồng thời độ tập trung khi làm việc trên từng vấn đề được tăng lên đáng kể đấy! Làm xong nhớ báo cáo kết quả áp dụng với sếp!</p>
+<h3 id="3-lưu-trữ-nội-dung-hay-để-đọc-lại">3. Lưu trữ nội dung hay để đọc lại</h3>
+<p>Bạn có thể dùng bookmark của Chrome để lưu các link thường truy cập hoặc extension Pocket (lưu lại để đọc sau).</p>
+<p>Điều quan trọng để tinh thần luôn sáng suốt là bạn luôn để ý sắp xếp Bookmark của Chrome được tổ chức theo cấu trúc rõ ràng, có thể phân chia theo concept, đặc điểm công việc &hellip; để lúc cần có thể tìm thấy nhanh chóng.</p>
+<h3 id="4-cũng-là-chuyện-tab">4. Cũng là chuyện Tab</h3>
+<p>Với bí kíp quản lý các link thường truy cập ở trên vào Bookmark, dần dần bạn sẽ thấy thật vẫn chưa tiện lắm khi cần mở link nào đó trong Bookmark.</p>
+<p>Xin giới thiệu extension Quick Tabs. Bạn còn nhớ trong bài 1 mình nói về hotkeys chứ? Nào, chỉ với phím tắt Ctrl+Q, sẽ mở ra ngay giao diện tìm kiếm gần như google, và bạn có thể nhập vào một đoạn ngắn trong tiêu đề / đường dẫn để có thể nhanh chóng truy xuất, lưu ý là có nhiều link đã lưu ở lịch sử trình duyệt bạn cũng không cần phải lưu ở Bookmark mới có thể tìm kiếm!</p>
+<p><img src="/img/10x-chrome-bookmark.png" alt=""></p>
+<h3 id="5-vâng-chắc-chrome-chỉ-có-mỗi-tab-là-đáng-nhớ-d">5. Vâng, chắc Chrome chỉ có mỗi Tab là đáng nhớ :D</h3>
+<p>Ví dụ hôm nay bạn đang nghiên cứu về chủ đề big data, bạn đang nghiên cứu dở chừng và mở chừng 5 tabs, mà tới giờ ngủ rồi phải tắt máy thôi. Ấy thế ngày mai mở máy lên lại không lẽ lại đi mò lại từng link, hay giờ phải lưu lại từng link vào bookmark?</p>
+<p>Vậy thử ngay extension Session Buddy nghen các bạn <a href="https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko">https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko</a></p>
+<p>Nó cho phép chúng ta dễ dàng lưu lại một nhóm các Tab đang mở lại và mở lại nguyên cả nhóm chỉ với một click chuột.</p>
+<p><img src="/img/10x-chrome-session-buddy.png" alt=""></p>
+<h3 id="6-lướt-web-kiểu-dân-công-nghệ">6. Lướt web kiểu dân công nghệ</h3>
+<p>Ý là dùng chuột có vẻ không ra dáng dân công nghệ lắm, nên cứ phải dùng bàn phím thôi các bạn ạ.
+Nói chơi thôi, các bạn có thể thử trải nghiệm cảm giác lạ khi lướt web có thể truy xuất các bài viết trên trang chỉ trong vòng vài nốt nhạc, nhanh hơn dùng chuột nhiều.</p>
+<p>Chỉ cần cài extension <a href="https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc">https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc</a></p>
+<p>Hình minh họa bên dưới là đọc bào vnexpress.net, để bắt đầu, bạn bấm <code>f</code>, lúc này mỗi link trên web sẽ hiển thị một hoặc vài ký tự. Bạn muốn vào link nào chỉ cần bấm đúng các ký tự đó thì trình duyệt tự mở link. Rất smart.</p>
+<p><img src="/img/10x-chrome-surfing-keys.png" alt=""></p>
+<p>Và như một thói quen của sự tối ưu hóa mọi thứ, chúng ta hãy cũng nhau đi tìm phím tắt của chương trình toàn phím tắt này nhé</p>
+<p><img src="/img/10x-chrome-surfing-keys-2.png" alt=""></p>
+<h3 id="7-các-plugins-tuyệt-vời-khác">7. Các plugins tuyệt vời khác</h3>
+<p>Khi lập trình web, sẽ có rất nhiều plugin hỗ trợ kèm theo Chrome, tiêu biểu là các plugin React / Redux khi các bạn code ReactJS, hay plugin hỗ trợ xem thông tin SEO metadata, SEO performance metrics, hay chỉnh sửa Cookie cho custom cookie trước khi gởi lên server, hay xem thông tin màu sắc, font chữ của các element trên web, &hellip; nói chung là vô vàng các thể loại plugin dành cho lập trình nhé các bạn. Phần này là bài tập cho các bạn tự đi tìm, như thường lệ, chỉ cần có câu hỏi, sẽ có câu trả lời!</p>
+<p>Bạn có thể xem tiếp phần 4 tại đây:</p>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-4/">Sếp nhớ trả lương em gấp 10 nha (phần 4)</a></p>
+</blockquote>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/soft-skill/" term="soft-skill" label="soft-skill" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 2)</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-2/" />
+            <id>https://learn2code.dev/posts/10x-engineer-part-2/</id>
+            <updated>2020-04-10T13:55:59+07:00</updated>
+            <published>2020-03-10T21:11:05+07:00</published>
+            <author>
+                    <name>Lương Ngọc Long</name>
+                    <uri>https://learn2code.dev/</uri>
+                    <email>longbkit@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Phần trước tôi đã nhắc đến tất cả công việc nếu bạn dùng một công cụ đúng thì hiệu quả sẽ tăng lên đáng kể.
+Bạn có thể xem lại phần 1 tại đây:
+ Sếp nhớ trả lương em gấp 10 nha (phần 1)]]></summary>
+            
+                <content type="html"><![CDATA[<p>Phần trước tôi đã nhắc đến tất cả công việc nếu bạn dùng một công cụ đúng thì hiệu quả sẽ tăng lên đáng kể.</p>
+<p>Bạn có thể xem lại phần 1 tại đây:</p>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-1/">Sếp nhớ trả lương em gấp 10 nha (phần 1)</a></p>
+</blockquote>
+<p>Hình ảnh máy gặt đập liên hợp ở dưới là một ví dụ rất rõ minh chứng cho điều này.</p>
+<p><img src="/img/rice-field.jpg" alt="Tool" title="Với chiếc máy gặt đập liên hợp này không còn cảnh một dàn các bác nông dân cầm liềm để gặt lúa, rồi vác từng bao về nhà để xay nữa."></p>
+<p>Hôm nay với tư cách là một người dùng Windows lâu năm, đã từng cảm giác không thể thiếu Windows nhưng sau khoảng một tháng dùng Ubuntu 18.04 với một số kỹ thuật tweak lại một cách thích hợp nhất cho developer giờ đây tôi lại cảm giác không thể thiếu Ubuntu. Đoạn dưới đây sẽ hướng dẫn các bạn cách setup Ubuntu làm sao để có thể tận dụng tối đa hiệu suất lập trình, vd cài đặt phím tắt, cài terminal số một zsh kèm các plugins thiết yếu.</p>
+<h3 id="1-cài-ibus-unikey-để-hỗ-trợ-đánh-tiếng-việt">1. Cài ibus-unikey để hỗ trợ đánh tiếng Việt</h3>
+<p>Lưu ý: trình đánh tiếng Việt này sẽ không tương thích với các ứng dụng cài bằng snap, do đó để đánh được tiếng Việt trong ứng dụng luôn cài đặt ứng dụng từ đuôi .deb (Debian). Ví dụ bạn có thể vào website chính hãng skype / chrome / slack để tải .deb về cài đặt, sẽ có thể đánh tiếng Việt phà phà.</p>
+<h3 id="2-tuyệt-chiêu-10x-nằm-phần-lớn-ở-đây-với-các-bạn-hay-dùng-câu-lệnh">2. Tuyệt chiêu 10x nằm phần lớn ở đây với các bạn hay dùng câu lệnh</h3>
+<p>Bạn có muốn khi làm việc với các dòng lệnh bash, vd cài đặt npm, cài đặt chương trình, test api bằng curl, watch, chạy docker, &hellip; hiệu suất sẽ tăng lên đáng kể không?</p>
+<p>Vậy hãy theo các bước hướng dẫn bên dưới, thì bạn sẽ có thể biến terminal của bạn thành như sau:</p>
+<p><img src="/img/zsh-terminal.gif" alt="zsh terminal" title="Termninal nâng cấp lần 1"></p>
+<p>Cài zsh + oh-my-zsh và zsh plugins, đặc biệt là zsh-autosuggestions
+<a href="https://github.com/robbyrussell/oh-my-zsh">https://github.com/robbyrussell/oh-my-zsh</a></p>
+<ul>
+<li>
+<p>Tham khảo thêm thông tin của plugins zsh-autosuggestions ở đây <a href="https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md">https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md</a></p>
+</li>
+<li>
+<p>Chuyển đổi qua theme agnoster để hiển thị tốt hơn (<a href="https://github.com/agnoster/agnoster-zsh-theme),">https://github.com/agnoster/agnoster-zsh-theme),</a></p>
+</li>
+<li>
+<p>Cài font powerline-fonts https://github.com/Lokaltog/powerline-fonts</p>
+</li>
+<li>
+<p>Thêm dòng sau DEFAULT_USER=$USER vào file ~/.zshrc</p>
+</li>
+<li>
+<p>Và có thể enable rất nhiều plugins tuyệt vời cho oh-my-zsh. Ví dụ một số plugins tiêu biểu</p>
+</li>
+</ul>
+<p>plugins=(
+git,
+command-not-found,
+extract,
+git-extras,
+history-substring-search,
+zsh-autosuggestions
+)</p>
+<ul>
+<li>Bạn có thể thấy</li>
+</ul>
+<blockquote>
+<p>plugin <code>git</code> sẽ bổ sung tên git branch khi ở trong 1 folder có dùng git.</p>
+</blockquote>
+<blockquote>
+<p>plugin <code>command-not-found</code> sẽ hỗ trợ suggest package để cài đặt nếu chưa có</p>
+</blockquote>
+<blockquote>
+<p>plugin <code>history-substring-search</code> sẽ hỗ trợ nhập 1 đoạn text trong câu, bấm nút lên (Up) và terminal sẽ show câu lệnh gần nhất có chứa đoạn text đó. Đặc biệt tiện trong trường hợp chạy các câu lệnh dài như docker, trong hình là tác giả chỉ nhớ là có chạy docker neo4j nhưng không nhớ chính xác câu lệnh.</p>
+</blockquote>
+<p><img src="/img/zsh-plugins.png" alt="zsh plugins" title="Plugins và ý nghĩa"></p>
+<blockquote>
+<p>plugin <code>autosuggestions</code> là khi đánh câu lênh, termnial sẽ gợi nhắc câu lệnh gần đây nhất khớp với câu lệnh đang đánh, vd trước đó nếu đã đánh <code>git checkout master</code>, lúc đánh <code>git</code> thì termninal tự hiện ra dấu nhắc full câu lệnh <code>git checkout master</code> với phần gợi nhắc được làm mờ đi, nếu đúng là câu lệnh bạn muốn dùng, chỉ cần nhấp nút qua phải (Right) là được.</p>
+</blockquote>
+<p><img src="/img/zsh-substring-plugin.png" alt="zsh plugins"></p>
+<h3 id="3-alias---tiết-kiệm-thêm-vài-giây-cuộc-đời">3. Alias - tiết kiệm thêm vài giây cuộc đời</h3>
+<p>bash script của Linux có hỗ trợ đặt alias hay có thể hiểu là lệnh viết tắt rất tiện. Ví dụ bạn hình dung một số trường hợp sau:</p>
+<ul>
+<li>git checkout: <code>git checkout master</code>, nếu có alias <code>gco</code> thì chỉ cần đánh <code>gco master</code></li>
+<li>Siêu cấp hơn: khi cần add files, commit, push lên remote origin, chúng ta thường đánh 3 câu lệnh</li>
+</ul>
+<p><code>git add .</code>
+<code>git commit -m 'message'</code>
+<code>git push origin master</code></p>
+<p>Nay nếu setup alias, chúng ta có thể chỉ cần đánh lệnh <code>gacp 'message'</code>, a gợi nhắc ta chữ add, c gợi nhắc chữ commit and p gợi nhắc chữ push, vẫn rất dễ nhớ và mình không nói ngoa, bạn có thể thử kiểm nghiệm xem tiết kiệm được bao nhiêu giây cuộc đời nào?</p>
+<ul>
+<li>TODO: chỗ này mình sẽ publish cho các bạn một git repo tổng hợp các alias xịn sò nha. Nhớ nhắc mình nếu chờ hoài chưa thấy.</li>
+</ul>
+<h3 id="4-hỗ-trợ-chia-tách-cửa-sổ-câu-lệnh">4. Hỗ trợ chia tách cửa sổ câu lệnh</h3>
+<p>Cài terminator để hỗ trợ chia cửa sổ termninal thành nhiều ô nhỏ, rất tiện trong các trường hợp cần chạy nhiều câu lệnh hoặc theo dõi nhiều kết quả termninal đồng thời.</p>
+<p><img src="/img/10x-terminator.png" alt="" title="Multi-tasking như thế này"></p>
+<p>Cách cài đặt: <code>sudo apt install terminator</code></p>
+<p><a href="https://linux.die.net/man/1/terminator">https://linux.die.net/man/1/terminator</a></p>
+<p>Các phím tắt:</p>
+<blockquote>
+<p><code>Ctrl+Shift+O</code> chia terminal theo chiều ngang
+<code>Ctrl+Shift+E</code> chia terminal theo chiều dọc
+<code>Ctrl+Shift+Right</code> di chuyển qua cửa sổ bên phải
+<code>Ctrl+Shift+S</code> Ẩn / hiện thanh cuộn
+<code>Ctrl+Shift+N</code> hoặc <code>Ctrl+Tab</code> chuyển cửa sổ theo thứ tự từ trái qua phải từ trên xuống dưới
+<code>Ctrl+Shift+P</code> hoặc <code>Ctrl+Shift+Tab</code> chuyển cửa sổ theo tứ tự từ phải qua trái từ dưới lên trên
+<code>Alt+UpMove</code> chuyển qua khung lệnh phía trên khung cửa sổ hiện tại</p>
+</blockquote>
+<h3 id="5-cài-brew-để-tiện-cài-đặt-các-chương-trình-khác">5. Cài brew để tiện cài đặt các chương trình khác</h3>
+<p><a href="http://linuxbrew.sh/">http://linuxbrew.sh/</a></p>
+<h3 id="6-cài-đặt-docker--docker-compose-để-dễ-dàng-chạy-các-service-bên-thứ-ba">6. Cài đặt docker &amp; docker-compose để dễ dàng chạy các service bên thứ ba</h3>
+<p>Ví dụ bạn muốn vọc wordpress để tự tạo website cho mình, mà để cài wordpress phải cài đặt nào là database, nào là apache web server, nào là php, rồi wordpress? Với docker &amp; docker-compose chỉ một nốt nhạc thôi bạn à. Điều này làm cho việc vọc vạch của bạn trở nên dễ hơn gấp nhiều lần, từ đó động lực để vọc cái mới của bạn cũng tăng nhiều, dẫn tới bạn biết nhiều hơn, giỏi nhanh hơn. Khi biết thêm gì nhớ nhắn nhỏ sếp bạn một câu để sếp biết nhé.</p>
+<p>Thử ngay nào: nếu chưa biết cách cài đặt docker &amp; docker-compose, bạn có thể theo hướng dẫn ở đây</p>
+<ul>
+<li>Tiếng Anh: <a href="https://docs.docker.com/compose/install/">https://docs.docker.com/compose/install/</a></li>
+<li>Tiếng Việt: <a href="https://www.thegioimaychu.vn/blog/ao-hoa/huong-dan-cai-dat-docker-community-edition-va-docker-compose-tren-ubuntu-windows-va-macos-p4441/">https://www.thegioimaychu.vn/blog/ao-hoa/huong-dan-cai-dat-docker-community-edition-va-docker-compose-tren-ubuntu-windows-va-macos-p4441/</a></li>
+</ul>
+<p>Sau khi cài đặt xong, tải file này xuống <a href="/src-ref/docker-compose-wordpress.yml">link tải</a></p>
+<p>Tiếp đến, bạn vào thư mục chứa file vừa tải, đánh lệnh <code>docker-compose -f docker-compose-wordpress.yml up</code></p>
+<p>Và oh la la, wordpress đã lên và sẵn sàng cho bạn tại địa chỉ <a href="http://localhost:8000">http://localhost:8000</a></p>
+<h3 id="7-phần-mềm-chụp-ảnh-màn-hình-và-ghi-chú-minh-họa-siêu-cấp">7. Phần mềm chụp ảnh màn hình và ghi chú, minh họa siêu cấp</h3>
+<p><a href="https://github.com/lupoDharkael/flameshot#install">https://github.com/lupoDharkael/flameshot#install</a></p>
+<p>Để tiện sử dụng, sửa lại nút Print Screen để map với chương trình này. Sau đó mỗi lần bấm Print Screen sẽ qua mode chụp hình với flameshot.</p>
+<p>Cách chỉnh hotkey lại:</p>
+<ul>
+<li>Bỏ mapping nút PrtScr the PrtScr binding by this command</li>
+</ul>
+<p><code>gsettings set org.gnome.settings-daemon.plugins.media-keys screenshot ''</code></p>
+<ul>
+<li>Đến mục Settings -&gt; Devices -&gt; Keyboard và cuộn xuống dưới, bấm nút + để tạo shortcut tùy chỉnh</li>
+</ul>
+<p>Nhập: <code>flameshot</code>, command: <code>/usr/bin/flameshot gui</code></p>
+<p><img src="/img/screenshot-flameshot.png" alt=""></p>
+<ul>
+<li>Một số hotkey của flameshot: nhấn nút space để chỉnh màu sắc khi vẽ, cuộn chuột lên / xuống để tăng kích thước chữ hoặc độ dày viền.</li>
+</ul>
+<h3 id="8-nếu-bạn-cần-dùng-vpn-hãy-cài-openvpn">8. Nếu bạn cần dùng vpn, hãy cài openvpn</h3>
+<h3 id="9-cài-hot-corners-để-khi-đưa-chuột-vào-các-góc-sẽ-có-hiệu-ứng-chuyển-qua-màn-hình-chọn-cửa-sổ-rất-ảo-diệu">9. Cài hot corners để khi đưa chuột vào các góc sẽ có hiệu ứng chuyển qua màn hình chọn cửa sổ rất ảo diệu</h3>
+<p><a href="https://www.fosslinux.com/4184/how-to-enable-hot-corners-in-ubuntu-18-04.htm/">https://www.fosslinux.com/4184/how-to-enable-hot-corners-in-ubuntu-18-04.htm/</a></p>
+<h3 id="10-phần-mềm-ghi-chú-evernote">10. Phần mềm ghi chú evernote</h3>
+<p> https://github.com/klaussinani/tusk/releases/tag/v0.11.0</p>
+<h3 id="10-cài-đặt-để-giao-diện-đẹp-lung-linh-như-máy-mac-bao-gồm-cả-tweek-font-chữ-nhìn-rất-xịn-sò">10. Cài đặt để giao diện đẹp lung linh như máy Mac (bao gồm cả tweek font chữ, nhìn rất xịn sò)</h3>
+<p><a href="https://vitux.com/how-to-change-login-lock-screen-background-in-ubuntu/">https://vitux.com/how-to-change-login-lock-screen-background-in-ubuntu/</a></p>
+<h2 id="troubleshooting">Troubleshooting</h2>
+<p>Một số  lưu ý khi cài đặt dual book Ubuntu &amp; Windows:</p>
+<ul>
+<li>
+<p>Kiểm tra windows đang boot ở mode nào (Legacy vs UEFI), nếu là mode UEFI thì ubuntu cũng cần cài ở mode đó</p>
+</li>
+<li>
+<p>Một số máy ko cho chọn boot USB Ubuntu ở mode Legacy thì sẽ bị lỗi vì ubuntu cài ở mode UEFI trong khi win chạy ở mode legacy =&gt; vào https://help.ubuntu.com/community/Boot-Repair xem hướng dẫn để convert về mode legacy</p>
+</li>
+<li>
+<p>Có 2 loại format ổ cứng, MBR hoặc GPT, MBR thì hỗ trợ tối đa 3 primary partition và 1 extended partition.</p>
+</li>
+<li>
+<p>Chỉ có partition primary mới boot được</p>
+</li>
+<li>
+<p>Xử lỗi ko boot đc sau khi cài ubuntu, tool boot-repair: <a href="https://help.ubuntu.com/community/Boot-Repair">https://help.ubuntu.com/community/Boot-Repair</a></p>
+</li>
+</ul>
+<h2 id="video">Video</h2>
+<p>TODO: đã qua hai bài rồi, để các bạn có thể hình dung rõ hơn 10x engineer như thế nào, mình sẽ up video mình dùng máy tính như thế nào. Một lần nữa, nhớ nhắc nếu mình lỡ quên nghen các bạn :-D</p>
+<p>Bạn có thể xem tiếp phần 3 tại đây:</p>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-3/">Sếp nhớ trả lương em gấp 10 nha (phần 3)</a></p>
+</blockquote>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/soft-skill/" term="soft-skill" label="soft-skill" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 1)</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-1/" />
+            <id>https://learn2code.dev/posts/10x-engineer-part-1/</id>
+            <updated>2020-04-10T13:55:49+07:00</updated>
+            <published>2020-03-05T21:11:05+07:00</published>
+            <author>
+                    <name>Lương Ngọc Long</name>
+                    <uri>https://learn2code.dev/</uri>
+                    <email>longbkit@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Vì một mình em code bằng 10 người ấy ạ.
+Làm sao để trở thành một engineer có công lực gấp mười lần hiện nay? Có 5 cấp độ để các bạn luyện tập mà đảm bảo chính các bạn sẽ bất ngờ về chính mình sau vài tháng nhìn lại.]]></summary>
+            
+                <content type="html"><![CDATA[<p>Vì một mình em code bằng 10 người ấy ạ.</p>
+<p>Làm sao để trở thành một engineer có công lực gấp mười lần hiện nay? Có 5 cấp độ để các bạn luyện tập mà đảm bảo chính các bạn sẽ bất ngờ về chính mình sau vài tháng nhìn lại.</p>
+<h3 id="1-gõ-bàn-phím-như-hacker">1. Gõ bàn phím như hacker</h3>
+<p>Gõ 10 ngón nhé các bạn, và setup tất cả thể loại hotkeys để chỉ với một nhát bạn có thể tung được nghìn chiêu.</p>
+<p><img src="/img/hacker-typing.jpg" alt="Typing" title="Đánh máy 10 ngón siêu tốc - code siêu tốc"></p>
+<p>Nhớ nhẹ một chút, ngày xưa mình hay chơi các trò chơi đánh chữ mười ngón, sau một hồi cũng lên cơ kha khá đấy.</p>
+<p>Ngày nay thì càng có vô vàng trò chơi để tập luyện kỹ năng đánh máy, bạn có thể thử ngay ở đây nhé <a href="https://play.typeracer.com/">https://play.typeracer.com/</a></p>
+<p>Kể vui một chút, lúc phỏng vấn các ứng viên mình thường cho bài test code thật trên máy, nhìn cách các bạn thao tác máy tính và đánh máy mình có thể nhìn ra bạn ấy có phải là dân thực sự ghiền công nghệ hay không, nên cẩn thận cảnh giác với những người tuyển dụng như mình nhé.</p>
+<h3 id="2-tuyệt-chiêu-phím-tắt">2. Tuyệt chiêu phím tắt</h3>
+<p>Cũng liên quan đến bàn phím, tuyệt chiêu gắn rất chặt với một anh kỹ sư 10x, đó là kỹ năng sử dụng phím tắt (hotkey)</p>
+<p>Với những ai dùng hệ điều hành Windows có thể biết có một siêu hotkey là nút Windows, chỉ cần nhấn 1 nút là mở ra ngay Start Menu để có thể truy xuất / tìm kiếm chương trình rất nhanh.</p>
+<p>Tiếp tục, thử tưởng tượng nếu bạn cần mở ra trình duyệt file, bạn sẽ làm gì? Bạn có thể bấm thu nhỏ lần lượt từng cửa sổ, rồi rê chuột vào My Computer, rồi nhấp đúp vào. Vậy bạn đã thử bấm tổ hợp phím <code>Windows + E</code> chưa, E là viết tắt của &ldquo;Explorer&rdquo; là trình duyệt file đó các bạn. Mở ra ngay trình duyệt file trong vòng 1 nốt nhạc.</p>
+<p>Người dùng Mac cũng tương tự, nút Command + Space có thể popup ra Spotlight để tìm và truy xuất chương trình nhanh chóng.</p>
+<p>Tuy nhiên, nếu bạn nghĩ hotkey chỉ có thế thì bạn hơi nhầm một chút. Ở phần hotkey, cái quan trọng là cái mindset, là tư duy optimize mọi thứ bạn làm. Nếu bạn là người như vậy, bạn sẽ thấy có một khao khát luôn luôn cháy bỏng để đi tìm hotkey cho mọi thao tác trên máy tính, mọi phần mềm. Khi dùng một phần mềm mới, việc đầu tiên của bạn sẽ là đi tìm tổ hợp phím tắt mà nó có hỗ trợ.</p>
+<p>Ví dụ list phím tắt của Ubuntu, dĩ nhiên bạn có thể tùy chỉnh lại theo ý thích của mình.</p>
+<p><img src="/img/10x-ubuntu-hotkeys.png" alt=""></p>
+<p>Câu hỏi cho ai dùng Ubuntu: nếu bạn cần mở terminal để đánh câu lệnh, bạn sẽ làm như thế nào?
+Câu trả lời có thể là dư thừa, bởi mình nghĩ quan trọng ở tư duy của bạn, chỉ cần đặt được câu hỏi, bạn đã có thể có câu trả lời (google là công cụ rất tuyệt vời cho mọi vấn đề mà phải không, không tin nữa ư, bạn có thể thử đánh <code>phím tắt mở terminal ubuntu</code>, hoặc tiếng Anh thì <code>open terminal hotkey ubuntu</code>)</p>
+<p>Đá qua một chút, mặc dù không phải phím tắt, bạn đã bao giờ thử vào sheet.new chưa. Thử đi bạn nhé.
+Rồi bạn sẽ thấy nữa, khi dùng Excel hay google sheet, rất nhiều cụm phím tắt làm bạn &ldquo;trông pro&rdquo; hơn nhiều :))</p>
+<p>Hãy thử chọn 5 ô liên tiếp trong google sheet, rồi bấm tổ hợp <code>Ctrl Alt +</code>, bạn có thể nhanh chóng chèn ô/hàng/cột từ vị trí ô hiện tại mà không cần rê chuột đi đâu cả.</p>
+<p><img src="/img/10x-google-sheet.png" alt=""></p>
+<p>Bạn có thể thử với <code>Ctrl Alt -</code> để xóa.</p>
+<p>Mình nhắc lại, key của phần này chính là tư duy, nếu bạn có tư duy optimize, bạn sẽ tự đặt câu hỏi và đi tìm để optimize cho mọi thứ bạn làm.</p>
+<p>À muốn nữa không? Thử vào doc.new, slide.new để thấy sự kỳ diệu nghen các bạn.</p>
+<h3 id="3-tập-trung-và-làm-việc-sâu">3. Tập trung và làm việc sâu:</h3>
+<p>Đây là một bài mình đã talk ở team VeXeRe và ở BarCamp@SaiGon 2019, nội dung được chuyển thể thành bài viết ở <a href="https://learn2code.dev/posts/10x-engineer-part-2/">link này</a></p>
+<p>Ngoài ra, nếu đọc được sách tiếng Anh, mình khuyến khích các bạn đọc cuốn Deep work của Cal Newport, cuốn sách nêu lên một số luận điểm rất hay và hợp lý để có thể tỏa sáng trong thời đại công nghệ phát triển với tốc độ chóng mặt như ngày nay.</p>
+<p><img src="/img/focus-mind.jpg" alt="tap-trung" title="Tập trung phải như tia laser thế này này"></p>
+<h3 id="4-công-cụ-tốt">4. Công cụ tốt</h3>
+<p>Từ lịch sử nghìn năm nay, với công cụ tốt con người đã tạo ra năng suất vượt bậc. Vậy với các bạn lập trình viên, còn chần chờ gì nữa mà không tự kiếm cho mình bộ công cụ tốt nhất?
+Bộ môn này cũng có từ cơ bản đến nâng cao, và dành riêng cho người dùng Mac và Windows. Tôi sẽ sớm public các bài tiếp theo để các bạn có thể vọc liền tay.</p>
+<p><img src="/img/rice-field.jpg" alt="Tool" title="Hình mình họa: với chiếc máy gặt đập liên hợp này không còn cảnh một dàn các bác nông dân cầm liềm để gặt lúa, rồi vác từng bao về nhà để xay nữa."></p>
+<h3 id="5-thiền-chú-ý-hay-thiền-chánh-niệm-không-liên-quan-đến-tôn-giáo">5. Thiền chú ý hay thiền chánh niệm (không liên quan đến tôn giáo):</h3>
+<p>Tiếng anh gọi là mindfulness meditation – được định nghĩa là khi một người tập trung toàn bộ cảm xúc, cảm giác và suy nghĩ của mình vào một sự vật, sự việc và không có bất cứ phán xét gì tại một thời điểm nhất định trong hiện tại. Chỉ với 5 phút mỗi ngày, ngồi yên không suy nghĩ hoặc đơn giản là theo dõi nhịp thở vào ra, bạn đã có thể bước vào con đường thiền định để ổn định tâm trí và tạo sự tập tập trung tối đa cho mọi vấn đề hóc búa. Tại sao lại cần thiền? Nói nôm na là trong bạn có hai thành phần quan trọng nhất là cơ thể và tâm hồn. Xưa giờ bạn đã rất thiên vị khi chỉ suốt ngày chăm sóc cho thân thể, tập gym, chạy bộ mà không bao giờ để ý đến tâm hồn của mình. Lẽ dĩ nhiên cái gì mất cân bằng đều sẽ không tốt. Và thiền chính là cách để cho bộ não tạm thời nghĩ ngơi một cách toàn diện. Bộ môn này thật ra có cả trăm điều vi diệu khác và tôi hứa sẽ truyền tải đến với các bạn ở các bài viết sau. Trước hết mời các bạn coi video dưới đây về câu chuyện Ông vua và 4 bà vợ để nắm được một phần ý.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/40cEyuU3Nek" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="6-tư-tưởng-không-thông-vác-bình-không-cũng-nặng">6. Tư tưởng không thông, vác bình không cũng nặng</h3>
+<p>Câu tục ngữ nói lên nhiều điều. Nếu đang làm việc mà bạn cảm thấy không hứng thú. Đang ngồi làm việc mà nghĩ đi tới Vũng Tàu, Nha Trang. Đang ngồi làm việc mà nghĩ tới cuối tuần. Các bạn thấy quen không?</p>
+<p><img src="/img/giphy.gif" alt="Smiling"></p>
+<ul>
+<li>
+<p>Đã từng là người đi làm thuê trong nhiều năm tôi rất thấm việc này. Kinh nghiệm đầu tiên giúp tôi vượt qua được đó là suy nghĩ một cách công bằng. Công ty tuyển tôi vào làm việc, trả lương sòng phẳng cho tôi, nên chừng nào vẫn còn ngồi tại công ty thì nếu là một người biết thế nào là lẽ phải, là công bằng tôi cần làm việc với thái độ chuyên tâm và chuyên nghiệp nhất có thể. Suy nghĩ này đã giúp tôi vượt qua được những ngày mà tôi cảm thấy không thích ông sếp hay một bạn đồng nghiệp nào đó trong team. Thay vì ngồi trách sếp thế này thế nọ, nếu tôi đã thấy không thể gắn bó thì tôi sẽ sẵn sàng tìm công việc mới, còn nếu đã quyết định ngồi lại thì tôi sẽ vẫn cam kết với công việc của mình. Ngoài ra, trong xã hội kết nối như ngày nay, không gì là bí mật. Tôi muốn sau này dù tôi có ở bất cứ môi trường nào thì mọi người vẫn nói về tôi như là một con người chuyên nghiệp trong công việc. Điều này dĩ nhiên cũng ảnh hưởng rất nhiều đến tín nhiệm của mọi người xung quanh đối với bạn. Và ngạc nhiên chưa, chỉ cần thay đổi thái độ, kết quả làm việc của tôi được tốt hơn, tôi lại cảm thấy yêu công việc hơn trước nhiều.</p>
+</li>
+<li>
+<p>Điều thứ hai tôi muốn nói nữa là cảm giác chán nản, buồn bã chỉ là một trạng thái của cảm xúc. Một khi các bạn bước vào con đường thiền chú ý, bạn sẽ thấy điều này rất rõ. Bạn có quyền lựa chọn trạng thái cảm xúc của mình, giống như đơn giản chỉ là bật công tắc chuyển mode sang mode lạc quan. Với một tâm trí lạc quan thì cũng giống như một con máy tính chip Intel core i7 RAM 16GB mới cài hệ điều hành, bạn hiểu tôi đang nói gì 😀 Mà chắc bây giờ đã là core i9 RAM 32GB rồi đấy :))</p>
+</li>
+</ul>
+<p><img src="/img/exciting.gif" alt="Exciting" title="Ngầu quá"></p>
+<p>Thế đấy, vượt qua 5 cấp độ này, bạn sẽ không còn nhận ra mình nữa đâu. Thế giới quan thay đổi, bạn thành công, lương cao, công việc tốt. Hẹn gặp lại bạn sớm trong các bài viết chuyên sâu kì sau.</p>
+<p>Bạn có thể xem tiếp phần 2 tại đây:</p>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-2/">Sếp nhớ trả lương em gấp 10 nha (phần 2)</a></p>
+</blockquote>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/soft-skill/" term="soft-skill" label="soft-skill" />
+                            
+                        
                     
                 
             
