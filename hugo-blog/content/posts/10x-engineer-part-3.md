@@ -42,7 +42,7 @@ Nó sẽ như thế này:
 
 Đây là bí kíp mình học được từ giáo sư đáng kính thời còn làm việc ở Seoul - Hàn Quốc.
 
-Mỗi khi cần tìm hiêu về vấn đề gì đó, giáo sư sẽ mở một cửa sổ mới hoàn toàn với một tab duy nhất.
+Mỗi khi cần tìm hiểu về vấn đề gì đó, giáo sư sẽ mở một cửa sổ mới hoàn toàn với một tab duy nhất.
 Sau đó nếu cần tìm hiểu thêm các vấn đề liên quan đến chủ đề đó thì cứ mở thêm trong cửa sổ đó.
 
 Nếu có vấn đề khác nữa cần tìm hiểu, chúng ta lại mở cửa sổ mới và tương tự như thế.

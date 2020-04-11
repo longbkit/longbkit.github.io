@@ -67,7 +67,7 @@ Dưới đây là tổng hợp một vài plugins chất cho WebStorm, rất ti�
 
 ### 4. Các trình IDE khác 
 
-Ngoài các IDE trên, có rât nhiều IDE khác tùy vào ngôn ngữ / framework các bạn đang sử dụng, vd bạn có thể dùng Android Studio để code app Android, XCode để code app iOS / macOS, Eclipse IDE (Android Studio là mở rộng của Eclipse IDE, thường hay được dùng để code C/C++ hay Java, hỗ trợ customize mạnh). Ngoài ra, mình biết không ít bạn đang dùng nhiều trình soạn thảo text khác để code như Sublime Text, Atom, Notepad++, mỗi phần mềm đều có ưu nhược riêng, và đều là lựa chọn tốt cho một số mục đích khác nhau. Các bạn có thể chia sẻ thêm về trải nghiệm của bạn với từng IDE ở bên dưới phần comment cho mọi người cùng học hỏi nhé!
+Ngoài các IDE trên, có rất nhiều IDE khác tùy vào ngôn ngữ / framework các bạn đang sử dụng, vd bạn có thể dùng Android Studio để code app Android, XCode để code app iOS / macOS, Eclipse IDE (Android Studio là mở rộng của Eclipse IDE, thường hay được dùng để code C/C++ hay Java, hỗ trợ customize mạnh). Ngoài ra, mình biết không ít bạn đang dùng nhiều trình soạn thảo text khác để code như Sublime Text, Atom, Notepad++, mỗi phần mềm đều có ưu nhược riêng, và đều là lựa chọn tốt cho một số mục đích khác nhau. Các bạn có thể chia sẻ thêm về trải nghiệm của bạn với từng IDE ở bên dưới phần comment cho mọi người cùng học hỏi nhé!
 
 ### Phần hay nhất của IDE
 
