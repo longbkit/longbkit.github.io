@@ -1,9 +1,12 @@
 ---
-title: "Sếp nhớ trả lương em gấp 10 nha (phần 3)"
+title: "Sếp nhớ trả lương em gấp 10 nha (phần 3) - trình duyệt web"
 date: 2020-03-15T21:11:05+07:00
 tags:
     - 10x-engineer
     - soft-skill
+categories:
+    - Sếp nhớ trả lương em gấp 10 nha
+    - Thiết lập môi trường làm việc
 draft: false
 ---
 
@@ -95,6 +98,8 @@ Và như một thói quen của sự tối ưu hóa mọi thứ, chúng ta hãy 
 ### 7. Các plugins tuyệt vời khác
 
 Khi lập trình web, sẽ có rất nhiều plugin hỗ trợ kèm theo Chrome, tiêu biểu là các plugin React / Redux khi các bạn code ReactJS, hay plugin hỗ trợ xem thông tin SEO metadata, SEO performance metrics, hay chỉnh sửa Cookie cho custom cookie trước khi gởi lên server, hay xem thông tin màu sắc, font chữ của các element trên web, ... nói chung là vô vàng các thể loại plugin dành cho lập trình nhé các bạn. Phần này là bài tập cho các bạn tự đi tìm, như thường lệ, chỉ cần có câu hỏi, sẽ có câu trả lời!
+
+Nếu bạn đọc có extension nào dành cho Chrome hay, đừng ngận ngại chia sẻ ở comment bên dưới nhé.
 
 
 Bạn có thể xem tiếp phần 4 tại đây:

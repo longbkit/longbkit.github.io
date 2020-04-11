@@ -1,9 +1,12 @@
 ---
-title: "Sếp nhớ trả lương em gấp 10 nha (phần 4)"
+title: "Sếp nhớ trả lương em gấp 10 nha (phần 4) - IDE"
 date: 2020-03-20T21:11:05+07:00
 tags:
     - 10x-engineer
     - soft-skill
+categories:
+    - Sếp nhớ trả lương em gấp 10 nha
+    - Thiết lập môi trường dev
 draft: false
 ---
 

@@ -1,9 +1,12 @@
 ---
-title: "Sếp nhớ trả lương em gấp 10 nha (phần 5)"
+title: "Sếp nhớ trả lương em gấp 10 nha (phần 5) - làm việc sâu"
 date: 2020-03-25T21:11:05+07:00
 tags:
     - 10x-engineer
     - soft-skill
+categories:
+    - Sếp nhớ trả lương em gấp 10 nha
+    - Kỹ năng mềm
 draft: false
 ---
 

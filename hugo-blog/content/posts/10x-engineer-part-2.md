@@ -1,9 +1,12 @@
 ---
-title: "Sếp nhớ trả lương em gấp 10 nha (phần 2)"
+title: "Sếp nhớ trả lương em gấp 10 nha (phần 2) - HĐH Ubuntu"
 date: 2020-03-10T21:11:05+07:00
 tags:
     - 10x-engineer
     - soft-skill
+categories:
+    - Sếp nhớ trả lương em gấp 10 nha
+    - Thiết lập môi trường dev
 draft: false
 ---
 
@@ -38,19 +41,12 @@ https://github.com/robbyrussell/oh-my-zsh
 
 * Tham khảo thêm thông tin của plugins zsh-autosuggestions ở đây https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 
-* Chuyển đổi qua theme agnoster để hiển thị tốt hơn (https://github.com/agnoster/agnoster-zsh-theme), 
+* Chuyển đổi qua theme agnoster để hiển thị tốt hơn (https://github.com/agnoster/agnoster-zsh-theme), lưu ý có thể custom cách hiển thị cho theme agnoster để command prompt hiển thị ngắn gọn và súc tích hơn, bạn có thể tham khảo thêm trong link. 
 * Cài font powerline-fonts https://github.com/Lokaltog/powerline-fonts
 * Thêm dòng sau DEFAULT_USER=$USER vào file ~/.zshrc
 * Và có thể enable rất nhiều plugins tuyệt vời cho oh-my-zsh. Ví dụ một số plugins tiêu biểu
 
-plugins=(
-git,
-command-not-found,
-extract,
-git-extras,
-history-substring-search,
-zsh-autosuggestions
-)
+plugins=(git command-not-found extract git-extras history-substring-search zsh-autosuggestions)
 
 * Bạn có thể thấy
 > plugin ```git``` sẽ bổ sung tên git branch khi ở trong 1 folder có dùng git.
@@ -79,7 +75,15 @@ bash script của Linux có hỗ trợ đặt alias hay có thể hiểu là l�
 
 Nay nếu setup alias, chúng ta có thể chỉ cần đánh lệnh ```gacp 'message'```, a gợi nhắc ta chữ add, c gợi nhắc chữ commit and p gợi nhắc chữ push, vẫn rất dễ nhớ và mình không nói ngoa, bạn có thể thử kiểm nghiệm xem tiết kiệm được bao nhiêu giây cuộc đời nào?
 
-* TODO: chỗ này mình sẽ publish cho các bạn một git repo tổng hợp các alias xịn sò nha. Nhớ nhắc mình nếu chờ hoài chưa thấy.
+Bạn có thể setup lệnh ```gacp``` bằng cách chèn các câu lệnh bên dưới vào file ~/.zshrc hoặc ~/.bashrc:
+
+```git config --global alias.acp '!f() { git add -A && git commit -m "$@" && git push; }; f'```
+
+```git config --global alias.cp '!f() { git commit -m "$@" && git push; }; f'```
+
+```alias gacp="git acp"```
+
+* TODO: chỗ này mình sẽ publish cho các bạn một git repo tổng hợp các alias xịn sò nha. Nhớ nhắc mình nếu chờ hoài chưa thấy, và mình nhắc lại quan trọng là tư duy tối ưu, nếu bạn luôn tự đặt câu hỏi làm sao để tối ưu bằng alias, bạn sẽ tự sáng tạo và tìm ra vô số cách, hoặc đã có rất nhiều git repo làm sẵn điều này cho bạn.
 
 ### 4. Hỗ trợ chia tách cửa sổ câu lệnh
 
@@ -101,10 +105,10 @@ Các phím tắt:
 > ```Ctrl+Shift+P``` hoặc ```Ctrl+Shift+Tab``` chuyển cửa sổ theo tứ tự từ phải qua trái từ dưới lên trên
 > ```Alt+UpMove``` chuyển qua khung lệnh phía trên khung cửa sổ hiện tại
 
-### 5. Cài brew để tiện cài đặt các chương trình khác 
+### 5. Cài brew để tiện cài đặt nhiều chương trình khác 
 http://linuxbrew.sh/
 
-### 6. Cài đặt docker & docker-compose để dễ dàng chạy các service bên thứ ba
+### 6. Cài đặt docker & docker-compose để dễ dàng chạy các service bên thứ ba cũng như deploy phần mềm
 
 Ví dụ bạn muốn vọc wordpress để tự tạo website cho mình, mà để cài wordpress phải cài đặt nào là database, nào là apache web server, nào là php, rồi wordpress? Với docker & docker-compose chỉ một nốt nhạc thôi bạn à. Điều này làm cho việc vọc vạch của bạn trở nên dễ hơn gấp nhiều lần, từ đó động lực để vọc cái mới của bạn cũng tăng nhiều, dẫn tới bạn biết nhiều hơn, giỏi nhanh hơn. Khi biết thêm gì nhớ nhắn nhỏ sếp bạn một câu để sếp biết nhé.
 
@@ -174,4 +178,4 @@ Một số  lưu ý khi cài đặt dual book Ubuntu & Windows:
 TODO: đã qua hai bài rồi, để các bạn có thể hình dung rõ hơn 10x engineer như thế nào, mình sẽ up video mình dùng máy tính như thế nào. Một lần nữa, nhớ nhắc nếu mình lỡ quên nghen các bạn :-D
 
 Bạn có thể xem tiếp phần 3 tại đây:
->[Sếp nhớ trả lương em gấp 10 nha (phần 3)]({{< ref "10x-engineer-part-3.md" >}})
+>[Sếp nhớ trả lương em gấp 10 nha (phần 3) - trình duyệt web]({{< ref "10x-engineer-part-3.md" >}})
