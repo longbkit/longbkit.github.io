@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Fri, 10 Apr 2020 14:43:27 +0700</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2020 14:33:46 +0700</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://learn2code.dev/rss.xml" />
         
@@ -495,7 +495,7 @@ zsh-autosuggestions
 <p><a href="https://www.fosslinux.com/4184/how-to-enable-hot-corners-in-ubuntu-18-04.htm/">https://www.fosslinux.com/4184/how-to-enable-hot-corners-in-ubuntu-18-04.htm/</a></p>
 <h3 id="10-phần-mềm-ghi-chú-evernote">10. Phần mềm ghi chú evernote</h3>
 <p> https://github.com/klaussinani/tusk/releases/tag/v0.11.0</p>
-<h3 id="10-cài-đặt-để-giao-diện-đẹp-lung-linh-như-máy-mac-bao-gồm-cả-tweek-font-chữ-nhìn-rất-xịn-sò">10. Cài đặt để giao diện đẹp lung linh như máy Mac (bao gồm cả tweek font chữ, nhìn rất xịn sò)</h3>
+<h3 id="11-cài-đặt-để-giao-diện-đẹp-lung-linh-như-máy-mac-bao-gồm-cả-tweek-font-chữ-nhìn-rất-xịn-sò">11. Cài đặt để giao diện đẹp lung linh như máy Mac (bao gồm cả tweek font chữ, nhìn rất xịn sò)</h3>
 <p><a href="https://vitux.com/how-to-change-login-lock-screen-background-in-ubuntu/">https://vitux.com/how-to-change-login-lock-screen-background-in-ubuntu/</a></p>
 <h2 id="troubleshooting">Troubleshooting</h2>
 <p>Một số  lưu ý khi cài đặt dual book Ubuntu &amp; Windows:</p>
@@ -586,7 +586,7 @@ Rồi bạn sẽ thấy nữa, khi dùng Excel hay google sheet, rất nhiều c
 <p>Mình nhắc lại, key của phần này chính là tư duy, nếu bạn có tư duy optimize, bạn sẽ tự đặt câu hỏi và đi tìm để optimize cho mọi thứ bạn làm.</p>
 <p>À muốn nữa không? Thử vào doc.new, slide.new để thấy sự kỳ diệu nghen các bạn.</p>
 <h3 id="3-tập-trung-và-làm-việc-sâu">3. Tập trung và làm việc sâu:</h3>
-<p>Đây là một bài mình đã talk ở team VeXeRe và ở BarCamp@SaiGon 2019, nội dung được chuyển thể thành bài viết ở <a href="https://learn2code.dev/posts/10x-engineer-part-2/">link này</a></p>
+<p>Đây là một bài mình đã talk ở team VeXeRe và ở BarCamp@SaiGon 2019, nội dung được chuyển thể thành bài viết ở <a href="https://learn2code.dev/posts/10x-engineer-part-5/">link này</a></p>
 <p>Ngoài ra, nếu đọc được sách tiếng Anh, mình khuyến khích các bạn đọc cuốn Deep work của Cal Newport, cuốn sách nêu lên một số luận điểm rất hay và hợp lý để có thể tỏa sáng trong thời đại công nghệ phát triển với tốc độ chóng mặt như ngày nay.</p>
 <p><img src="/img/focus-mind.jpg" alt="tap-trung" title="Tập trung phải như tia laser thế này này"></p>
 <h3 id="4-công-cụ-tốt">4. Công cụ tốt</h3>
@@ -612,7 +612,7 @@ Bộ môn này cũng có từ cơ bản đến nâng cao, và dành riêng cho n
 </li>
 </ul>
 <p><img src="/img/exciting.gif" alt="Exciting" title="Ngầu quá"></p>
-<p>Thế đấy, vượt qua 5 cấp độ này, bạn sẽ không còn nhận ra mình nữa đâu. Thế giới quan thay đổi, bạn thành công, lương cao, công việc tốt. Hẹn gặp lại bạn sớm trong các bài viết chuyên sâu kì sau.</p>
+<p>Thế đấy, vượt qua 6 cấp độ này, bạn sẽ không còn nhận ra mình nữa đâu. Thế giới quan thay đổi, bạn thành công, lương cao, công việc tốt. Hẹn gặp lại bạn sớm trong các bài viết chuyên sâu kì sau.</p>
 <p>Bạn có thể xem tiếp phần 2 tại đây:</p>
 <blockquote>
 <p><a href="https://learn2code.dev/posts/10x-engineer-part-2/">Sếp nhớ trả lương em gấp 10 nha (phần 2)</a></p>

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">LEARN2CODE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-04-10T14:43:27+07:00</updated>
+    <updated>2020-04-11T14:33:46+07:00</updated>
     <id>https://learn2code.dev/</id>
     <link rel="alternate" type="text/html" href="https://learn2code.dev/" />
     <link rel="self" type="application/atom+xml" href="https://learn2code.dev/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 5)</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-5/" />
             <id>https://learn2code.dev/posts/10x-engineer-part-5/</id>
-            <updated>2020-04-10T13:56:23+07:00</updated>
+            <updated>2020-04-11T14:26:57+07:00</updated>
             <published>2020-03-25T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -170,7 +170,7 @@ Qua quá trình tiếp xúc với nhiều bạn kỹ sư đồng nghiệp mà m�
             <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 4)</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-4/" />
             <id>https://learn2code.dev/posts/10x-engineer-part-4/</id>
-            <updated>2020-04-10T13:56:20+07:00</updated>
+            <updated>2020-04-10T22:46:52+07:00</updated>
             <published>2020-03-20T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -273,7 +273,7 @@ Nếu bạn là lập trình viên, bạn sẽ rất hay làm việc với vòng
             <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 3)</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-3/" />
             <id>https://learn2code.dev/posts/10x-engineer-part-3/</id>
-            <updated>2020-04-10T13:56:16+07:00</updated>
+            <updated>2020-04-10T22:46:52+07:00</updated>
             <published>2020-03-15T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -368,7 +368,7 @@ Nói chơi thôi, các bạn có thể thử trải nghiệm cảm giác lạ kh
             <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 2)</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-2/" />
             <id>https://learn2code.dev/posts/10x-engineer-part-2/</id>
-            <updated>2020-04-10T13:55:59+07:00</updated>
+            <updated>2020-04-11T14:26:34+07:00</updated>
             <published>2020-03-10T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -498,7 +498,7 @@ zsh-autosuggestions
 <p><a href="https://www.fosslinux.com/4184/how-to-enable-hot-corners-in-ubuntu-18-04.htm/">https://www.fosslinux.com/4184/how-to-enable-hot-corners-in-ubuntu-18-04.htm/</a></p>
 <h3 id="10-phần-mềm-ghi-chú-evernote">10. Phần mềm ghi chú evernote</h3>
 <p> https://github.com/klaussinani/tusk/releases/tag/v0.11.0</p>
-<h3 id="10-cài-đặt-để-giao-diện-đẹp-lung-linh-như-máy-mac-bao-gồm-cả-tweek-font-chữ-nhìn-rất-xịn-sò">10. Cài đặt để giao diện đẹp lung linh như máy Mac (bao gồm cả tweek font chữ, nhìn rất xịn sò)</h3>
+<h3 id="11-cài-đặt-để-giao-diện-đẹp-lung-linh-như-máy-mac-bao-gồm-cả-tweek-font-chữ-nhìn-rất-xịn-sò">11. Cài đặt để giao diện đẹp lung linh như máy Mac (bao gồm cả tweek font chữ, nhìn rất xịn sò)</h3>
 <p><a href="https://vitux.com/how-to-change-login-lock-screen-background-in-ubuntu/">https://vitux.com/how-to-change-login-lock-screen-background-in-ubuntu/</a></p>
 <h2 id="troubleshooting">Troubleshooting</h2>
 <p>Một số  lưu ý khi cài đặt dual book Ubuntu &amp; Windows:</p>
@@ -557,7 +557,7 @@ zsh-autosuggestions
             <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 1)</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-1/" />
             <id>https://learn2code.dev/posts/10x-engineer-part-1/</id>
-            <updated>2020-04-10T13:55:49+07:00</updated>
+            <updated>2020-04-11T14:26:11+07:00</updated>
             <published>2020-03-05T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -593,7 +593,7 @@ Rồi bạn sẽ thấy nữa, khi dùng Excel hay google sheet, rất nhiều c
 <p>Mình nhắc lại, key của phần này chính là tư duy, nếu bạn có tư duy optimize, bạn sẽ tự đặt câu hỏi và đi tìm để optimize cho mọi thứ bạn làm.</p>
 <p>À muốn nữa không? Thử vào doc.new, slide.new để thấy sự kỳ diệu nghen các bạn.</p>
 <h3 id="3-tập-trung-và-làm-việc-sâu">3. Tập trung và làm việc sâu:</h3>
-<p>Đây là một bài mình đã talk ở team VeXeRe và ở BarCamp@SaiGon 2019, nội dung được chuyển thể thành bài viết ở <a href="https://learn2code.dev/posts/10x-engineer-part-2/">link này</a></p>
+<p>Đây là một bài mình đã talk ở team VeXeRe và ở BarCamp@SaiGon 2019, nội dung được chuyển thể thành bài viết ở <a href="https://learn2code.dev/posts/10x-engineer-part-5/">link này</a></p>
 <p>Ngoài ra, nếu đọc được sách tiếng Anh, mình khuyến khích các bạn đọc cuốn Deep work của Cal Newport, cuốn sách nêu lên một số luận điểm rất hay và hợp lý để có thể tỏa sáng trong thời đại công nghệ phát triển với tốc độ chóng mặt như ngày nay.</p>
 <p><img src="/img/focus-mind.jpg" alt="tap-trung" title="Tập trung phải như tia laser thế này này"></p>
 <h3 id="4-công-cụ-tốt">4. Công cụ tốt</h3>
@@ -619,7 +619,7 @@ Bộ môn này cũng có từ cơ bản đến nâng cao, và dành riêng cho n
 </li>
 </ul>
 <p><img src="/img/exciting.gif" alt="Exciting" title="Ngầu quá"></p>
-<p>Thế đấy, vượt qua 5 cấp độ này, bạn sẽ không còn nhận ra mình nữa đâu. Thế giới quan thay đổi, bạn thành công, lương cao, công việc tốt. Hẹn gặp lại bạn sớm trong các bài viết chuyên sâu kì sau.</p>
+<p>Thế đấy, vượt qua 6 cấp độ này, bạn sẽ không còn nhận ra mình nữa đâu. Thế giới quan thay đổi, bạn thành công, lương cao, công việc tốt. Hẹn gặp lại bạn sớm trong các bài viết chuyên sâu kì sau.</p>
 <p>Bạn có thể xem tiếp phần 2 tại đây:</p>
 <blockquote>
 <p><a href="https://learn2code.dev/posts/10x-engineer-part-2/">Sếp nhớ trả lương em gấp 10 nha (phần 2)</a></p>

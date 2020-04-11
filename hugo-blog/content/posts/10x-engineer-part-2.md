@@ -150,7 +150,7 @@ https://www.fosslinux.com/4184/how-to-enable-hot-corners-in-ubuntu-18-04.htm/
  https://github.com/klaussinani/tusk/releases/tag/v0.11.0
 
 
-### 10. Cài đặt để giao diện đẹp lung linh như máy Mac (bao gồm cả tweek font chữ, nhìn rất xịn sò)
+### 11. Cài đặt để giao diện đẹp lung linh như máy Mac (bao gồm cả tweek font chữ, nhìn rất xịn sò)
 
 https://vitux.com/how-to-change-login-lock-screen-background-in-ubuntu/
 

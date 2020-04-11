@@ -58,7 +58,7 @@ Mình nhắc lại, key của phần này chính là tư duy, nếu bạn có t�
 
 ### 3. Tập trung và làm việc sâu: 
 
-Đây là một bài mình đã talk ở team VeXeRe và ở BarCamp@SaiGon 2019, nội dung được chuyển thể thành bài viết ở [link này]({{< ref "10x-engineer-part-2.md" >}})
+Đây là một bài mình đã talk ở team VeXeRe và ở BarCamp@SaiGon 2019, nội dung được chuyển thể thành bài viết ở [link này]({{< ref "10x-engineer-part-5.md" >}})
 
 Ngoài ra, nếu đọc được sách tiếng Anh, mình khuyến khích các bạn đọc cuốn Deep work của Cal Newport, cuốn sách nêu lên một số luận điểm rất hay và hợp lý để có thể tỏa sáng trong thời đại công nghệ phát triển với tốc độ chóng mặt như ngày nay.
 
@@ -89,7 +89,7 @@ Câu tục ngữ nói lên nhiều điều. Nếu đang làm việc mà bạn c�
 
 ![Exciting](/img/exciting.gif "Ngầu quá")
 
-Thế đấy, vượt qua 5 cấp độ này, bạn sẽ không còn nhận ra mình nữa đâu. Thế giới quan thay đổi, bạn thành công, lương cao, công việc tốt. Hẹn gặp lại bạn sớm trong các bài viết chuyên sâu kì sau.
+Thế đấy, vượt qua 6 cấp độ này, bạn sẽ không còn nhận ra mình nữa đâu. Thế giới quan thay đổi, bạn thành công, lương cao, công việc tốt. Hẹn gặp lại bạn sớm trong các bài viết chuyên sâu kì sau.
 
 Bạn có thể xem tiếp phần 2 tại đây:
 >[Sếp nhớ trả lương em gấp 10 nha (phần 2)]({{< ref "10x-engineer-part-2.md" >}})
