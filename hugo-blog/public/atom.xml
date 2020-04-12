@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">LEARN2CODE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-04-12T01:50:51+07:00</updated>
+    <updated>2020-04-12T13:02:30+07:00</updated>
     <id>https://learn2code.dev/</id>
     <link rel="alternate" type="text/html" href="https://learn2code.dev/" />
     <link rel="self" type="application/atom+xml" href="https://learn2code.dev/atom.xml" />
@@ -673,7 +673,7 @@ Bạn có thể xem lại phần 1 tại đây:
             <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 1)</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-1/" />
             <id>https://learn2code.dev/posts/10x-engineer-part-1/</id>
-            <updated>2020-04-12T00:41:05+07:00</updated>
+            <updated>2020-04-12T12:50:53+07:00</updated>
             <published>2020-03-05T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -685,6 +685,9 @@ Làm sao để trở thành một engineer có công lực gấp mười lần h
             
                 <content type="html"><![CDATA[<p>Vì một mình em code bằng 10 người ấy ạ.</p>
 <p>Làm sao để trở thành một engineer có công lực gấp mười lần hiện nay? Có 7 cấp độ để các bạn luyện tập mà đảm bảo chính các bạn sẽ bất ngờ về chính mình sau vài tháng nhìn lại.</p>
+<blockquote>
+<p>Thông báo 📢 Vào thứ 7, CN, thứ 2 tuần sau nhằm ngày 18, 19, 20/04/2020, mình có tổ chức online training cho các bạn sinh viên định hướng trong ngành CNTT kèm theo kỹ năng quản lý cảm xúc, quản lý thời gian và quản lý sự xao nhãng để hoàn thành tốt mục tiêu đã đặt ra. Các bạn quan tâm có thể xem thêm thông tin chi tiết ở đây và đăng ký tham gia nhé <a href="https://bit.ly/fb-nghe-lap-trinh">https://bit.ly/fb-nghe-lap-trinh</a></p>
+</blockquote>
 <h3 id="1-đã-thông-tư-tưởng---nuôi-dưỡng-niềm-đam-mê">1. Đã thông tư tưởng - nuôi dưỡng niềm đam mê</h3>
 <p>Ông bà ta có câu nói</p>
 <blockquote>
