@@ -918,11 +918,11 @@ uglyURLs = false
     # Menu bar
     fontFamilyMenu = ""
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
-    fontFamilyTitle = "'Comfortaa', sans-serif"
+    fontFamilyTitle = "'montserrat', sans-serif"
     # Headings, toc title
-    fontFamilyHeadings = "'Comfortaa', sans-serif"
+    fontFamilyHeadings = "'montserrat', sans-serif"
     # Code, superscript, post meta info, post updated badge, post gitinfo, minimal footer, busuanzi site view counter
-    fontFamilyCode = "'Source Code Pro', monospace"
+    fontFamilyCode = "'roboto mono', monospace"
     # Blockquotes
     fontFamilyQuote = ""
     # Table of contents
@@ -932,10 +932,12 @@ uglyURLs = false
     # Footer
     fontFamilyFooter = ""
     # Body
-    fontFamilyBody = "'IBM Plex Serif', serif"
+    fontFamilyBody = "'roboto', serif"
 
     # Embed fonts link
-    fontsLink = "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Comfortaa:wght@700&display=swap"
+    # Org: 
+    # fontsLink = "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Comfortaa:wght@700&display=swap"
+    fontsLink = "https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
     # Note: In order for the reader to
     #       experience the fonts you set,
     #       it is best to use web fonts.
