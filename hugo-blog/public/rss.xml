@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 12 Apr 2020 18:08:33 +0700</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2020 10:17:26 +0700</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://learn2code.dev/rss.xml" />
         
@@ -747,7 +747,7 @@ Bộ môn này cũng có từ cơ bản đến nâng cao, và dành riêng cho n
 <p>Có rất nhiều loại công cụ tốt cho nhiều mục đích khác nhau.</p>
 <ul>
 <li>Với các bạn lập trình viên quen dùng Windows, bạn có thể xem xét chuyển về dùng Linux (Ubuntu là một lựa chọn tốt). Với việc hỗ trợ tốt với các thao tác bằng bàn phím, hỗ trợ docker native, độ tương thích cao đối với rất nhiều framework opensource hiện nay. Có thể nói đây là môi trường rất tốt cho dev. Bạn có thể xem hướng dẫn cách cài đặt môi trường Ubuntu làm thế nào để có thể đạt hiệu suất cao nhất dành cho dev <a href="https://learn2code.dev/posts/10x-engineer-part-2/">ở đây</a></li>
-<li>Một tin vui khác cho các bạn không nỡ rời xa HĐH Windows, cùng với bản cập nhật vào cuối tháng 4 này, Microsoft sẽ mang đến cho bạn rất nhiều cải tiến tuyệt vời, đáng chú ý là sự hỗ trợ chính thức cho môi trường Windows Subsystem for Linux thế hệ thứ 2 - hỗ trợ Linux native 100% dẫn đến việc bạn có thể chạy docker ngay bên trogn WSL, kèm theo đó rất nhiều tiện ích hỗ trợ cho công việc như đặt tên màn hình ảo để tiện gom nhóm các phần mềm theo công việc (cái này rất quan trọng trong việc nâng cao sự tập trung và tăng hiệu suất khi chuyển qua lại giữa các chương trình).
+<li>Một tin vui khác cho các bạn không nỡ rời xa HĐH Windows, cùng với bản cập nhật vào cuối tháng 4 này, Microsoft sẽ mang đến cho bạn rất nhiều cải tiến tuyệt vời, đáng chú ý là sự hỗ trợ chính thức cho môi trường Windows Subsystem for Linux thế hệ thứ 2 - hỗ trợ Linux native 100% dẫn đến việc bạn có thể chạy docker ngay bên trong WSL, kèm theo đó rất nhiều tiện ích hỗ trợ cho công việc như đặt tên màn hình ảo để tiện gom nhóm các phần mềm theo công việc (cái này rất quan trọng trong việc nâng cao sự tập trung và tăng hiệu suất khi chuyển qua lại giữa các chương trình).
 Mình đã thử cài bản Insider Preview về cài và test thử, mọi thứ rất tuyệt vời. Nếu bạn quan tâm, hãy để lại comment bên dưới mình sẽ viết tiếp một bài hướng dẫn chi tiết cách tweak HĐH Windows như thế nào cho hiệu suất gấp 10 nhé.</li>
 <li>Đối với các bạn đang dùng máy Mac, tin vui cho các bạn là đó là một lựa chọn rất sáng suốt. HĐH MacOS vốn xuất thân từ gốc Unix nên các câu lệnh bash tương thích với Linux, rất tiện cho việc lập trình. Đồng thời, Apple luôn nổi tiếng trau chuốt rất nhiều trong trải nghiệm người dùng, do đó qua việc quan sát các bạn dùng MacOS, mình thấy đa phần khá ổn. Còn có cả nghiên cứu nói rằng những người dùng máy Mac thường có hiệu suất cao hơn các HĐH khác 30% cơ đấy, điều này tất nhiên cần kiểm chứng kỹ hơn.
 Tuy nhiên ngay cả nếu bạn đang dùng máy Mac, vẫn có rất nhiều tuyệt chiêu để nâng tiếp 10 lần hiệu suất nữa. Một trong số đó bạn có thể tham khảo từ phần hướng dẫn setup cho HĐH Ubuntu (các phần liên quan đến terminal, zsh, vì các phần mềm này chạy được trên MacOS). Phần còn lại mình hẹn sẽ đề cập trong bài viết khác.</li>
