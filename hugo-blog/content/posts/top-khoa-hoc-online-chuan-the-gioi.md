@@ -1,14 +1,15 @@
 ---
 title: "Top khóa học online chuẩn thế giới"
-date: 2020-04-21T21:11:05+07:00
+date: 2020-04-20T21:11:05+07:00
 tags:
     - 10x-engineer
     - "khóa học"
     - "review"
 categories:
-    - Bình luận sách & khóa học
+    - "Bình luận sách & khóa học"
 draft: false
 ---
+
 #### Tổng hợp các website có các khóa học lập trình online
 1. Free online courses from Havard https://online-learning.harvard.edu/catalog/free
 2. Coursera: rất nhiều khóa học hay và miễn phí từ các trường đại học lớn cũng như thầy giáo nổi tiếng trên thế giới, nếu bạn muốn lấy chứng chỉ chỉ cần đóng tiền sẽ theo lộ trình có bài tập và có người chấm điểm coursera.org/

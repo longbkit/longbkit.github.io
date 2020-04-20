@@ -1,14 +1,15 @@
 ---
 title: "Đọc sách như thế nào là đúng và top 150 cuốn sách gối đầu giường cho bạn trẻ thành công"
-date: 2020-04-21T21:11:05+07:00
+date: 2020-04-20T21:11:05+07:00
 tags:
     - 10x-engineer
     - "sách"
     - "review"
 categories:
-    - Bình luận sách & khóa học
+    - "Bình luận sách & khóa học"
 draft: false
 ---
+
 #### Duy trì thói quen đọc sách đều đặn quan trọng thế nào với sự phát triển bản thân?
 Trước khi đi vào review sách gối đầu giường giúp bạn trẻ thành công, mình nghĩ nên chậm lại một chút luận bàn về việc quan trọng của đọc sách.
 
