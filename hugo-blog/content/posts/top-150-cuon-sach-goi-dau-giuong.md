@@ -57,7 +57,7 @@ Lúc nói gối đầu giường, ý mình là coi sách như người bạn đ�
 Trong khuôn khổ bài viết, mình sẽ tạm dừng ở phần một - các cuốn sách giúp phát triển bản thân từ bên trong.
 Phần 2 mình sẽ tiếp tục với các cuốn sách hay về nguyên lý lập trình sao cho hiệu quả.
 Phần 3 mình sẽ review các cuốn sách liên quan đến quản lý và khởi nghiệp.
-Ngoài ra, mình có dự định kết nối với những gương mặt khởi nghiệp thành công trong nước để xin giới thiệu về danh sách cuốn sách gối đầu giường của họ, nếu bạn là một trong số họ đừng ngần ngại email đến longbkit@gmail.com để mình có thể chia sẻ rộng rãi hơn đến cộng đồng nhé. Nếu bạn quan tâm, vui lòng điền vào [form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có thêm tựa sách khuyên đọc mới nhé.
+Ngoài ra, mình có dự định kết nối với những gương mặt khởi nghiệp thành công trong nước để xin giới thiệu về danh sách cuốn sách gối đầu giường của họ, nếu bạn là một trong số họ đừng ngần ngại email đến longbkit@gmail.com để mình có thể chia sẻ rộng rãi hơn đến cộng đồng nhé. Nếu bạn quan tâm, vui lòng điền vào [👉form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có thêm tựa sách khuyên đọc mới nhé.
 
 1. 7 thói quen hiệu quả của người thành đạt - bạn có thể xem thêm review hoặc đặt mua ở đây http://bit.ly/7-thoi-quen-hieu-qua-td
 
@@ -151,6 +151,6 @@ https://www.cnbc.com/2019/11/22/best-books-of-the-decade-according-to-successful
 
 Kết thúc phần 1, phần 2 mình sẽ tiếp tục với các cuốn sách hay về nguyên lý lập trình sao cho hiệu quả.
 Phần 3 mình sẽ review các cuốn sách liên quan đến quản lý và khởi nghiệp.
-Ngoài ra, mình có dự định kết nối với những gương mặt khởi nghiệp thành công trong nước để xin giới thiệu về danh sách cuốn sách gối đầu giường của họ, nếu bạn là một trong số họ đừng ngần ngại email đến longbkit@gmail.com để mình có thể chia sẻ rộng rãi hơn đến cộng đồng nhé. Nếu bạn quan tâm, vui lòng điền vào [form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có thêm tựa sách khuyên đọc mới nhé.
+Ngoài ra, mình có dự định kết nối với những gương mặt khởi nghiệp thành công trong nước để xin giới thiệu về danh sách cuốn sách gối đầu giường của họ, nếu bạn là một trong số họ đừng ngần ngại email đến longbkit@gmail.com để mình có thể chia sẻ rộng rãi hơn đến cộng đồng nhé. Nếu bạn quan tâm, vui lòng điền vào [👉form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có thêm tựa sách khuyên đọc mới nhé.
 
 Cảm ơn và chúc cho bạn có thêm thật là nhiều bạn sách, thật nhiều mentor ở trong nhà của mình nhé!

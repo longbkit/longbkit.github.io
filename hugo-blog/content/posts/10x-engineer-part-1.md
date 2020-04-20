@@ -92,7 +92,7 @@ Mình nhắc lại, key của phần này chính là tư duy, nếu bạn có t�
 
 À muốn nữa không? Thử vào doc.new, slide.new để thấy sự kỳ diệu nghen các bạn.
 
-📢📢📢 Sắp tới mình sẽ bổ sung rất nhiều tuyệt chiêu làm sao để sắp xếp môi trường làm việc trên laptop, tăng tối đa sự tập trung và hiệu suất, các chrome extension hiệu quả, IDE chuyên sâu, các tài liệu tham khảo tuyệt vời cho lập trình viên. Nếu bạn quan tâm, vui lòng điền vào [form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có cập nhật nhé!
+📢📢📢 Sắp tới mình sẽ bổ sung rất nhiều tuyệt chiêu làm sao để sắp xếp môi trường làm việc trên laptop, tăng tối đa sự tập trung và hiệu suất, các chrome extension hiệu quả, IDE chuyên sâu, các tài liệu tham khảo tuyệt vời cho lập trình viên. Nếu bạn quan tâm, vui lòng điền vào [👉form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có cập nhật nhé!
 
 ### 4. Tập trung và làm việc sâu
 
@@ -162,7 +162,7 @@ Bộ môn này thật ra có cả trăm điều vi diệu khác và tôi hứa s
 
 Thế đấy, vượt qua 7 cấp độ này, bạn sẽ không còn nhận ra mình nữa đâu. Thế giới quan thay đổi, bạn thành công, lương cao, công việc tốt. Hẹn gặp lại bạn sớm trong các bài viết chuyên sâu kì sau.
 
-📢📢📢 Sắp tới mình sẽ bổ sung rất nhiều tuyệt chiêu làm sao để sắp xếp môi trường làm việc trên laptop, tăng tối đa sự tập trung và hiệu suất, các chrome extension hiệu quả, IDE chuyên sâu, các tài liệu tham khảo tuyệt vời cho lập trình viên. Nếu bạn quan tâm, vui lòng điền vào [form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có cập nhật nhé!
+📢📢📢 Sắp tới mình sẽ bổ sung rất nhiều tuyệt chiêu làm sao để sắp xếp môi trường làm việc trên laptop, tăng tối đa sự tập trung và hiệu suất, các chrome extension hiệu quả, IDE chuyên sâu, các tài liệu tham khảo tuyệt vời cho lập trình viên. Nếu bạn quan tâm, vui lòng điền vào [👉form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có cập nhật nhé!
 
 Bạn có thể xem tiếp phần 2 tại đây:
 >[Sếp nhớ trả lương em gấp 10 nha (phần 2) - thiết lập môi trường dev cho HĐH Ubuntu]({{< ref "10x-engineer-part-2.md" >}})
