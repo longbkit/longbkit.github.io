@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">LEARN2CODE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-04-20T12:30:24+07:00</updated>
+    <updated>2020-04-20T15:49:07+07:00</updated>
     <id>https://learn2code.dev/</id>
     <link rel="alternate" type="text/html" href="https://learn2code.dev/" />
     <link rel="self" type="application/atom+xml" href="https://learn2code.dev/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Top khóa học online chuẩn thế giới</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/top-khoa-hoc-online-chuan-the-gioi/" />
             <id>https://learn2code.dev/posts/top-khoa-hoc-online-chuan-the-gioi/</id>
-            <updated>2020-04-20T09:06:56+07:00</updated>
+            <updated>2020-04-20T15:48:39+07:00</updated>
             <published>2020-04-19T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -43,8 +43,15 @@
 </ol>
 <p>Tham khảo thêm giới thiệu từng trang tại <a href="https://itviec.com/blog/hoc-lap-trinh/">https://itviec.com/blog/hoc-lap-trinh/</a></p>
 <h4 id="khóa-học-về-thiền--hạnh-phúc">Khóa học về thiền &amp; hạnh phúc</h4>
-<p>Khóa học về hạnh phúc và đã dẫn mình đến với thiền rất hay của tiến sĩ Rajagopal Raghunathan, McCombs school of Business, University of Texas, Austin. Cuốn sách nếu ra 7 &ldquo;trọng tội&rdquo; khiến con người không có hạnh phúc, và 7 &ldquo;thuốc chữa&rdquo; cho từng &ldquo;trọng tội&rdquo; đó và cả phương pháp làm sao trở nên xuất sắc trong các lĩnh vực mà không bị xì trét vì mục tiêu đặt ra. Các lý do rất logic, cách giảng dạy gần gũi. Theo mình, một người xây dựng được lối sống hạnh phúc vào mọi thời khắc, sống ở hiện tại một cách đầy đủ sẽ có năng lực rất lớn trong việc học tập và làm việc, hướng đến hoàn thành mục tiêu đặt ra. Khuyên học cho tất cả mọi người!</p>
+<ul>
+<li>Khóa học về hạnh phúc và đã dẫn mình đến với thiền rất hay của tiến sĩ Rajagopal Raghunathan, McCombs school of Business, University of Texas, Austin. Cuốn sách nếu ra 7 &ldquo;trọng tội&rdquo; khiến con người không có hạnh phúc, và 7 &ldquo;thuốc chữa&rdquo; cho từng &ldquo;trọng tội&rdquo; đó và cả phương pháp làm sao trở nên xuất sắc trong các lĩnh vực mà không bị xì trét vì mục tiêu đặt ra. Các lý do rất logic, cách giảng dạy gần gũi. Theo mình, một người xây dựng được lối sống hạnh phúc vào mọi thời khắc, sống ở hiện tại một cách đầy đủ sẽ có năng lực rất lớn trong việc học tập và làm việc, hướng đến hoàn thành mục tiêu đặt ra. Khuyên học cho tất cả mọi người!</li>
+</ul>
 <p><a href="https://www.coursera.org/learn/happiness">https://www.coursera.org/learn/happiness</a></p>
+<ul>
+<li>Khóa học thiền Heartfulness
+Meditation &amp; Evolution of Consciousness - Best seller: <a href="https://www.udemy.com/course/the-evolution-of-consciousness-heartfulness-meditation/">https://www.udemy.com/course/the-evolution-of-consciousness-heartfulness-meditation/</a></li>
+<li>Trên HFN VN youtube (Masterclass): <a href="https://www.youtube.com/channel/UCuifokElF04kE-1jFuAVU7A">https://www.youtube.com/channel/UCuifokElF04kE-1jFuAVU7A</a></li>
+</ul>
 <h4 id="nhập-môn-lập-trình---khuyến-cáo-chỉ-dành-cho-dân-hardcore">Nhập môn lập trình - khuyến cáo chỉ dành cho dân hardcore</h4>
 <p>Vì sao nhập môn mà mình lại nói dành cho hardcore? Vì mặc dù rất hay và cung cấp đủ nền tảng về lập trình cho các bạn, nhưng nếu mới khởi đầu mà dây dưa vào mớ lý thuyết này không phải ai cũng theo được đâu nhé.</p>
 <ul>

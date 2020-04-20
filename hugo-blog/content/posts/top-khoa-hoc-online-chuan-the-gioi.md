@@ -24,9 +24,13 @@ draft: false
 Tham khảo thêm giới thiệu từng trang tại https://itviec.com/blog/hoc-lap-trinh/
 
 #### Khóa học về thiền & hạnh phúc
-Khóa học về hạnh phúc và đã dẫn mình đến với thiền rất hay của tiến sĩ Rajagopal Raghunathan, McCombs school of Business, University of Texas, Austin. Cuốn sách nếu ra 7 "trọng tội" khiến con người không có hạnh phúc, và 7 "thuốc chữa" cho từng "trọng tội" đó và cả phương pháp làm sao trở nên xuất sắc trong các lĩnh vực mà không bị xì trét vì mục tiêu đặt ra. Các lý do rất logic, cách giảng dạy gần gũi. Theo mình, một người xây dựng được lối sống hạnh phúc vào mọi thời khắc, sống ở hiện tại một cách đầy đủ sẽ có năng lực rất lớn trong việc học tập và làm việc, hướng đến hoàn thành mục tiêu đặt ra. Khuyên học cho tất cả mọi người!
+- Khóa học về hạnh phúc và đã dẫn mình đến với thiền rất hay của tiến sĩ Rajagopal Raghunathan, McCombs school of Business, University of Texas, Austin. Cuốn sách nếu ra 7 "trọng tội" khiến con người không có hạnh phúc, và 7 "thuốc chữa" cho từng "trọng tội" đó và cả phương pháp làm sao trở nên xuất sắc trong các lĩnh vực mà không bị xì trét vì mục tiêu đặt ra. Các lý do rất logic, cách giảng dạy gần gũi. Theo mình, một người xây dựng được lối sống hạnh phúc vào mọi thời khắc, sống ở hiện tại một cách đầy đủ sẽ có năng lực rất lớn trong việc học tập và làm việc, hướng đến hoàn thành mục tiêu đặt ra. Khuyên học cho tất cả mọi người!
 
 https://www.coursera.org/learn/happiness
+
+- Khóa học thiền Heartfulness
+Meditation & Evolution of Consciousness - Best seller: https://www.udemy.com/course/the-evolution-of-consciousness-heartfulness-meditation/
+- Trên HFN VN youtube (Masterclass): https://www.youtube.com/channel/UCuifokElF04kE-1jFuAVU7A
 
 #### Nhập môn lập trình - khuyến cáo chỉ dành cho dân hardcore
 Vì sao nhập môn mà mình lại nói dành cho hardcore? Vì mặc dù rất hay và cung cấp đủ nền tảng về lập trình cho các bạn, nhưng nếu mới khởi đầu mà dây dưa vào mớ lý thuyết này không phải ai cũng theo được đâu nhé.
