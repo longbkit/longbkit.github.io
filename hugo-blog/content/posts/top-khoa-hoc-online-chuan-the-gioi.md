@@ -1,10 +1,12 @@
 ---
 title: "Top khóa học online chuẩn thế giới"
-date: 2020-03-05T21:11:05+07:00
+date: 2020-04-21T21:11:05+07:00
 tags:
     - 10x-engineer
     - "khóa học"
-    - "review khóa học"
+    - "review"
+categories:
+    - Bình luận sách & khóa học
 draft: false
 ---
 #### Tổng hợp các website có các khóa học lập trình online
@@ -19,6 +21,11 @@ draft: false
 9. Code Academy: https://www.codecademy.com/learn
 
 Tham khảo thêm giới thiệu từng trang tại https://itviec.com/blog/hoc-lap-trinh/
+
+#### Khóa học về thiền & hạnh phúc
+Khóa học về hạnh phúc và đã dẫn mình đến với thiền rất hay của tiến sĩ Rajagopal Raghunathan, McCombs school of Business, University of Texas, Austin. Cuốn sách nếu ra 7 "trọng tội" khiến con người không có hạnh phúc, và 7 "thuốc chữa" cho từng "trọng tội" đó và cả phương pháp làm sao trở nên xuất sắc trong các lĩnh vực mà không bị xì trét vì mục tiêu đặt ra. Các lý do rất logic, cách giảng dạy gần gũi. Theo mình, một người xây dựng được lối sống hạnh phúc vào mọi thời khắc, sống ở hiện tại một cách đầy đủ sẽ có năng lực rất lớn trong việc học tập và làm việc, hướng đến hoàn thành mục tiêu đặt ra. Khuyên học cho tất cả mọi người!
+
+https://www.coursera.org/learn/happiness
 
 #### Nhập môn lập trình - khuyến cáo chỉ dành cho dân hardcore
 Vì sao nhập môn mà mình lại nói dành cho hardcore? Vì mặc dù rất hay và cung cấp đủ nền tảng về lập trình cho các bạn, nhưng nếu mới khởi đầu mà dây dưa vào mớ lý thuyết này không phải ai cũng theo được đâu nhé.
@@ -52,13 +59,12 @@ Nếu các bạn muốn học biết về Server Side Rendering (hỗ trợ tố
 
 Về Andrew Ng: CEO/Founder Landing AI; Co-founder, Coursera; Adjunct Professor, Stanford University; trước đó từng là Chief Scientist của Baidu và sáng lập Google Brain
 
-
 #### Phân tích dữ liệu (BI, Data Analyst, Data Engineer, Data Scientist)
 - Khóa học miễn phí về Big Data https://www.coursera.org/learn/big-data-introduction
 - Tham khảo khóa Python cho Data Science bên dưới mục các khóa học Python
 
-###### Ngôn ngữ php
-###### Ngôn ngữ python
+#### Ngôn ngữ php
+#### Ngôn ngữ python
 - Python căn bản, được dạy bởi Charles Russell Severance - giáo viên có 1.5 triệu học viên online thuộc trường đại học Michigan của Mỹ
 
 https://www.coursera.org/specializations/python#courses
