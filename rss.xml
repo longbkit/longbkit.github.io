@@ -23,10 +23,326 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 20 Apr 2020 09:02:34 +0700</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2020 09:07:18 +0700</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://learn2code.dev/rss.xml" />
         
+        
+            <item>
+                <title>Top khóa học online chuẩn thế giới</title>
+                <link>https://learn2code.dev/posts/top-khoa-hoc-online-chuan-the-gioi/</link>
+                <guid isPermaLink="true">https://learn2code.dev/posts/top-khoa-hoc-online-chuan-the-gioi/</guid>
+                <pubDate>Sun, 19 Apr 2020 21:11:05 +0700</pubDate>
+                
+                    <author>longbkit@gmail.com (Lương Ngọc Long)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<h4 id="tổng-hợp-các-website-có-các-khóa-học-lập-trình-online">Tổng hợp các website có các khóa học lập trình online</h4>
+<ol>
+<li>Free online courses from Havard <a href="https://online-learning.harvard.edu/catalog/free">https://online-learning.harvard.edu/catalog/free</a></li>
+<li>Coursera: rất nhiều khóa học hay và miễn phí từ các trường đại học lớn cũng như thầy giáo nổi tiếng trên thế giới, nếu bạn muốn lấy chứng chỉ chỉ cần đóng tiền sẽ theo lộ trình có bài tập và có người chấm điểm coursera.org/</li>
+<li>eDX: <a href="https://www.edx.org/">https://www.edx.org/</a></li>
+<li>Khan Academy: <a href="https://www.khanacademy.org/">https://www.khanacademy.org/</a></li>
+<li>Udacity: <a href="https://www.udacity.com/">https://www.udacity.com/</a></li>
+<li>Udemy: <a href="https://www.udemy.com/">https://www.udemy.com/</a></li>
+<li>PluralSight: <a href="http://pluralsight.com/">http://pluralsight.com/</a></li>
+<li>Egghead: <a href="http://egghead.io/">http://egghead.io/</a></li>
+<li>Code Academy: <a href="https://www.codecademy.com/learn">https://www.codecademy.com/learn</a></li>
+</ol>
+<p>Tham khảo thêm giới thiệu từng trang tại <a href="https://itviec.com/blog/hoc-lap-trinh/">https://itviec.com/blog/hoc-lap-trinh/</a></p>
+<h4 id="khóa-học-về-thiền--hạnh-phúc">Khóa học về thiền &amp; hạnh phúc</h4>
+<p>Khóa học về hạnh phúc và đã dẫn mình đến với thiền rất hay của tiến sĩ Rajagopal Raghunathan, McCombs school of Business, University of Texas, Austin. Cuốn sách nếu ra 7 &ldquo;trọng tội&rdquo; khiến con người không có hạnh phúc, và 7 &ldquo;thuốc chữa&rdquo; cho từng &ldquo;trọng tội&rdquo; đó và cả phương pháp làm sao trở nên xuất sắc trong các lĩnh vực mà không bị xì trét vì mục tiêu đặt ra. Các lý do rất logic, cách giảng dạy gần gũi. Theo mình, một người xây dựng được lối sống hạnh phúc vào mọi thời khắc, sống ở hiện tại một cách đầy đủ sẽ có năng lực rất lớn trong việc học tập và làm việc, hướng đến hoàn thành mục tiêu đặt ra. Khuyên học cho tất cả mọi người!</p>
+<p><a href="https://www.coursera.org/learn/happiness">https://www.coursera.org/learn/happiness</a></p>
+<h4 id="nhập-môn-lập-trình---khuyến-cáo-chỉ-dành-cho-dân-hardcore">Nhập môn lập trình - khuyến cáo chỉ dành cho dân hardcore</h4>
+<p>Vì sao nhập môn mà mình lại nói dành cho hardcore? Vì mặc dù rất hay và cung cấp đủ nền tảng về lập trình cho các bạn, nhưng nếu mới khởi đầu mà dây dưa vào mớ lý thuyết này không phải ai cũng theo được đâu nhé.</p>
+<ul>
+<li>Ngồi nhà mà vẫn được học Havard free, còn chần chừ gì nữa nhỉ? Đây là khóa học nhận được review rất tốt từ cộng đồng <a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science">https://online-learning.harvard.edu/course/cs50-introduction-computer-science</a></li>
+</ul>
+<h4 id="lập-trình-web">Lập trình web</h4>
+<ul>
+<li>Freecodecamp: Một trang học lập trình tuyệt vời, hướng thực hành cho các bạn học lập trình web bằng javascript (ReactJS &amp; NodeJS), hoàn toàn miễn phí</li>
+</ul>
+<p><a href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a></p>
+<ul>
+<li>
+<p>The odinproject: một trang web miễn phí khác cung cấp các bài tập để giúp bạn có thể trở thành fullstack web developer một cách tự tin
+<a href="https://www.theodinproject.com/">https://www.theodinproject.com/</a></p>
+</li>
+<li>
+<p>Tác giả thư viện Redux dạy miễn phí về Redux, rất hay</p>
+</li>
+</ul>
+<p><a href="https://egghead.io/courses/getting-started-with-redux">https://egghead.io/courses/getting-started-with-redux</a>
+<a href="https://egghead.io/courses/building-react-applications-with-idiomatic-redux">https://egghead.io/courses/building-react-applications-with-idiomatic-redux</a></p>
+<ul>
+<li>ReactJS</li>
+</ul>
+<p>Chọn 1 trong 2 khóa sau
+<a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux">https://www.udemy.com/course/react-the-complete-guide-incl-redux</a> 18.99$
+<a href="https://www.udemy.com/course/react-redux">https://www.udemy.com/course/react-redux</a> 19.99$</p>
+<p>Cả 2 khóa học ở trên đều cung cấp từ căn bản đến nâng cao về React cũng như đi từ Redux đến xu hướng mới dùng React Hook.
+Nếu các bạn muốn học biết về Server Side Rendering (hỗ trợ tốt hơn cho SEO_ thì tham khảo link đầu tiên, có bài giảng về NextJS.</p>
+<h4 id="trí-tuệ-nhân-tạo-và-học-sâu-machine-learning--deep-learning">Trí tuệ nhân tạo và học sâu (Machine learning &amp; Deep learning)</h4>
+<p>5 khóa học theo lộ trình từ căn bản đến chuyên sâu cho AI và Deep Learning, có thể học miễn phí hoặc đóng tiền để lấy chứng chỉ rất uy tín trên Coursera được cung cấp bởi giáo sư Andrew Ng <a href="https://www.coursera.org/specializations/deep-learning#courses">https://www.coursera.org/specializations/deep-learning#courses</a></p>
+<p>Về Andrew Ng: CEO/Founder Landing AI; Co-founder, Coursera; Adjunct Professor, Stanford University; trước đó từng là Chief Scientist của Baidu và sáng lập Google Brain</p>
+<h4 id="phân-tích-dữ-liệu-bi-data-analyst-data-engineer-data-scientist">Phân tích dữ liệu (BI, Data Analyst, Data Engineer, Data Scientist)</h4>
+<ul>
+<li>Khóa học miễn phí về Big Data <a href="https://www.coursera.org/learn/big-data-introduction">https://www.coursera.org/learn/big-data-introduction</a></li>
+<li>Tham khảo khóa Python cho Data Science bên dưới mục các khóa học Python</li>
+</ul>
+<h4 id="ngôn-ngữ-php">Ngôn ngữ php</h4>
+<h4 id="ngôn-ngữ-python">Ngôn ngữ python</h4>
+<ul>
+<li>Python căn bản, được dạy bởi Charles Russell Severance - giáo viên có 1.5 triệu học viên online thuộc trường đại học Michigan của Mỹ</li>
+</ul>
+<p><a href="https://www.coursera.org/specializations/python#courses">https://www.coursera.org/specializations/python#courses</a></p>
+<p>Nếu bạn muốn lấy chứng chỉ, có thể đóng tiền và tham gia vào lộ trình học có chứng chỉ của coursera.</p>
+<ul>
+<li>
+<p>Python cho Data Science, được cung cấp bởi IBM
+<a href="https://www.coursera.org/professional-certificates/ibm-data-science">https://www.coursera.org/professional-certificates/ibm-data-science</a></p>
+</li>
+<li>
+<p>Khóa học Python trên udemy rất nổi, hiện đã có gần 1tr người học <a href="https://www.udemy.com/course/complete-python-bootcamp/?LSNPUBID=JVFxdTr9V80&amp;ranEAID=JVFxdTr9V80&amp;ranMID=39197&amp;ranSiteID=JVFxdTr9V80-6o2Map2pUYIUiHz4B0scdw">https://www.udemy.com/course/complete-python-bootcamp/?LSNPUBID=JVFxdTr9V80&amp;ranEAID=JVFxdTr9V80&amp;ranMID=39197&amp;ranSiteID=JVFxdTr9V80-6o2Map2pUYIUiHz4B0scdw</a></p>
+</li>
+</ul>
+<p>Giá: 18.99$</p>
+<ul>
+<li>
+<p>Hướng dẫn free trên youtube, có từng playlist riêng cho Python basic, Pandas, git <a href="https://www.youtube.com/user/schafer5/playlists">https://www.youtube.com/user/schafer5/playlists</a></p>
+</li>
+<li>
+<p>Dành cho IT Automation
+<a href="https://www.coursera.org/professional-certificates/google-it-automation">https://www.coursera.org/professional-certificates/google-it-automation</a></p>
+</li>
+<li>
+<p>Tổng hợp tất tần tất nhiều khóa python nổi tiếng nếu bạn vẫn cần nhiều hơn nữa <a href="https://digitaldefynd.com/best-free-python-tutorials/#10_Google_Python_Class_DevelopersGoogle">https://digitaldefynd.com/best-free-python-tutorials/#10_Google_Python_Class_DevelopersGoogle</a></p>
+</li>
+</ul>
+<h4 id="lập-trình-di-động">Lập trình di động</h4>
+<ul>
+<li>Chương trình nanodegree của udacity</li>
+</ul>
+<p><a href="https://www.udacity.com/course/ios-developer-nanodegree--nd003">https://www.udacity.com/course/ios-developer-nanodegree--nd003</a>
+<a href="https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801">https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801</a></p>
+<h4 id="lập-trình-di-động-đa-nền-tảng-hybrid-mobile-application">Lập trình di động đa nền tảng (hybrid mobile application)</h4>
+<ul>
+<li>
+<p>Flutter: <a href="https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905">https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905</a></p>
+</li>
+<li>
+<p>React Native <a href="https://www.udacity.com/course/react-nanodegree--nd019">https://www.udacity.com/course/react-nanodegree--nd019</a> (sau khi được học về React bạn sẽ học về React Native)</p>
+</li>
+<li>
+<p>React Native <a href="https://online-learning.harvard.edu/course/cs50s-mobile-app-development-react-native">https://online-learning.harvard.edu/course/cs50s-mobile-app-development-react-native</a></p>
+</li>
+</ul>
+<h4 id="lập-trình-game">Lập trình game</h4>
+<p><a href="https://online-learning.harvard.edu/course/cs50s-introduction-game-development">https://online-learning.harvard.edu/course/cs50s-introduction-game-development</a></p>
+<p>Lập trình game cũng là một lĩnh vực rộng lớn, mình sẽ bổ sung các khóa học khác lên trong thời gian tới.</p>
+<h4 id="học-qua-kênh-youtube-tiếng-việt">Học qua kênh Youtube tiếng Việt</h4>
+<p>Tổng hợp các kênh Youtube tiếng Việt cho tự học lập trình được review bởi TopDev <a href="https://topdev.vn/blog/hoc-lap-trinh-tieng-danh-cho-fullstack-developer/">https://topdev.vn/blog/hoc-lap-trinh-tieng-danh-cho-fullstack-developer/</a></p>
+<p>Mình sẽ học thử vài khóa và review chi tiết sau, tuy nhiên theo mình kiểm tra sơ qua thì cũng khá tốt.</p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://learn2code.dev/categories/b%C3%ACnh-lu%E1%BA%ADn-s%C3%A1ch-kh%C3%B3a-h%E1%BB%8Dc/">Bình luận sách &amp; khóa học</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://learn2code.dev/tags/10x-engineer/">10x-engineer</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://learn2code.dev/tags/kh%C3%B3a-h%E1%BB%8Dc/">khóa học</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://learn2code.dev/tags/review/">review</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Đọc sách như thế nào là đúng và top 150 cuốn sách gối đầu giường cho bạn trẻ thành công</title>
+                <link>https://learn2code.dev/posts/top-150-cuon-sach-goi-dau-giuong/</link>
+                <guid isPermaLink="true">https://learn2code.dev/posts/top-150-cuon-sach-goi-dau-giuong/</guid>
+                <pubDate>Sun, 19 Apr 2020 21:11:05 +0700</pubDate>
+                
+                    <author>longbkit@gmail.com (Lương Ngọc Long)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description><![CDATA[<h4 id="duy-trì-thói-quen-đọc-sách-đều-đặn-quan-trọng-thế-nào-với-sự-phát-triển-bản-thân">Duy trì thói quen đọc sách đều đặn quan trọng thế nào với sự phát triển bản thân?</h4>
+<p>Trước khi đi vào review sách gối đầu giường giúp bạn trẻ thành công, mình nghĩ nên chậm lại một chút luận bàn về việc quan trọng của đọc sách.</p>
+<p>Từ lúc chữ viết chưa ra đời, con người đã biết cách vẽ các ký hiệu lên vách đá để kể lại các câu chuyện. Người ta tin rằng hệ thống chữ viết đầu tiên của loài người ra đời cuối thiên niên kỷ 3 TCN tại vùng Sumer (Lưỡng Hà) ở dạng chữ hình nêm cổ xưa ở Triều đại Ur thứ ba. Tuy nhiên mãi đến thế kỷ 15, bằng việc phát minh ra việc in bằng các chữ rời kim loại bởi người Châu Âu, việc in sách mới trở nên nhanh và rẻ hơn. Cùng sau đó là rất nhiều tiến bộ về công nghệ, và cho đến ngày nay sách in giấy đang được thay thế bởi một phần rất lớn sách ấn phẩm điện tử ebook.</p>
+<p>Điều gì là khác biệt giữa loài người và các loài vật khác? Một nghiên cứu đã chỉ ra rằng đó là khả năng truyền lại tri thức từ đời này qua đời khác. Nhờ đó, các thế hệ sau có thể đọc và học hỏi kinh nghiệm của các thế hệ đi trước, tiết kiệm hàng nghìn năm công sức thử sai của các thế hệ cha ông, ví dụ như làm sao để canh tác nông nghiệp cho hiệu suất cao, làm sao để xây được các tòa nhà, hay làm sao xây được các tòa nhà chọc trời. Rất nhiều thành quả công nghệ của ngày hôm nay là nhờ vào nền móng của cha ông đời trước của chúng ta.</p>
+<p>Nếu như bạn là người thường băn khoăn với câu hỏi mục đích cuộc sống là gì, tại sao con người lại tồn tại, chúng ta tồn tại để làm gì? v.v. và v.v. 1001 câu hỏi tương tự về đời sống. Nếu bạn biết rằng, cách đây 2490 năm, có một người đàn ông với trí tuệ vĩ đại, mà công việc của ông là suốt ngày ngồi nghĩ về những điều đó, suốt ngày tranh luận, nghe và trả lời các câu hỏi triết lý như vậy, bạn có quan tâm không? Bạn nghĩ sao nếu có thể hấp thụ được thành quả cả đời của ông? Tất cả đều trở nên có thể chỉ cần bạn đọc sách của triết gia nổi tiếng Socrates người Hy Lạp.</p>
+<p>Nếu như bạn biết có một người đàn ông, đã xây dựng nên một đế chế trị giá 370 tỉ đô, đã hoàn thành cuốn sách tâm huyết của ông trước lúc ra đi vào năm 1992, bạn có quan tâm không? Bạn muốn đầu tư chứng khoán hay bất động sản? Bạn nghĩ sao nếu người đàn ông có tài sản ròng trị giá 74.7 tỉ đô đến nhà bạn và chỉ cho bạn cách làm thế nào để có thể kiếm lời từ chứng khoán? Ông ta là Warren Buffett và có rất nhiều sách đã viết về quá trình suy nghĩ của ông khi đầu tư đã diễn ra như thế nào.</p>
+<p>Với mình sách thật là trân quý, bộ não của con người là cái máy tính siêu cao cấp, bạn càng nạp nhiều kiến thức vào thì nó càng biết nhiều hơn, càng thông tuệ hơn. Những dòng chữ mình đang viết ra, không phải là kết quả của vài chục nghìn giờ đọc sách, đọc báo, đúc kết tất cả câu chữ và văn phong của người khác, để viết nên hay sao?</p>
+<p>Các bạn quan tâm đến lịch sử phát minh chữ viết và giấy in sách có thể đọc bài viết rất chi tiết <a href="https://hvtc.edu.vn/tabid/558/catid/143/id/17608/Luoc-su-ra-doi-va-phat-trien-cua-sach/Default.aspx">ở đây</a></p>
+<blockquote>
+<p>Thông báo 📢 Vào 7h30 tối thứ 2 nhằm ngày 20/04/2020, mình cùng với Hường Lưu - Yoga &amp; Meditation trainer có tổ chức online training về cách quản lý sự xao nhãng để hoàn thành tốt mục tiêu đã đặt ra. Các bạn quan tâm có thể xem thêm thông tin chi tiết ở đây và đăng ký tham gia nhé <a href="https://bit.ly/fb-nghe-lap-trinh">https://bit.ly/fb-nghe-lap-trinh</a></p>
+</blockquote>
+<h4 id="đọc-sách-như-thế-nào-là-đúng">Đọc sách như thế nào là đúng?</h4>
+<p>Sách quan trọng như vậy đấy, nhưng mình cũng đã nghe nhiều ý kiến từ các người bạn thường bảo rằng, &ldquo;Sách đấy tớ đọc rồi&rdquo;, hoặc &ldquo;Sách đẩy chẳng có gì hay cả&rdquo;, hoặc &ldquo;Đọc sách hoài mà có thấy khác gì đâu?&quot;. Trước kia mình chỉ đơn giản là đọc sách và thấy hay, mỗi lần đọc xong tự tổng kết lại những điều hay mình học được rồi xong. Hiếm khi ngó lại sách đó nữa. Nên khá hiểu và thông cảm cho những lời nhận xét từ các người bạn. Chuyện thực sự chỉ thay đổi sau khi mình nghe 1 video TED talk cực kì hay của anh Tai Lopez về cách mà anh ta đọc một cuốn sách mỗi ngày. Thay đổi gần như toàn bộ về cách mà sách thực sự hữu ích với chúng ta như thế nào.</p>
+<p>Tai Lopez gợi ý rằng, chúng ta hãy coi sách như một người bạn. Vì sách là bạn, nên thỉnh thoảng bạn dĩ nhiên sẽ ghé thăm và trò chuyện với nhau, hay nói cách khác thỉnh thoảng bạn lại mở sách ra coi lại. Và bạn sẽ có vài người bạn chứ không chỉ một, Tai Lopez khuyến khích chúng ta rằng mỗi người nên có 150 cuốn sách gối đầu giường về tất cả chủ đề cần thiết trong cuộc sống. Mình có đính kèm danh sách 150 cuốn sách bên dưới được giới thiệu bởi chính anh ấy.</p>
+<p>Vậy điều này đã thay đổi cái gì?</p>
+<p>Thứ nhất, việc đọc lại sách không khác gì mình có thêm một người bạn, người thầy nhắc mình nhớ lại điều gì là đúng đắn. Cũng đâu khác gì đi học ở trường nhỉ, cũng bao nhiêu kiến thức hay, cũng ghi ghi chép chép nhưng đâu ít khi mình quên những lời thầy giảng. Ai may mắn sẽ tìm được cho mình một mentor giỏi dẫn dắt mình đi trên con đường sự nghiệp, lúc khó khăn thì giải đáp cho mình, và với kinh nghiệm dày dặn mentor có thể chỉ cho mình biết nên đi con đường như thế nào là tốt nhất. Thế nên vậy đó bạn à, mỗi lần mở sách ra là mỗi lần nhớ lại, là mỗi lần được nhắc nhở. Không ít người nói rằng cuốn sách Đắc Nhân Tâm rất hay trong việc giúp bạn đối nhân xử thế với mọi người xung quanh một cách dung hòa nhất, mình cũng cho rằng như thế, và mình đã đọc không biết mấy chục lần rồi đấy bạn à. Mỗi lần như thế đã nhắc lại cho mình không ít.
+Hơn thế nữa, việc nhắc nhở này lại đặc biệt đúng với các thể loại sách Phát triển bản thân (self-help). Đã bao nhiêu lần bạn hừng hực khí thế, tràn đầy quyết tâm sau khi đọc các cuốn sách như Đánh thức sức mạnh phi thường trong bạn, Suy nghĩ và làm giàu, và rồi cuộc sống lại đưa đẩy và bạn lại trở về với chính bạn? Riêng với mình từ khi biết tuyệt chiêu ghé thăm bạn cũ này, mình được nhắc đi nhắc lại không ít lần để có thể duy trì được tinh thần tuyệt vời nhất.</p>
+<p>Thứ hai, sách thực sự là kho báu giỏi giấu mình giữa sa mạc mênh mông. Nhiều cuốn sách được viết ra bởi các vĩ nhân đầy thông tuệ, trí tuệ của các vĩ nhân này cũng đã đúc kết tinh hoa của không biết bao nhiêu thế hệ thông qua sách vở, và bạn ở đây, đọc sách của các vĩ nhân này. Có hai điều có thể xảy ra, hoặc là bạn đọc hết không bỏ sót chi tiết nào, chúc mừng bạn rất giỏi trong việc đọc sách cũng như bạn đầy tính kiên trì và cần mẩn. Tuy nhiên, thường bạn sẽ hiểu bao nhiêu % của cuốn sách? Hay đôi khi bạn tự cho là mình đã hiểu hết nội dung, điều này có thật sự đúng chăng? Mình đã tự trải nghiệm nhiều lần về điều này, việc thấu hiểu nội dung cuốn sách phụ thuộc rất nhiều vào tầng hiểu biết của mình hiện tại. Năm ngoái mình đọc cuốn Đắc Nhân Tâm, mình hiểu khác, năm nay mình đọc cuốn Đắc Nhân Tâm, mình lại hiểu khác. Đó là vì kinh nghiệm mình đã khác, mình đã phát triển lên một tầng khác, thì với bất cứ kiến thức nào mình sẽ hiểu được sâu hơn. Khả năng thứ hai có thể xảy ra là gì? Nếu bạn không phải tuýp người cẩn thận, kiên trì đọc từng chữ một, thì khả năng rất cao bạn sẽ bỏ qua không ít chữ và ý. Do đó, mỗi lần lật lại sách cũng giống như đi mò tìm kho báu, mình hay phát hiện ra những điểm hay mới thú vị mà trước đó mình không để ý lắm.</p>
+<p><a href="https://www.tailopez.com/books">https://www.tailopez.com/books</a></p>
+<h4 id="làm-thế-nào-để-đọc-sách-nhanh-hơn">Làm thế nào để đọc sách nhanh hơn?</h4>
+<p>Bởi vì sách là bạn của mình, bạn sẽ không bỏ mình đi đâu. Việc đầu tiên khi tiếp xúc một người bạn là cần giới thiệu lẫn nhau vài thông tin cơ bản. Với sách, bạn hãy xem những trang đầu hoặc những trang cuối sẽ có chứa mục lục của sách, đọc qua xem sách nói về những điều gì. Tiếp đến, bạn hãy đọc theo kỹ thuật đọc lướt (skimming &amp; scanning) qua cuốn sách. Phụ thuộc vào độ hứng thú hoặc độ hữu dụng của cuốn sách với bạn ở thời điểm bạn đọc mà điều chỉnh tốc độ đọc lướt cho hợp lý. Ví dụ như bạn có thể đọc mỗi chương phần mở đầu và kết thúc chương, hay mở đầu, đoạn giữa và kết thúc chương. Một số cuốn sách có tổng kết lại ở cuối chương, bạn có thể đọc phần tổng kết kỹ hơn. Hoặc một số đoạn được tác giả báo hiệu cần lưu ý bằng chữ in nghiêng hoặc in đậm, bạn có thể để ý kỹ hơn những đoạn đó. Thông thường, một cuốn sách dày vì bao gồm trong đó rất nhiều nghiên cứu đi kèm để dẫn chứng, nếu bạn đọc sách với mục đích hiểu cuốn sách nói về điều gì, thì các ví dụ sẽ không cần thiết lắm. Tất nhiên bạn có quyền làm chủ hoàn toàn trong tốc độ đọc của mình, nếu thích thì bạn có thể đọc chậm lại ở một số chỗ, đọc thêm ví dụ để tăng tính thuyết phục, và lại đọc nhanh ở những chỗ khác.</p>
+<p>Sau khi hiểu sách nói về những gì rồi, bạn sẽ có cái nhìn tổng quan và biết chương nào mình quan tâm nhiều nhất, lúc này bạn có thể tập trung vào đọc hoàn thành chương đó. Mình đã áp dụng thử cách này, và thấy cực kỳ hiệu quả. Thú thật là do tính cầu thị cao, nhiều lúc mình cũng hơi stress vì thấy bạn bè recommend sách hay liên tục mà không có thời gian đọc hết những cuốn đó, cảm giác FOMO cứ đè lên người khá khó chịu. Từ khi áp dụng cách đọc nhanh một cuốn sách, mình đã có thể tiếp thu rất nhiều ý tưởng hay từ các cuốn sách, và đã giúp mình rất nhiều trong cuộc sống cũng như công việc.</p>
+<h4 id="đọc-bao-nhiêu-cuốn-sách-mỗi-năm">Đọc bao nhiêu cuốn sách mỗi năm?</h4>
+<p>Nếu bạn chưa bao giờ đọc sách hoặc ít đọc sách, hãy bắt đầu một cách từ tốn. Mỗi quý một cuốn sách là bạn đã có sự tiến bộ tốt rồi.</p>
+<p>Với các bạn đã có thói quen đọc sách, theo mình mỗi tháng trung bình một cuốn sách là hoàn toàn khả thi.</p>
+<p>Còn với các bạn trước giờ đã có thói quen đọc sách thường xuyên, mình thử thách các bạn mỗi tuần đọc một cuốn sách đấy :D Vị chi mỗi năm là 52 cuốn sách nhé. Nếu bạn nghĩ có thể đọc nhanh hơn nữa, mình không cản bạn đâu.</p>
+<h4 id="top-8-cuốn-sách-mình-nghĩ-xứng-đáng-gối-đầu-giường-thường-được-nhiều-người-thành-công-ở-vn-khuyên-mình-đọc">Top 8 cuốn sách mình nghĩ xứng đáng gối đầu giường, thường được nhiều người thành công ở VN khuyên mình đọc</h4>
+<p>Lúc nói gối đầu giường, ý mình là coi sách như người bạn đã đề cập ở trên đấy.</p>
+<p>Trong khuôn khổ bài viết, mình sẽ tạm dừng ở phần một - các cuốn sách giúp phát triển bản thân từ bên trong.
+Mình có dự định kết nối với những gương mặt khởi nghiệp thành công trong nước để xin giới thiệu về danh sách cuốn sách gối đầu giường của họ, nếu bạn là một trong số họ đừng ngần ngại email đến <a href="mailto:longbkit@gmail.com">longbkit@gmail.com</a> để mình có thể chia sẻ rộng rãi hơn đến cộng đồng nhé. Còn nếu bạn quan tâm đến cập nhật, vui lòng điền vào <a href="https://forms.gle/PcUj1sJngoazufDd6">form này</a> để mình tiện thông báo lúc có thêm tựa sách khuyên đọc mới nhé.</p>
+<ol>
+<li>7 thói quen hiệu quả của người thành đạt - bạn có thể xem thêm review hoặc đặt mua ở đây <a href="http://bit.ly/7-thoi-quen-hieu-qua-td">http://bit.ly/7-thoi-quen-hieu-qua-td</a></li>
+</ol>
+<p><img src="/img/reviewsach-7habits.jpg" alt="7habits"></p>
+<p>Đây phải nói là cuốn sách gối đầu giường của rất nhiều người thành đạt. Stephen Covey đã đúc kết qua vô số nghiên cứu để ra được 7 quy tắc mà bất cứ ai muốn thành công đều cần biết và làm theo. Nhiều nhà lãnh đạo thành công ở tập đoàn P&amp;G đã được nghe Stephen Covey nói trực tiếp về đề tài này và đều coi đây là cuốn sách gối đầu giường của họ, giúp họ thành công.
+Điều hay thì rất nhiều nhưng mình tóm tắt 4 điều tâm đắc và cô đọng nhất của mình về cuốn sách là:</p>
+<ul>
+<li>Quy tắc đầu tiên cực kì quan trọng: Be proactive - hãy là người chủ động. Đứng trước mọi tình thế, luôn biết điều gì có thể thay đổi được, điều gì không, và hãy luôn thay đổi điều mà chính mình có thể thay đổi được, thay vì đợi người khác phải thay đổi vì mình.</li>
+<li>Quy tắc thứ hai: Begin with the end in mind - hãy bắt đầu với ý nghĩ rõ ràng về kết thúc mà bạn mong muốn. Phần này tác giả nói luôn về mục đích của cuộc đời các bạn muốn đạt được là gì, vì khi xác định sai mục đích, dù các bạn có đạt được đích thì đó cũng là cái đích không đúng, toàn bộ công sức sẽ xem như lãng phí. Tuy nhiên, mình thấy có thể áp dụng vào bất cứ việc gì, khi làm đều cần hình dung rõ mình mong muốn điều gì, từ mong muốn và mục tiêu rõ ràng mới ra được chiến lược và kế hoạch hành động để đạt được mục tiêu đó.</li>
+<li>Quy tắc thứ ba: Put first things first - Việc gì cần làm đầu tiên hãy làm ngay đầu tiên. Đây là quy tắc về quản lý thời gian, có 4 góc phần tư về quản lý thời gian rất hay, đồng thời tác giả gợi ý luôn về việc xét ưu tiên công việc theo tuần thay vì theo ngày. Cách làm này rất thông minh vì đã giải quyết được 2 vấn đề của TODO list, một là TODO list không bao giờ kết thúc, tốc độ thêm vào thường nhanh hơn tốc độ lấy ra (hoàn thành), thứ hai là TODO list làm cho chúng ta cảm giác stress vì công việc dường như không bao giờ hết, mỗi ngày đều kín các việc cần làm. Ông còn cho ví dụ mẫu một bộ lịch công việc nên như thế nào, các bạn có thể dùng google sheet hoặc google calendar để quản lý công việc được tốt hơn nhé.
+Bạn nào muốn tham khảo về mẫu chuẩn google sheet mình làm thì hãy để lại email <a href="https://forms.gle/PcUj1sJngoazufDd6">ở đây</a>, mình sẽ share tặng.</li>
+<li>Quy tắc thứ 7: Sharpen the saw - có một câu nói rất nổi tiếng của Abraham Lincoln cũng nói về điều này, đó là &ldquo;Nếu cho tôi 6 giờ để chặt một cái cây, tôi sẽ dành 4 tiếng để mài rìu&rdquo;. Công cụ luôn là quan trọng đối với con người kể từ xa xưa để giúp con người hiệu quả hơn trong việc thực hiện công việc của mình. Chính vì vậy mình cũng đã có viết loạt bài chia sẻ về cách làm sao có năng suất cao bằng cách dùng đúng công cụ ở đây</li>
+</ul>
+<blockquote>
+<p><a href="https://learn2code.dev/posts/10x-engineer-part-1/">Sếp nhớ trả lương em gấp 10 nha (phần 1)</a></p>
+</blockquote>
+<ol start="2">
+<li>
+<p>Thay đổi câu hỏi - thay đổi cuộc đời
+<a href="https://bit.ly/thay-doi-suy-nghi-thay-doi-cuoc-doi">https://bit.ly/thay-doi-suy-nghi-thay-doi-cuoc-doi</a>
+<img src="/img/reviewsach-thaydoicauhoi.webp" alt="thay doi cau hoi">
+Rất nhiều trong các bạn đều biết tư duy tích cực, nghĩ lạc quan là rất cần thiết để có thể đạt hiệu quả cao trong mọi điều trong cuộc sống. Một số đứa bạn của mình, trong đó có mình thì có thể do gen hoặc môi trường từ nhỏ nên luôn luôn lạc quan yêu đời, tràn đầy đam mê, một số đứa bạn khác thì thường đi vào tư duy tiêu cực, bi quan, nghĩ xấu không những về người ta mà còn về chính mình. Các bạn ấy cũng biết rằng điều đó là không tốt, ai cũng khuyên các bạn là nghĩ tích cực đi, nhưng mà khuyên và làm được là 2 chuyện hoàn toàn khác nhau.
+Tin vui là mình đã tìm ra được cuốn sách có thể chỉ được làm sao để có thể tư duy tích cực cơ đấy. Sách rất mỏng nhưng súc tích, hi vọng sẽ giúp được nhiều bạn sau khi đọc, vì ngay cả mình dù đã lạc quan nay còn lạc quan hơn đấy :))</p>
+</li>
+<li>
+<p>Con đường Heartfulness <a href="http://bit.ly/Con-duong-heartfulness">http://bit.ly/Con-duong-heartfulness</a>
+<img src="/img/reviewsach-con-duong-hearfulness.jpg" alt="con duong heartfulness">
+Một cuốn sách đọc chạm sâu vào bên trong về nghệ thuật sống cân bằng giữa cuộc sống vật chất và tinh thần, kèm theo đó là hướng dẫn phương pháp thiền Heartfulness. Bạn có bao giờ về nhà và tức giận vô cớ với người thân chưa? Tác giả cuốn sách đã chỉ ra phương pháp rất thực tiễn để bạn có thể luôn bước về nhà với một niềm hứng khởi, gia đình tràn ấp tiếng cười dù công việc có đầy stress đi chăng nữa.
+Trước đó mình đã viết bài review sách, bạn nào quan tâm có thể đọc thêm chi tiết ở đây <a href="https://spiderum.com/bai-dang/Review-Sach-Con-duong-Heartfulness-doc-di-doc-lai-van-thay-hay-lvb">https://spiderum.com/bai-dang/Review-Sach-Con-duong-Heartfulness-doc-di-doc-lai-van-thay-hay-lvb</a></p>
+</li>
+<li>
+<p>Search inside yourself - Tạo ra lợi nhuận vượt đại dương (Chade-Meng Tan)
+<a href="http://bit.ly/Tim-ben-trong-chinh-ban">http://bit.ly/Tim-ben-trong-chinh-ban</a>
+<img src="/img/reviewsach-searchinsideyourself.jpg" alt="search inside yourself">
+Cuốn sách về cách quản lý cảm xúc trên nền tảng thiền của kỹ sư Chade-Meng Tan của Google. Khóa học cùng tên cũng được dạy rất rộng rãi ở Google, giúp nhiều nhân viên có năng suất làm việc cao hơn, và yêu môi trường công việc hơn nhiều.</p>
+</li>
+<li>
+<p>Đắc nhân tâm <a href="https://bit.ly/llc-dac-nhan-tam">https://bit.ly/llc-dac-nhan-tam</a> (Dale Carnegie)
+<img src="/img/reviewsach-dacnhantam.jpg" alt="dacnhantam">
+Cuốn sách của tác giả Dale Carnegie hay khỏi nói rồi, gồm rất nhiều trí tuệ trong giao tiếp giữa người và người, biết người biết ta, win-win. Ông còn là tác giả của cuôn sách Quảng gánh lo đi để vui sống.</p>
+</li>
+<li>
+<p>Tony buổi sáng - Trên đường băng <a href="https://bit.ly/llc-tony-buoi-sang-tren-duong-bang">https://bit.ly/llc-tony-buoi-sang-tren-duong-bang</a>
+<img src="/img/reviewsach-trenduongbang.jpg" alt="trenduongbang">
+Một cuốn sách rất đáng đọc với đại đa số người trẻ Việt Nam. Nói từ chuyện trên trời xuống dưới đất, từ ta sang Tây, sang đến tận Trung Đông, Tony đã cung cấp những góc nhìn thẳng về tình hình thực tế của bạn trẻ Việt Nam, và như thế nào mới là sống đúng cách. Mình tin rằng kỹ năng mềm, thái độ sống luôn là kim chỉ nan và nền tảng để thúc đẩy nhiều mặt khác của đời sống, kể cả kỹ năng chuyên môn sẽ theo đó được nâng tầm lên. Do đó, hãy đọc cuốn này trước khi đọc quá nhiều về chuyên môn bạn nhé.</p>
+</li>
+<li>
+<p>Suy nghĩ và làm giàu (Think and grow rich) - Napoleon Hill
+<a href="https://bit.ly/llc-suy-nghi-va-lam-giau">https://bit.ly/llc-suy-nghi-va-lam-giau</a>
+<img src="/img/reviewsach-suynghivalamgiau.jpg" alt="suynghivalamgiau">
+Cuốn này mình cảm nhận như là sách giáo khoa của việc làm giàu, rất tuyệt vời. Các kỹ thuật về hình dung, tưởng tượng để dẫn dắt duy trì động lực to lớn, hướng đến mục tiêu được mô tả rất chi tiết với ví dụ chính tác giả đã làm như thế nào và tác dụng như thế nào. Trong nhiều sách self-help mình từng đọc thì rất nhiều sách đều nhắc đến kỹ thuật visualization đích đến, mình cũng đã thử áp dụng và thấy rõ việc quan trọng của luôn luôn duy trì mục tiêu trong tầm mắt, thấy rõ nó như mình đã đạt được, thấy rõ những cảm xúc tích cực xung quanh mà nó mang lại, những thay đổi thực sự khi đạt đến mục tiêu. Tác giả cũng cho một số ví dụ như trường hợp của người đàn ông làm nên đế chế trong ngành giải khát Coca Cola, điều gì đã khiến ông chuyển mình và thành công. Rất nhiều rất nhiều điều hay ho khác chờ bạn khám phá, và nhớ coi cuốn sách như một người bạn, một kho báu để ghé thăm nó thường xuyên nhé.</p>
+</li>
+<li>
+<p>The art of happiness - Đạt Lai Lạc Ma (Nghệ thuật hạnh phúc trong thế giới phiền não)
+<img src="/img/reviewsach-theartofhappiness" alt="reviewsach-theartofhappiness">
+Nếu bạn quan tâm đến hạnh phúc, cách đối mặt với những khó khăn và đau khổ, cách hiểu và cảm thông với người khác, hay cả cách vạn vật kết nối với nhau như thế nào, thì nên để cuốn sách này trong tủ sách của bạn và ghé thăm nó thường xuyên. Sách được viết bởi trí tuệ lớn đương thời là ông Đạt Lai Lạt Ma đời thứ 14. Mình đọc bản tiếng Anh rất hay, recommend bạn nào đọc tiếng Anh được thì đọc bản tiếng Anh, còn bản tiếng Việt mình chưa đọc nhé :D</p>
+</li>
+</ol>
+<h4 id="top-150-cuốn-sách-khuyên-đọc-của-tai-lopez">Top 150 cuốn sách khuyên đọc của Tai Lopez</h4>
+<p><a href="https://www.tailopez.com/books">https://www.tailopez.com/books</a></p>
+<p>Và đây là video TED talk tuyệt vời của Tai
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/7bB_fVDlvhc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+</p>
+<h4 id="top-cuốn-sách-nên-đọc-của-bill-gates">Top cuốn sách nên đọc của Bill Gates</h4>
+<p><a href="https://www.blinkist.com/magazine/posts/a-long-list-of-books-recommended-by-bill-gates">https://www.blinkist.com/magazine/posts/a-long-list-of-books-recommended-by-bill-gates</a></p>
+<p>Dưới đây là danh sách được recommend đầy đủ bởi Bill Gates, tuy nhiên, vì ông quan tâm đến đa dạng các chủ đề về vắc-xin, năng lượng, giáo dục, &hellip; nên các chủ đề cũng đa dạng và khá hardcore, không dành cho các bạn chưa xây dựng được thói quen đọc sách ngấu nghiến nhé :D
+<a href="https://www.gatesnotes.com/Books#AllReviews">https://www.gatesnotes.com/Books#AllReviews</a></p>
+<h4 id="top-cuôn-sách-nên-đọc-của-warren-buffett">Top cuôn sách nên đọc của Warren Buffett</h4>
+<p><a href="https://www.cnbc.com/2019/12/02/full-list-warren-buffett-annual-sharehold-letters-book-recommendations.html">https://www.cnbc.com/2019/12/02/full-list-warren-buffett-annual-sharehold-letters-book-recommendations.html</a></p>
+<h4 id="top-cuốn-sách-nên-đọc-của-elon-musk">Top cuốn sách nên đọc của Elon Musk</h4>
+<p><a href="https://www.scmp.com/lifestyle/arts-culture/article/3022694/elon-musks-12-books-read-business-and-personal-success">https://www.scmp.com/lifestyle/arts-culture/article/3022694/elon-musks-12-books-read-business-and-personal-success</a></p>
+<h4 id="top-11-cuốn-sách-vị-ceo-50-tuổi-ước-gì-đã-được-đọc-hồi-30-khá-thú-vị-dành-cho-startup-ceo">Top 11 cuốn sách vị CEO 50 tuổi ước gì đã được đọc hồi 30 khá thú vị dành cho startup CEO</h4>
+<p><a href="https://www.cnbc.com/2019/11/22/best-books-of-the-decade-according-to-successful-ceo-and-founder.html">https://www.cnbc.com/2019/11/22/best-books-of-the-decade-according-to-successful-ceo-and-founder.html</a></p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://learn2code.dev/categories/b%C3%ACnh-lu%E1%BA%ADn-s%C3%A1ch-kh%C3%B3a-h%E1%BB%8Dc/">Bình luận sách &amp; khóa học</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://learn2code.dev/tags/10x-engineer/">10x-engineer</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://learn2code.dev/tags/s%C3%A1ch/">sách</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://learn2code.dev/tags/review/">review</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Event Chuyện nghề lập trình: giá gì mình biết khi còn sinh viên</title>
