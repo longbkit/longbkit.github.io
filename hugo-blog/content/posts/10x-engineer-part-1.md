@@ -92,6 +92,8 @@ Mình nhắc lại, key của phần này chính là tư duy, nếu bạn có t�
 
 À muốn nữa không? Thử vào doc.new, slide.new để thấy sự kỳ diệu nghen các bạn.
 
+📢📢📢 Sắp tới mình sẽ bổ sung rất nhiều tuyệt chiêu làm sao để sắp xếp môi trường làm việc trên laptop, tăng tối đa sự tập trung và hiệu suất, các chrome extension hiệu quả, IDE chuyên sâu, các tài liệu tham khảo tuyệt vời cho lập trình viên. Nếu bạn quan tâm, vui lòng điền vào [form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có cập nhật nhé!
+
 ### 4. Tập trung và làm việc sâu
 
 Đây là một bài mình đã talk ở team VeXeRe và ở BarCamp@SaiGon 2019.
@@ -159,6 +161,8 @@ Dưới đây là một câu chuyện Ông vua và 4 bà vợ rất sâu sắc, 
 Bộ môn này thật ra có cả trăm điều vi diệu khác và tôi hứa sẽ truyền tải đến với các bạn ở các bài viết sau. Phương Tây đã nghiên cứu rất nhiều về các phương pháp làm sao để thành công, như giao tiếp thành công, quản lý thời gian thành công, quản lý cảm xúc thành công. Tuy nhiên, điều đáng chú ý là tất cả phương pháp đó đều đúng, nhưng hoàn toàn không dễ để thực hiện. Và không may là sự khác biệt lại nằm ở phần thực hiện những nguyên tắc ấy. Gần đây hơn, có nhiều nghiên cứu của khoa học phương Tây dành cho thiền, họ đã khám phá ra vô vàn điều thú vị xung quanh, mà có thể rút gọn lại một ý là nếu bạn tập thiền thường xuyên, bạn có thể làm được những điều mà đáng lẽ bạn nên làm để thành công, một cách đều đặn và thường xuyên.
 
 Thế đấy, vượt qua 7 cấp độ này, bạn sẽ không còn nhận ra mình nữa đâu. Thế giới quan thay đổi, bạn thành công, lương cao, công việc tốt. Hẹn gặp lại bạn sớm trong các bài viết chuyên sâu kì sau.
+
+📢📢📢 Sắp tới mình sẽ bổ sung rất nhiều tuyệt chiêu làm sao để sắp xếp môi trường làm việc trên laptop, tăng tối đa sự tập trung và hiệu suất, các chrome extension hiệu quả, IDE chuyên sâu, các tài liệu tham khảo tuyệt vời cho lập trình viên. Nếu bạn quan tâm, vui lòng điền vào [form này](https://forms.gle/PcUj1sJngoazufDd6) để mình tiện thông báo lúc có cập nhật nhé!
 
 Bạn có thể xem tiếp phần 2 tại đây:
 >[Sếp nhớ trả lương em gấp 10 nha (phần 2) - thiết lập môi trường dev cho HĐH Ubuntu]({{< ref "10x-engineer-part-2.md" >}})
