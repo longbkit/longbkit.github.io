@@ -14,4 +14,5 @@ draft: false
 
 {{<youtube Fwrq_ih9UDU>}}
 
-Trong buổi 3, mình và Hường chia sẻ tiếp tục về cách quản lý sự xao nhãng. Ai cũng có mong muốn có một cuộc sống tốt hơn, một số người đã tìm ra mục tiêu của cuộc đời nhưng những người khác lại chưa tìm ra được - tuy nhiên điểm chung là rất nhiều người mong muốn có nhiều tiền, thành công và hạnh phúc. Có người làm tốt hơn là lên được kế hoạch hành động để đạt được mục tiêu, nhưng tại sao rất ít người có thể hoàn thành đích đến của mình? Các bạn có thể xem chia sẻ của buổi 3 ở link này >[Youtube sharing 3 - Quản lý sự xao nhãng hướng đến mục tiêu]({{< ref "tri-thong-minh-cam-xuc-va-cach-ren-luyen.md" >}})
+
+Trong buổi 3, mình và Hường chia sẻ tiếp tục về cách quản lý sự xao nhãng. Ai cũng có mong muốn có một cuộc sống tốt hơn, một số người đã tìm ra mục tiêu của cuộc đời nhưng những người khác lại chưa tìm ra được - tuy nhiên điểm chung là rất nhiều người mong muốn có nhiều tiền, thành công và hạnh phúc. Có người làm tốt hơn là lên được kế hoạch hành động để đạt được mục tiêu, nhưng tại sao rất ít người có thể hoàn thành đích đến của mình? Các bạn có thể xem chia sẻ của buổi 3 ở link này [Youtube sharing 3 - Quản lý sự xao nhãng hướng đến mục tiêu]({{< ref "quan-ly-su-xao-nhang.md" >}})

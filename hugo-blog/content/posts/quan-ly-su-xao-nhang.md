@@ -20,6 +20,7 @@ Trong buổi 3, các bạn tiếp tục được hướng dẫn thiền cơ bả
 
 {{<youtube uKKS7CTDssw>}}
 
+
 Tổng kết 3 buổi, rất nhiều bạn tham gia đầy đủ cả 3 đã dành nhiều lời khen ngợi, và đều có chung nhận xét là các buổi sharing đều rất tâm huyết và solid nhất từ trước giờ các bạn từng xem. Cảm ơn các bạn rất nhiều và rất hoan nghênh tinh thần cầu tiến tuyệt vời của các bạn!
 
 Thân mến!

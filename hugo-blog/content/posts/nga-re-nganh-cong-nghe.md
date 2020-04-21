@@ -16,4 +16,5 @@ Rất nhiều bạn tham gia đã phản hồi tích cực, cho rằng đây là
 
 {{<youtube y8HLxNhuaa4>}}
 
-Trong buổi 2 - Hường và mình chia sẻ về trí thông minh cảm xúc là gì, làm sao để phát triển trí thông minh cảm xúc, với 2 người bạn cùng IQ, điều gì tạo nên sự khác biệt dẫn tới sự thành công, làm sao để luôn giữ động lực, làm sao để tư duy tích cực. Các bạn có thể xem ở link này >[Youtube sharing 2 - EQ: Trí thông minh cảm xúc và làm thế nào để thành công]({{< ref "tri-thong-minh-cam-xuc-va-cach-ren-luyen.md" >}})
+
+Trong buổi 2 - Hường và mình chia sẻ về trí thông minh cảm xúc là gì, làm sao để phát triển trí thông minh cảm xúc, với 2 người bạn cùng IQ, điều gì tạo nên sự khác biệt dẫn tới sự thành công, làm sao để luôn giữ động lực, làm sao để tư duy tích cực. Các bạn có thể xem ở link này [Youtube sharing 2 - EQ: Trí thông minh cảm xúc và làm thế nào để thành công]({{< ref "tri-thong-minh-cam-xuc-va-cach-ren-luyen.md" >}})
