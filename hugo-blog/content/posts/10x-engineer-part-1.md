@@ -14,8 +14,7 @@ Vì một mình em code bằng 10 người ấy ạ.
 
 Làm sao để trở thành một engineer có công lực gấp mười lần hiện nay? Có 7 cấp độ để các bạn luyện tập mà đảm bảo chính các bạn sẽ bất ngờ về chính mình sau vài tháng nhìn lại.
 
-> Thông báo 📢 Vào thứ 7, CN, thứ 2 tuần sau nhằm ngày 18, 19, 20/04/2020, mình có tổ chức online training cho các bạn sinh viên định hướng trong ngành CNTT kèm theo kỹ năng quản lý cảm xúc, quản lý thời gian và quản lý sự xao nhãng để hoàn thành tốt mục tiêu đã đặt ra. Các bạn quan tâm có thể xem thêm thông tin chi tiết ở đây và đăng ký tham gia nhé https://bit.ly/fb-nghe-lap-trinh
-
+> Mình và Hường Lưu - Country Project Manager @ Grab có chia sẻ về các ngã rẽ của ngành công nghệ, trí tuệ cảm xúc và cách quản lý sự xao nhãng. Các bạn quan tâm có thể tham khảo thêm ở đây nhé >[Youtube sharing 1 - Ngã rẽ ngành công nghệ, trí thông minh khái niệm và roadmap học lập trình]({{< ref "nga-re-nganh-cong-nghe.md" >}})
 
 
 ### 1. Đã thông tư tưởng - nuôi dưỡng niềm đam mê

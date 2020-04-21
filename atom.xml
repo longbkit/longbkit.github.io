@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">LEARN2CODE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-04-20T15:49:07+07:00</updated>
+    <updated>2020-04-21T15:20:41+07:00</updated>
     <id>https://learn2code.dev/</id>
     <link rel="alternate" type="text/html" href="https://learn2code.dev/" />
     <link rel="self" type="application/atom+xml" href="https://learn2code.dev/atom.xml" />
@@ -16,6 +16,198 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.68.3">Hugo</generator>
+        <entry>
+            <title type="text">Youtube sharing 3 - Quản lý sự xao nhãng hướng đến mục tiêu</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/quan-ly-su-xao-nhang/" />
+            <id>https://learn2code.dev/posts/quan-ly-su-xao-nhang/</id>
+            <updated>2020-04-21T15:20:35+07:00</updated>
+            <published>2020-04-20T21:11:07+07:00</published>
+            <author>
+                    <name>Lương Ngọc Long</name>
+                    <uri>https://learn2code.dev/</uri>
+                    <email>longbkit@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Đây là video của buổi online training thứ 3 - Cách quản lý sự xao nhãng. Ai cũng có mong muốn có một cuộc sống tốt hơn, một số người đã tìm ra mục tiêu của cuộc đời nhưng những người khác lại chưa tìm ra được - tuy nhiên điểm chung là rất nhiều người mong muốn có nhiều tiền, thành công và hạnh phúc.]]></summary>
+            
+                <content type="html"><![CDATA[<p>Đây là video của buổi online training thứ 3 - Cách quản lý sự xao nhãng. Ai cũng có mong muốn có một cuộc sống tốt hơn, một số người đã tìm ra mục tiêu của cuộc đời nhưng những người khác lại chưa tìm ra được - tuy nhiên điểm chung là rất nhiều người mong muốn có nhiều tiền, thành công và hạnh phúc. Có người làm tốt hơn là lên được kế hoạch hành động để đạt được mục tiêu, nhưng tại sao rất ít người có thể hoàn thành đích đến của mình.</p>
+<p>Video gợi ý rất nhiều phương pháp thực tiễn để quản lý những tác nhân bên trong lẫn bên ngoài, gồm cả cách quản lý email, SMS hay quản lý môi trường làm việc trên laptop như thế nào cho hiệu quả.</p>
+<p>Video còn đề cập đến một khái niệm đặc biệt quan trọng là flow - trạng thái đắm chìm để có được hiệu suất cao nhất. Tại sao theo đuổi flow lại quan trọng, làm thế nào để đạt được flow?</p>
+<p>Trong buổi 3, các bạn tiếp tục được hướng dẫn thiền cơ bản tiếp tục, đồng thời cuối buổi có mục Q&amp;A cho các bạn về cả lập trình lẫn phương pháp thiền như thế nào cho đúng. Các bạn tham khảo video bên dưới nhé.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/uKKS7CTDssw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Tổng kết 3 buổi, rất nhiều bạn tham gia đầy đủ cả 3 đã dành nhiều lời khen ngợi, và đều có chung nhận xét là các buổi sharing đều rất tâm huyết và solid nhất từ trước giờ các bạn từng xem. Cảm ơn các bạn rất nhiều và rất hoan nghênh tinh thần cầu tiến tuyệt vời của các bạn!</p>
+<p>Thân mến!
+Long Lương</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/categories/chia-s%E1%BA%BB-tr%C3%AAn-youtube/" term="Chia sẻ trên youtube" label="Chia sẻ trên youtube" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/youtube/" term="youtube" label="youtube" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/chia-s%E1%BA%BB/" term="chia sẻ" label="chia sẻ" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Youtube sharing 2 - EQ: Trí thông minh cảm xúc và làm thế nào để thành công</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/tri-thong-minh-cam-xuc-va-cach-ren-luyen/" />
+            <id>https://learn2code.dev/posts/tri-thong-minh-cam-xuc-va-cach-ren-luyen/</id>
+            <updated>2020-04-21T15:20:28+07:00</updated>
+            <published>2020-04-20T21:11:06+07:00</published>
+            <author>
+                    <name>Lương Ngọc Long</name>
+                    <uri>https://learn2code.dev/</uri>
+                    <email>longbkit@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Đây là video của buổi online training thứ hai - trí thông minh cảm xúc là gì và tại sao lại quan trọng hơn cả IQ, làm sao để rèn luyện tăng trí thông minh cảm xúc, với 2 người bạn cùng IQ, điều gì tạo nên sự khác biệt dẫn tới sự thành công, làm sao để luôn giữ động lực, chúng ta thường nghe nói về tư duy tích cực nhưng làm sao để tư duy tích cực, vai trò của thiền trong việc tăng cường EQ và dẫn nhập về thiền cơ bản.]]></summary>
+            
+                <content type="html"><![CDATA[<p>Đây là video của buổi online training thứ hai - trí thông minh cảm xúc là gì và tại sao lại quan trọng hơn cả IQ, làm sao để rèn luyện tăng trí thông minh cảm xúc, với 2 người bạn cùng IQ, điều gì tạo nên sự khác biệt dẫn tới sự thành công, làm sao để luôn giữ động lực, chúng ta thường nghe nói về tư duy tích cực nhưng làm sao để tư duy tích cực, vai trò của thiền trong việc tăng cường EQ và dẫn nhập về thiền cơ bản.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Fwrq_ih9UDU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Trong buổi 3, mình và Hường chia sẻ tiếp tục về cách quản lý sự xao nhãng. Ai cũng có mong muốn có một cuộc sống tốt hơn, một số người đã tìm ra mục tiêu của cuộc đời nhưng những người khác lại chưa tìm ra được - tuy nhiên điểm chung là rất nhiều người mong muốn có nhiều tiền, thành công và hạnh phúc. Có người làm tốt hơn là lên được kế hoạch hành động để đạt được mục tiêu, nhưng tại sao rất ít người có thể hoàn thành đích đến của mình? Các bạn có thể xem chia sẻ của buổi 3 ở link này &gt;<a href="https://learn2code.dev/posts/tri-thong-minh-cam-xuc-va-cach-ren-luyen/">Youtube sharing 3 - Quản lý sự xao nhãng hướng đến mục tiêu</a></p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/categories/chia-s%E1%BA%BB-tr%C3%AAn-youtube/" term="Chia sẻ trên youtube" label="Chia sẻ trên youtube" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/youtube/" term="youtube" label="youtube" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/chia-s%E1%BA%BB/" term="chia sẻ" label="chia sẻ" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Youtube sharing 1 - Ngã rẽ ngành công nghệ, trí thông minh khái niệm và roadmap học lập trình</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/nga-re-nganh-cong-nghe/" />
+            <id>https://learn2code.dev/posts/nga-re-nganh-cong-nghe/</id>
+            <updated>2020-04-21T15:20:15+07:00</updated>
+            <published>2020-04-20T21:11:05+07:00</published>
+            <author>
+                    <name>Lương Ngọc Long</name>
+                    <uri>https://learn2code.dev/</uri>
+                    <email>longbkit@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Đây là video của buổi online training đầu tiên - những ngã rẽ ngành công nghệ (theo từng hướng lập trình và không cần lập trình), các yếu tố cần thiết để tỏa sáng trong lĩnh vực kỹ thuật, trí thông minh khái niệm và làm sao để phát triển, roadmap học lập trình.]]></summary>
+            
+                <content type="html"><![CDATA[<p>Đây là video của buổi online training đầu tiên - những ngã rẽ ngành công nghệ (theo từng hướng lập trình và không cần lập trình), các yếu tố cần thiết để tỏa sáng trong lĩnh vực kỹ thuật, trí thông minh khái niệm và làm sao để phát triển, roadmap học lập trình.</p>
+<p>Rất nhiều bạn tham gia đã phản hồi tích cực, cho rằng đây là sharing chi tiết nhất mà bạn từng nghe, tuy nhiên hiện tại có thể do thời lượng dài quá nên một số bạn chưa tập được cho mình thói quen tập trung trong thời gian dài sẽ khó theo. Các bạn tự mình chia thời gian trong ngày ra để xem, trong khi đó mình sẽ sắp xếp cắt video ra từng phần nhỏ để dễ follow hơn nhé. Rất cảm ơn các bạn đã cổ vũ.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/y8HLxNhuaa4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Trong buổi 2 - Hường và mình chia sẻ về trí thông minh cảm xúc là gì, làm sao để phát triển trí thông minh cảm xúc, với 2 người bạn cùng IQ, điều gì tạo nên sự khác biệt dẫn tới sự thành công, làm sao để luôn giữ động lực, làm sao để tư duy tích cực. Các bạn có thể xem ở link này &gt;<a href="https://learn2code.dev/posts/tri-thong-minh-cam-xuc-va-cach-ren-luyen/">Youtube sharing 2 - EQ: Trí thông minh cảm xúc và làm thế nào để thành công</a></p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/categories/chia-s%E1%BA%BB-tr%C3%AAn-youtube/" term="Chia sẻ trên youtube" label="Chia sẻ trên youtube" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/youtube/" term="youtube" label="youtube" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/chia-s%E1%BA%BB/" term="chia sẻ" label="chia sẻ" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Top khóa học online chuẩn thế giới</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/top-khoa-hoc-online-chuan-the-gioi/" />
@@ -438,7 +630,7 @@ Ngoài ra, mình có dự định kết nối với những gương mặt khởi
             <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 5) - làm việc sâu</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-5/" />
             <id>https://learn2code.dev/posts/10x-engineer-part-5/</id>
-            <updated>2020-04-20T12:29:21+07:00</updated>
+            <updated>2020-04-21T15:19:42+07:00</updated>
             <published>2020-03-25T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -557,6 +749,9 @@ Qua quá trình tiếp xúc với nhiều bạn kỹ sư đồng nghiệp mà m�
 <p>Nếu bạn không đủ sự tập trung cho từng công nghệ mới, bạn sẽ mất nhiều năm để tìm hiểu một công nghệ duy nhất, do đó bạn sẽ mất rất nhiều cơ hội vì không biết được những công nghệ khác hay như thế nào, cũng như lúc bạn làm chủ được công nghệ đấy thì lúc công nghệ cũng lỗi thời rồi, hoặc rất nhiều người khác đã vượt qua bạn trước đó. Còn nếu có đủ sự tập trung, thời gian chỉ tính bằng giờ hoặc ngày. Và quan trọng hơn hết, một người đã xây cho mình thói quen tập trung và đi sâu vào công nghệ rồi, thì sẽ tới thời điểm các bạn như <code>ve sầu thoát xác</code>, bạn không còn nhận ra mình nữa vì tầm nhận thức lên một tầm cao mới, cũng như khi tích lũy đủ kiến thức về các loại framework rồi, bạn dễ dàng học framework mới dễ như trở bàn tay. Điều này cũng giống như một người thợ sửa xe máy lành nghề, bạn có đưa bất cứ chiếc xe hỏng nào, cho dù công nghệ có thay đổi họ cũng nhanh chóng phát hiện ra vấn đề và sửa được ngay.</p>
 <p>Bài cũng khá dài rồi, mình xin tạm kết thúc chủ đề ở đây, nếu các bạn quan tâm tiếp ở cấp độ chuyên sâu hơn nữa làm sao để luyện tập các kỹ năng vừa nói ở trên, đừng ngần ngại để lại comment bên dưới nhé.</p>
 <p>📢📢📢 Sắp tới mình sẽ bổ sung rất nhiều tuyệt chiêu làm sao để sắp xếp môi trường làm việc trên laptop, tăng tối đa sự tập trung và hiệu suất, các chrome extension hiệu quả, IDE chuyên sâu, các tài liệu tham khảo tuyệt vời cho lập trình viên. Nếu bạn quan tâm, vui lòng điền vào <a href="https://forms.gle/PcUj1sJngoazufDd6">👉form này</a> để mình tiện thông báo lúc có cập nhật nhé!</p>
+<blockquote>
+<p>Mình và Hường Lưu - Country Project Manager @ Grab có chia sẻ về các ngã rẽ của ngành công nghệ, trí tuệ cảm xúc và cách quản lý sự xao nhãng. Các bạn quan tâm có thể tham khảo thêm ở đây nhé &gt;<a href="https://learn2code.dev/posts/nga-re-nganh-cong-nghe/">Youtube sharing 1 - Ngã rẽ ngành công nghệ, trí thông minh khái niệm và roadmap học lập trình</a></p>
+</blockquote>
 ]]></content>
             
             
@@ -1030,7 +1225,7 @@ Bạn có thể xem lại phần 1 tại đây:
             <title type="text">Sếp nhớ trả lương em gấp 10 nha (phần 1)</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/10x-engineer-part-1/" />
             <id>https://learn2code.dev/posts/10x-engineer-part-1/</id>
-            <updated>2020-04-20T12:29:16+07:00</updated>
+            <updated>2020-04-21T15:18:15+07:00</updated>
             <published>2020-03-05T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -1043,7 +1238,7 @@ Làm sao để trở thành một engineer có công lực gấp mười lần h
                 <content type="html"><![CDATA[<p>Vì một mình em code bằng 10 người ấy ạ.</p>
 <p>Làm sao để trở thành một engineer có công lực gấp mười lần hiện nay? Có 7 cấp độ để các bạn luyện tập mà đảm bảo chính các bạn sẽ bất ngờ về chính mình sau vài tháng nhìn lại.</p>
 <blockquote>
-<p>Thông báo 📢 Vào thứ 7, CN, thứ 2 tuần sau nhằm ngày 18, 19, 20/04/2020, mình có tổ chức online training cho các bạn sinh viên định hướng trong ngành CNTT kèm theo kỹ năng quản lý cảm xúc, quản lý thời gian và quản lý sự xao nhãng để hoàn thành tốt mục tiêu đã đặt ra. Các bạn quan tâm có thể xem thêm thông tin chi tiết ở đây và đăng ký tham gia nhé <a href="https://bit.ly/fb-nghe-lap-trinh">https://bit.ly/fb-nghe-lap-trinh</a></p>
+<p>Mình và Hường Lưu - Country Project Manager @ Grab có chia sẻ về các ngã rẽ của ngành công nghệ, trí tuệ cảm xúc và cách quản lý sự xao nhãng. Các bạn quan tâm có thể tham khảo thêm ở đây nhé &gt;<a href="https://learn2code.dev/posts/nga-re-nganh-cong-nghe/">Youtube sharing 1 - Ngã rẽ ngành công nghệ, trí thông minh khái niệm và roadmap học lập trình</a></p>
 </blockquote>
 <h3 id="1-đã-thông-tư-tưởng---nuôi-dưỡng-niềm-đam-mê">1. Đã thông tư tưởng - nuôi dưỡng niềm đam mê</h3>
 <p>Ông bà ta có câu nói</p>
