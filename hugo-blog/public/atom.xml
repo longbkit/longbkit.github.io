@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">LEARN2CODE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-04-23T18:41:34+07:00</updated>
+    <updated>2020-04-23T18:49:26+07:00</updated>
     <id>https://learn2code.dev/</id>
     <link rel="alternate" type="text/html" href="https://learn2code.dev/" />
     <link rel="self" type="application/atom+xml" href="https://learn2code.dev/atom.xml" />
@@ -380,18 +380,20 @@ Nếu các bạn muốn học biết về Server Side Rendering (hỗ trợ tố
             <title type="text">Vì sao nên đọc sách mỗi ngày và cách đọc sách như thế nào cho đúng</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/vi-sao-can-doc-sach-moi-ngay-va-cach-doc-sach-chuan/" />
             <id>https://learn2code.dev/posts/vi-sao-can-doc-sach-moi-ngay-va-cach-doc-sach-chuan/</id>
-            <updated>2020-04-23T18:29:43+07:00</updated>
+            <updated>2020-04-23T18:48:57+07:00</updated>
             <published>2020-04-19T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
                     <uri>https://learn2code.dev/</uri>
                     <email>longbkit@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Duy trì thói quen đọc sách đều đặn quan trọng thế nào với sự phát triển bản thân? Trước khi đi vào review sách gối đầu giường giúp bạn trẻ thành công, mình nghĩ nên chậm lại một chút luận bàn về việc quan trọng của đọc sách.]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Duy trì thói quen đọc sách đều đặn quan trọng thế nào với sự phát triển bản thân? Từ lúc chữ viết chưa ra đời, con người đã biết cách vẽ các ký hiệu lên vách đá để kể lại các câu chuyện.]]></summary>
             
                 <content type="html"><![CDATA[<h4 id="duy-trì-thói-quen-đọc-sách-đều-đặn-quan-trọng-thế-nào-với-sự-phát-triển-bản-thân">Duy trì thói quen đọc sách đều đặn quan trọng thế nào với sự phát triển bản thân?</h4>
-<p>Trước khi đi vào review sách gối đầu giường giúp bạn trẻ thành công, mình nghĩ nên chậm lại một chút luận bàn về việc quan trọng của đọc sách. Phần cuối mình có đưa tổng hợp 150 cuốn sách cực hay, đồng thời bonus thêm các cuốn sách được các vĩ nhân đương thời khuyến khích đọc.</p>
 <p>Từ lúc chữ viết chưa ra đời, con người đã biết cách vẽ các ký hiệu lên vách đá để kể lại các câu chuyện. Người ta tin rằng hệ thống chữ viết đầu tiên của loài người ra đời cuối thiên niên kỷ 3 TCN tại vùng Sumer (Lưỡng Hà) ở dạng chữ hình nêm cổ xưa ở Triều đại Ur thứ ba. Tuy nhiên mãi đến thế kỷ 15, bằng việc phát minh ra việc in bằng các chữ rời kim loại bởi người Châu Âu, việc in sách mới trở nên nhanh và rẻ hơn. Cùng sau đó là rất nhiều tiến bộ về công nghệ, và cho đến ngày nay sách in giấy đang được thay thế bởi một phần rất lớn sách ấn phẩm điện tử ebook. Thú thật là một số cuốn sách mình đọc ebook, nhưng đa số mua được sách giấy thì mình vẫn thích đọc sách giấy hơn, cảm giác cầm trên tay đọc rất thư giãn.</p>
+<blockquote>
+<p>Các bạn muốn bắt đầu đọc sách có thể tham khảo <a href="https://learn2code.dev/posts/danh-gia-top-10-cuon-sach-goi-dau-giuong-cho-ban-tre-viet/">Top 10 cuốn sách gối đầu giường của bạn trẻ Việt</a></p>
+</blockquote>
 <p>Điều gì là khác biệt giữa loài người và các loài vật khác? Một nghiên cứu đã chỉ ra rằng đó là khả năng truyền lại tri thức từ đời này qua đời khác. Nhờ đó, các thế hệ sau có thể đọc và học hỏi kinh nghiệm của các thế hệ đi trước, tiết kiệm hàng nghìn năm công sức thử sai của các thế hệ cha ông, ví dụ như làm sao để canh tác nông nghiệp cho hiệu suất cao, làm sao để xây được các tòa nhà, hay làm sao xây được các tòa nhà chọc trời. Rất nhiều thành quả công nghệ của ngày hôm nay là nhờ vào nền móng của cha ông đời trước của chúng ta.</p>
 <p>Nếu như bạn là người thường băn khoăn với câu hỏi mục đích cuộc sống là gì, tại sao con người lại tồn tại, chúng ta tồn tại để làm gì? v.v. và v.v. 1001 câu hỏi tương tự về đời sống. Nếu bạn biết rằng, cách đây 2490 năm, có một người đàn ông với trí tuệ vĩ đại, mà công việc của ông là suốt ngày ngồi nghĩ về những điều đó, suốt ngày tranh luận, nghe và trả lời các câu hỏi triết lý như vậy, bạn có quan tâm không? Bạn nghĩ sao nếu có thể hấp thụ được thành quả cả đời của ông? Tất cả đều trở nên có thể chỉ cần bạn đọc sách của triết gia nổi tiếng Socrates người Hy Lạp.</p>
 <p>Nếu như bạn biết có một người đàn ông, đã xây dựng nên một đế chế trị giá 370 tỉ đô, đã hoàn thành cuốn sách tâm huyết của ông trước lúc ra đi vào năm 1992, bạn có quan tâm không? Người đó là Sam Walton - một người đàn ông đầy sự khiêm nhường và đã xây dựng nên đế chế bán lẻ Walmart và cuốn sách đó là Made in America. Bạn muốn đầu tư chứng khoán hay bất động sản? Bạn nghĩ sao nếu người đàn ông có tài sản ròng trị giá 74.7 tỉ đô đến nhà bạn và chỉ cho bạn cách làm thế nào để có thể kiếm lời từ chứng khoán? Ông ta là Warren Buffett và có rất nhiều sách đã viết về quá trình suy nghĩ của ông khi đầu tư đã diễn ra như thế nào.</p>
@@ -460,7 +462,7 @@ Hơn thế nữa, việc nhắc nhở này lại đặc biệt đúng với các
             <title type="text">Đánh giá về top 10 cuốn sách gối đầu giường cho bạn trẻ Việt (phần 1)</title>
             <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/danh-gia-top-10-cuon-sach-goi-dau-giuong-cho-ban-tre-viet/" />
             <id>https://learn2code.dev/posts/danh-gia-top-10-cuon-sach-goi-dau-giuong-cho-ban-tre-viet/</id>
-            <updated>2020-04-23T18:39:37+07:00</updated>
+            <updated>2020-04-23T18:49:11+07:00</updated>
             <published>2020-04-19T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>

@@ -12,9 +12,9 @@ draft: false
 
 #### Duy trì thói quen đọc sách đều đặn quan trọng thế nào với sự phát triển bản thân?
 
-Trước khi đi vào review sách gối đầu giường giúp bạn trẻ thành công, mình nghĩ nên chậm lại một chút luận bàn về việc quan trọng của đọc sách. Phần cuối mình có đưa tổng hợp 150 cuốn sách cực hay, đồng thời bonus thêm các cuốn sách được các vĩ nhân đương thời khuyến khích đọc.
-
 Từ lúc chữ viết chưa ra đời, con người đã biết cách vẽ các ký hiệu lên vách đá để kể lại các câu chuyện. Người ta tin rằng hệ thống chữ viết đầu tiên của loài người ra đời cuối thiên niên kỷ 3 TCN tại vùng Sumer (Lưỡng Hà) ở dạng chữ hình nêm cổ xưa ở Triều đại Ur thứ ba. Tuy nhiên mãi đến thế kỷ 15, bằng việc phát minh ra việc in bằng các chữ rời kim loại bởi người Châu Âu, việc in sách mới trở nên nhanh và rẻ hơn. Cùng sau đó là rất nhiều tiến bộ về công nghệ, và cho đến ngày nay sách in giấy đang được thay thế bởi một phần rất lớn sách ấn phẩm điện tử ebook. Thú thật là một số cuốn sách mình đọc ebook, nhưng đa số mua được sách giấy thì mình vẫn thích đọc sách giấy hơn, cảm giác cầm trên tay đọc rất thư giãn.
+
+> Các bạn muốn bắt đầu đọc sách có thể tham khảo [Top 10 cuốn sách gối đầu giường của bạn trẻ Việt]({{< ref "danh-gia-top-10-cuon-sach-goi-dau-giuong-cho-ban-tre-viet.md" >}})
 
 Điều gì là khác biệt giữa loài người và các loài vật khác? Một nghiên cứu đã chỉ ra rằng đó là khả năng truyền lại tri thức từ đời này qua đời khác. Nhờ đó, các thế hệ sau có thể đọc và học hỏi kinh nghiệm của các thế hệ đi trước, tiết kiệm hàng nghìn năm công sức thử sai của các thế hệ cha ông, ví dụ như làm sao để canh tác nông nghiệp cho hiệu suất cao, làm sao để xây được các tòa nhà, hay làm sao xây được các tòa nhà chọc trời. Rất nhiều thành quả công nghệ của ngày hôm nay là nhờ vào nền móng của cha ông đời trước của chúng ta.
 
@@ -51,3 +51,4 @@ Nếu bạn chưa bao giờ đọc sách hoặc ít đọc sách, hãy bắt đ�
 Với các bạn đã có thói quen đọc sách, theo mình mỗi tháng trung bình một cuốn sách là hoàn toàn khả thi.
 
 Còn với các bạn trước giờ đã có thói quen đọc sách thường xuyên, mình thử thách các bạn mỗi tuần đọc một cuốn sách đấy :D Vị chi mỗi năm là 52 cuốn sách nhé. Nếu bạn nghĩ có thể đọc nhanh hơn nữa, mình không cản bạn đâu.
+
