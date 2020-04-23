@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">LEARN2CODE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-04-21T15:27:48+07:00</updated>
+    <updated>2020-04-23T18:41:34+07:00</updated>
     <id>https://learn2code.dev/</id>
     <link rel="alternate" type="text/html" href="https://learn2code.dev/" />
     <link rel="self" type="application/atom+xml" href="https://learn2code.dev/atom.xml" />
@@ -377,10 +377,10 @@ Nếu các bạn muốn học biết về Server Side Rendering (hỗ trợ tố
         </entry>
     
         <entry>
-            <title type="text">Đọc sách như thế nào là đúng và top 150 cuốn sách gối đầu giường cho bạn trẻ thành công</title>
-            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/top-150-cuon-sach-goi-dau-giuong/" />
-            <id>https://learn2code.dev/posts/top-150-cuon-sach-goi-dau-giuong/</id>
-            <updated>2020-04-21T15:24:08+07:00</updated>
+            <title type="text">Vì sao nên đọc sách mỗi ngày và cách đọc sách như thế nào cho đúng</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/vi-sao-can-doc-sach-moi-ngay-va-cach-doc-sach-chuan/" />
+            <id>https://learn2code.dev/posts/vi-sao-can-doc-sach-moi-ngay-va-cach-doc-sach-chuan/</id>
+            <updated>2020-04-23T18:29:43+07:00</updated>
             <published>2020-04-19T21:11:05+07:00</published>
             <author>
                     <name>Lương Ngọc Long</name>
@@ -414,8 +414,65 @@ Hơn thế nữa, việc nhắc nhở này lại đặc biệt đúng với các
 <p>Nếu bạn chưa bao giờ đọc sách hoặc ít đọc sách, hãy bắt đầu một cách từ tốn. Mỗi 3 tháng một cuốn sách là bạn đã có sự tiến bộ tốt rồi.</p>
 <p>Với các bạn đã có thói quen đọc sách, theo mình mỗi tháng trung bình một cuốn sách là hoàn toàn khả thi.</p>
 <p>Còn với các bạn trước giờ đã có thói quen đọc sách thường xuyên, mình thử thách các bạn mỗi tuần đọc một cuốn sách đấy :D Vị chi mỗi năm là 52 cuốn sách nhé. Nếu bạn nghĩ có thể đọc nhanh hơn nữa, mình không cản bạn đâu.</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/categories/b%C3%ACnh-lu%E1%BA%ADn-s%C3%A1ch-kh%C3%B3a-h%E1%BB%8Dc/" term="Bình luận sách &amp; khóa học" label="Bình luận sách &amp; khóa học" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/s%C3%A1ch/" term="sách" label="sách" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/review/" term="review" label="review" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Đánh giá về top 10 cuốn sách gối đầu giường cho bạn trẻ Việt (phần 1)</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/danh-gia-top-10-cuon-sach-goi-dau-giuong-cho-ban-tre-viet/" />
+            <id>https://learn2code.dev/posts/danh-gia-top-10-cuon-sach-goi-dau-giuong-cho-ban-tre-viet/</id>
+            <updated>2020-04-23T18:39:37+07:00</updated>
+            <published>2020-04-19T21:11:05+07:00</published>
+            <author>
+                    <name>Lương Ngọc Long</name>
+                    <uri>https://learn2code.dev/</uri>
+                    <email>longbkit@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Sách mình đọc thì rất nhiều, với rất nhiều chủ đề khác nhau từ phát triển bản thân, đến thiền, giao tiếp, kiến trúc hệ thống, giải thuật, toán học, lập trình, tiểu thuyết văn học, tuy nhiên dưới đây là 10 cuốn sách mà mình nghĩ bất cứ bạn trẻ Việt Nam đều nên đọc, và đọc đi đọc lại cho thật thấm nhuần, sẽ giúp mang lại thành công và hạnh phúc cho các bạn.]]></summary>
+            
+                <content type="html"><![CDATA[<p>Sách mình đọc thì rất nhiều, với rất nhiều chủ đề khác nhau từ phát triển bản thân, đến thiền, giao tiếp, kiến trúc hệ thống, giải thuật, toán học, lập trình, tiểu thuyết văn học, tuy nhiên dưới đây là 10 cuốn sách mà mình nghĩ bất cứ bạn trẻ Việt Nam đều nên đọc, và đọc đi đọc lại cho thật thấm nhuần, sẽ giúp mang lại thành công và hạnh phúc cho các bạn.</p>
+<p>Nếu bạn chưa duy trì được thói quen đọc sách, có thể dành ít phút đọc bài này để lấy thêm đọc lực đọc sách cũng như phương pháp đọc sách như thế nào cho tốt nhé <a href="https://learn2code.dev/posts/vi-sao-can-doc-sach-moi-ngay-va-cach-doc-sach-chuan/">Vì sao cần đọc sách mỗi ngày và cách đọc sách chuẩn</a></p>
 <h4 id="top-10-cuốn-sách-mình-nghĩ-xứng-đáng-gối-đầu-giường-thường-được-nhiều-người-thành-công-ở-vn-khuyên-mình-đọc">Top 10 cuốn sách mình nghĩ xứng đáng gối đầu giường, thường được nhiều người thành công ở VN khuyên mình đọc</h4>
-<p>Lúc nói gối đầu giường, ý mình là coi sách như người bạn đã đề cập ở trên đấy.</p>
+<p>Lúc nói gối đầu giường, ý mình là coi sách như người bạn đã đề cập ở bài viết ở trên đấy.</p>
 <p>Trong khuôn khổ bài viết, mình sẽ tạm dừng ở phần một - các cuốn sách giúp phát triển bản thân từ bên trong.
 Phần 2 mình sẽ tiếp tục với các cuốn sách hay về nguyên lý lập trình sao cho hiệu quả.
 Phần 3 mình sẽ review các cuốn sách liên quan đến quản lý và khởi nghiệp.
@@ -499,6 +556,65 @@ Hiện nay đã có vô vàn nghiên cứu về vai trò của EQ trong sự th�
 <p>Các bạn có thể thấy chỉ 2/6 là liên quan đến IQ, còn 4/6 là liên quan đến cảm xúc.</p>
 <p>Cuốn sách của Daniel Goleman về trí thông minh cảm xúc sẽ đưa bạn hiểu hơn về quá trình tiến hóa của loài người, các cảm xúc như sợ hãi, tức giận, ghê tởm, hay vui vẻ, hạnh phúc được biểu hiện trên các bộ phận cơ thể như thế nào, do ảnh hưởng từ cuộc sống săn bắt hái lượm thời xưa ra sao. Bạn sẽ hiểu hơn cách mà cảm xúc đang quyết định và đè lên các quyết định logic mà chúng ta đáng phải có như thế nào trong các tình huống hằng ngày, cũng như các thành phần của EQ và cách mà nếu một người làm chủ EQ có thể đưa bạn đến đỉnh thành công ra sao.
 Một cuốn sách rất đáng để gối đầu giường, làm chủ cảm xúc - làm chủ cuộc đời bạn nhé. Tuy nhiên mình cũng nhắn nhủ trước là sách có thể hơi hardcore với người mới đọc sách do rất nhiều thông tin nghiên cứu khoa học được kèm vào.</p>
+<p>Các bạn lưu ý do mỗi cuốn sách đều là đúc rút của mấy chục năm nghiên cứu của các tác giả, nội dung tóm tắt chỉ là tóm tắt mang tính gợi mở của mình, còn các bạn phải tự đọc và kết hợp với trải nghiệm của chính bản thân của mình, đọc đi đọc lại mới có thể thấy hết những tinh túy của các cuốn sách ở trên.</p>
+<p>Dành cho các bạn hard core hơn, có thể tham khảo thêm danh sách 150 cuốn sách được Tai Lopez khuyến khích đọc ở đây <a href="https://learn2code.dev/posts/top-150-cuon-sach-goi-dau-giuong/">Top 150 cuốn sách gối đầu giường và sách được người nổi tiếng khuyên đọc</a></p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/categories/b%C3%ACnh-lu%E1%BA%ADn-s%C3%A1ch-kh%C3%B3a-h%E1%BB%8Dc/" term="Bình luận sách &amp; khóa học" label="Bình luận sách &amp; khóa học" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/10x-engineer/" term="10x-engineer" label="10x-engineer" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/s%C3%A1ch/" term="sách" label="sách" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://learn2code.dev/tags/review/" term="review" label="review" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Đọc sách như thế nào là đúng và top 150 cuốn sách gối đầu giường cho bạn trẻ thành công</title>
+            <link rel="alternate" type="text/html" href="https://learn2code.dev/posts/top-150-cuon-sach-goi-dau-giuong/" />
+            <id>https://learn2code.dev/posts/top-150-cuon-sach-goi-dau-giuong/</id>
+            <updated>2020-04-23T18:41:12+07:00</updated>
+            <published>2020-04-19T21:11:05+07:00</published>
+            <author>
+                    <name>Lương Ngọc Long</name>
+                    <uri>https://learn2code.dev/</uri>
+                    <email>longbkit@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[Nếu bạn chưa duy trì được thói quen đọc sách, có thể dành ít phút đọc bài này để lấy thêm đọc lực đọc sách cũng như phương pháp đọc sách như thế nào cho tốt nhé Vì sao cần đọc sách mỗi ngày và cách đọc sách chuẩn]]></summary>
+            
+                <content type="html"><![CDATA[<p>Nếu bạn chưa duy trì được thói quen đọc sách, có thể dành ít phút đọc bài này để lấy thêm đọc lực đọc sách cũng như phương pháp đọc sách như thế nào cho tốt nhé <a href="https://learn2code.dev/posts/vi-sao-can-doc-sach-moi-ngay-va-cach-doc-sach-chuan/">Vì sao cần đọc sách mỗi ngày và cách đọc sách chuẩn</a></p>
+<p>Nếu bạn mới đọc sách và muốn biết đâu là top 10 cuốn sách nên đọc, mình có danh sách ưa thích của mình ở đây <a href="https://learn2code.dev/posts/danh-gia-top-10-cuon-sach-goi-dau-giuong-cho-ban-tre-viet/">Đánh giá top 10 cuốn sách gối đầu giường của bạn trẻ Việt</a></p>
 <h4 id="top-150-cuốn-sách-khuyên-đọc-của-tai-lopez">Top 150 cuốn sách khuyên đọc của Tai Lopez</h4>
 <p><a href="https://www.tailopez.com/books">https://www.tailopez.com/books</a></p>
 <p>Và đây là video TED talk tuyệt vời của Tai
