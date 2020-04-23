@@ -52,7 +52,10 @@ Với các bạn đã có thói quen đọc sách, theo mình mỗi tháng trung
 
 Còn với các bạn trước giờ đã có thói quen đọc sách thường xuyên, mình thử thách các bạn mỗi tuần đọc một cuốn sách đấy :D Vị chi mỗi năm là 52 cuốn sách nhé. Nếu bạn nghĩ có thể đọc nhanh hơn nữa, mình không cản bạn đâu.
 
+> Các bạn muốn bắt đầu đọc sách có thể tham khảo [Top 10 cuốn sách gối đầu giường của bạn trẻ Việt]({{< ref "danh-gia-top-10-cuon-sach-goi-dau-giuong-cho-ban-tre-viet.md" >}})
+
 #### Và đây là video TED talk tuyệt vời của Tai
 {{<youtube 7bB_fVDlvhc>}}
+
 
 Chúc các bạn có thể tạo được niềm đam mê, hứng thú và tò mò như một đứa trẻ với kho tàng vô giá của nhân loại.
