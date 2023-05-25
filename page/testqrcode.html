@@ -1,10 +1,41 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<head>
+  <title>Web Serial QR Code Sender</title>
+</head>
 <body>
+  <h1>Web Serial QR Code Sender</h1>
+  <button onclick="requestPort()">Request Port</button>
+  <br>
+  <textarea id="qrCodeInput" placeholder="Enter QR code data"></textarea>
+  <br>
+  <button onclick="sendQRCode()">Send QR Code</button>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+  <script>
+    async function requestPort() {
+      try {
+        const port = await navigator.serial.requestPort();
+        await port.open({ baudRate: 9600 });
+        // Store the port for later use
+        window.serialPort = port;
+        console.log('Port opened:', port);
+      } catch (error) {
+        console.error('Error requesting port:', error);
+      }
+    }
 
+    async function sendQRCode() {
+      try {
+        const qrCodeData = document.getElementById('qrCodeInput').value;
+        const encoder = new TextEncoder();
+        const writer = window.serialPort.writable.getWriter();
+        await writer.write(encoder.encode(qrCodeData));
+        await writer.close();
+        console.log('QR code data sent:', qrCodeData);
+      } catch (error) {
+        console.error('Error sending QR code data:', error);
+      }
+    }
+  </script>
 </body>
 </html>
